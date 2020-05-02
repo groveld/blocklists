@@ -1,4 +1,1 @@
-{
-  "message": "Initial Commit",
-  "status":"200"
-}
+{"ads":{"domains":{"file":"https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt","hash":"244c375bb6fe5d02920c0c026838c402b996a626"},"hosts":{"file":"https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt","hash":"ea3ed530429737b2c7bfec545ae877ea4ffaf49d"},"dnsmasq":{"file":"https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt","hash":"be70e02fca7b71869b27976a367df572c8ab0794"}}}
