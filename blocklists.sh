@@ -33,7 +33,7 @@ for dir in ./data/*/; do
 
   sort -u ./temp/${LIST}/dl.clean.list ./temp/${LIST}/black.clean.list | grep -Fxv -f ./temp/${LIST}/white.clean.list > ./temp/${LIST}/${LIST}.list
 
-  URL="https://raw.githubusercontent.com/groveld/blocklists/master"
+  URL="https://raw.githubusercontent.com/groveld/blocklists/lists"
   DATETIME=$(date -u +"%Y-%m-%d @ %T (UTC)")
   ENTRIES=$(wc -l < ./temp/${LIST}/${LIST}.list | tr -d '[:space:]')
 
