@@ -12,14 +12,14 @@ function getJsonVal() {
 JSON=$(curl -s -X GET https://raw.githubusercontent.com/groveld/blocklists/lists/lists.json)
 NEWFILE=$(echo $JSON | getJsonVal "['ads']['dnsmasq']['file']" | tr -d \")
 NEWHASH=$(echo $JSON | getJsonVal "['ads']['dnsmasq']['hash']" | tr -d \")
-OLDFILE=$(readlink -f /etc/dnsmasq.d/dnsmasq-ads.conf)
+OLDFILE=$(readlink -f /etc/dnsmasq.d/dnsmasq-block-ads.conf)
 OLDHASH=$(echo $OLDFILE | cut -d'-' -f2 | cut -d'.' -f1)
 
 [ $NEWHASH == $OLDHASH ] && echo "New list is the same as current list."; exit 0
 
 curl -s -o /config/user-data/ads-$NEWHASH.conf $NEWFILE
 
-ln -sfn /config/user-data/ads-${NEWHASH}.conf /etc/dnsmasq.d/dnsmasq-ads.conf
+ln -sfn /config/user-data/ads-${NEWHASH}.conf /etc/dnsmasq.d/dnsmasq-block-ads.conf
 
 /etc/init.d/dnsmasq force-reload
 
