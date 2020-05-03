@@ -6,24 +6,24 @@
 #!/bin/vbash
 
 function getJsonVal() {
-  python3 -c "import json,sys;sys.stdout.write(json.dumps(json.load(sys.stdin)$1))";
+  python -c "import json,sys;sys.stdout.write(json.dumps(json.load(sys.stdin)$1))";
 }
 
 JSON=$(curl -s -X GET https://raw.githubusercontent.com/groveld/blocklists/lists/lists.json)
 NEWFILE=$(echo $JSON | getJsonVal "['ads']['dnsmasq']['file']" | tr -d \")
 NEWHASH=$(echo $JSON | getJsonVal "['ads']['dnsmasq']['hash']" | tr -d \")
 OLDFILE=$(readlink -f /etc/dnsmasq.d/dnsmasq-block-ads.conf)
-OLDHASH=$(echo $OLDFILE | cut -d'-' -f2 | cut -d'.' -f1)
+OLDHASH=$(basename $OLDFILE .conf | cut -d'-' -f3)
 
-[ $NEWHASH == $OLDHASH ] && echo "New list is the same as current list."; exit 0
-
-curl -s -o /config/user-data/ads-$NEWHASH.conf $NEWFILE
-
-ln -sfn /config/user-data/ads-${NEWHASH}.conf /etc/dnsmasq.d/dnsmasq-block-ads.conf
-
-/etc/init.d/dnsmasq force-reload
-
-rm -rf $OLDFILE
-
-exit 0
+if [ "$NEWHASH" == "$OLDHASH" ]; then
+  echo "You already have the latest ads list"
+  exit 0
+else
+  curl -s -o /config/user-data/block-ads-$NEWHASH.conf $NEWFILE
+  ln -sfn /config/user-data/block-ads-$NEWHASH.conf /etc/dnsmasq.d/dnsmasq-block-ads.conf
+  /etc/init.d/dnsmasq force-reload
+  rm -rf $OLDFILE
+  echo "Finished updating ads list"
+  exit 0
+fi
 ```
