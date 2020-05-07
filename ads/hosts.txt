@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-06 @ 12:13:44 (UTC)
-# ENTRIES: 92809
+# UPDATED: 2020-05-07 @ 12:17:16 (UTC)
+# ENTRIES: 92811
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -11644,10 +11644,12 @@
 0.0.0.0 adsrv.lua.pl
 0.0.0.0 adsrv.me
 0.0.0.0 adsrv.news.com.au
+0.0.0.0 adsrv.swidnica24.pl
 0.0.0.0 adsrv.tuscaloosanews.com
 0.0.0.0 adsrv.wilmingtonstar.com
 0.0.0.0 adsrv2.brownpride.com
 0.0.0.0 adsrv2.ihlassondakika.com
+0.0.0.0 adsrv2.swidnica24.pl
 0.0.0.0 adsrv2.theledger.com
 0.0.0.0 adsrv2.wilmingtonstar.com
 0.0.0.0 adsrve.com
