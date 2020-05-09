@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-08 @ 12:16:58 (UTC)
-# ENTRIES: 92812
+# UPDATED: 2020-05-09 @ 12:15:39 (UTC)
+# ENTRIES: 92813
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -35143,6 +35143,7 @@
 0.0.0.0 fasterfiles.net
 0.0.0.0 fastfads.com
 0.0.0.0 fastfixing.tech
+0.0.0.0 fastgetsoftware.com
 0.0.0.0 fastglobaldeal.su
 0.0.0.0 fastglobalstore.com
 0.0.0.0 fasthealthgroup.ru
