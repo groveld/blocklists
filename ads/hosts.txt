@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-09 @ 12:15:39 (UTC)
-# ENTRIES: 92813
+# UPDATED: 2020-05-10 @ 12:16:23 (UTC)
+# ENTRIES: 92817
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -33330,6 +33330,7 @@
 0.0.0.0 empresarialjuridico.website
 0.0.0.0 emprestimo-negativado-online.epizy.com
 0.0.0.0 emptierbreak.xyz
+0.0.0.0 emptyescort.com
 0.0.0.0 emrebilgeyiseviyor.com
 0.0.0.0 emrlogistics.com
 0.0.0.0 ems2bmen.com
@@ -53115,6 +53116,9 @@
 0.0.0.0 myaccountsinvoiceactivity.com
 0.0.0.0 myad.clicksor.net
 0.0.0.0 myad.vn
+0.0.0.0 myads.company
+0.0.0.0 myads.net
+0.0.0.0 myads.telkomsel.com
 0.0.0.0 myadstracking.xyz
 0.0.0.0 myaetherwalet.com
 0.0.0.0 myaetherwallet.org
