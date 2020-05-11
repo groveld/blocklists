@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-10 @ 12:16:23 (UTC)
-# ENTRIES: 92817
+# UPDATED: 2020-05-11 @ 12:17:20 (UTC)
+# ENTRIES: 92819
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -72425,6 +72425,7 @@
 0.0.0.0 targeting-service.adtech.de
 0.0.0.0 targeting.adwebster.com
 0.0.0.0 targeting.influencemobile.com
+0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 targetingnow.com
@@ -74851,6 +74852,7 @@
 0.0.0.0 tracking.edvisors.com
 0.0.0.0 tracking.eforceworld.com
 0.0.0.0 tracking.engagedigitalmedia.com
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.ero-advertising.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.eurowebaffiliates.com

@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-05-10 @ 12:16:23 (UTC)
-# ENTRIES: 92817
+# UPDATED: 2020-05-11 @ 12:17:20 (UTC)
+# ENTRIES: 92819
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -72417,6 +72417,7 @@ address=/targetctracker.com/0.0.0.0
 address=/targeting-service.adtech.de/0.0.0.0
 address=/targeting.adwebster.com/0.0.0.0
 address=/targeting.influencemobile.com/0.0.0.0
+address=/targeting.nzme.arcpublishing.com/0.0.0.0
 address=/targeting.unrulymedia.com/0.0.0.0
 address=/targeting.washpost.nile.works/0.0.0.0
 address=/targetingnow.com/0.0.0.0
@@ -74843,6 +74844,7 @@ address=/tracking.eclick.vn/0.0.0.0
 address=/tracking.edvisors.com/0.0.0.0
 address=/tracking.eforceworld.com/0.0.0.0
 address=/tracking.engagedigitalmedia.com/0.0.0.0
+address=/tracking.epicgames.com/0.0.0.0
 address=/tracking.ero-advertising.com/0.0.0.0
 address=/tracking.euroads.dk/0.0.0.0
 address=/tracking.eurowebaffiliates.com/0.0.0.0
