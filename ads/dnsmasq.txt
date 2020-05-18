@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-05-17 @ 12:19:26 (UTC)
-# ENTRIES: 94933
+# UPDATED: 2020-05-18 @ 12:19:38 (UTC)
+# ENTRIES: 94934
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -94245,6 +94245,7 @@ address=/z166o1s1kfkha8gsnfm9gq.82435.com/0.0.0.0
 address=/z2.zedo.com/0.0.0.0
 address=/z2jakqoshx.com/0.0.0.0
 address=/z32538.nb.host127-0-0-1.com/0.0.0.0
+address=/z3dmbpl6309s.com/0.0.0.0
 address=/z501lpfg9x8v.com/0.0.0.0
 address=/z5jeizeu6sq7denqxhbj6mpefw.download/0.0.0.0
 address=/z5k25qb8xwhbjfhsj.gdn/0.0.0.0
