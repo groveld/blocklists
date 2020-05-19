@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-18 @ 12:19:38 (UTC)
-# ENTRIES: 94934
+# UPDATED: 2020-05-19 @ 12:21:35 (UTC)
+# ENTRIES: 94930
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -36323,7 +36323,6 @@
 0.0.0.0 firsthotreward.ru
 0.0.0.0 firstimpression.io
 0.0.0.0 firstlightera.com
-0.0.0.0 firstline.cc
 0.0.0.0 firstmedsstore.su
 0.0.0.0 firstshowing.us.intellitxt.com
 0.0.0.0 firststandardpath.com
@@ -37364,7 +37363,6 @@
 0.0.0.0 fullkanga.com
 0.0.0.0 fullplayer.pl
 0.0.0.0 fullrss.net
-0.0.0.0 fullsizechevy.com
 0.0.0.0 fullstory.com
 0.0.0.0 fullthrottlesigns.com
 0.0.0.0 fullyfurnishednyc.com
@@ -51740,7 +51738,6 @@
 0.0.0.0 memnahyaho.wildcitymedia.com
 0.0.0.0 memoclic.fr.intellitxt.com
 0.0.0.0 memoriacruzrojamadrid.org
-0.0.0.0 memoriesofalifetime.com.au
 0.0.0.0 memorix.sdv.fr
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
@@ -68732,7 +68729,6 @@
 0.0.0.0 shafiul.me
 0.0.0.0 shafou.com
 0.0.0.0 shafubasu.com
-0.0.0.0 shagarat.com
 0.0.0.0 shahee0y.beget.tech
 0.0.0.0 shahjalalbank.com
 0.0.0.0 shahtoba.faqserv.com
@@ -68762,7 +68758,6 @@
 0.0.0.0 shanko2.zyr.su
 0.0.0.0 shannahandriana.win
 0.0.0.0 shannendoherty.sexybabesx.com
-0.0.0.0 shannondensmore.com
 0.0.0.0 shannonvalenteweddings.com
 0.0.0.0 shantia.cba.pl
 0.0.0.0 shantpie.tk
@@ -78568,6 +78563,7 @@
 0.0.0.0 usevideo.adsrvr.org
 0.0.0.0 ush.adspecs.yahoo.com
 0.0.0.0 ushelpwow.net
+0.0.0.0 usibw.top
 0.0.0.0 usigns.co.za
 0.0.0.0 usilovnevcelicky.sk
 0.0.0.0 usimpdsp.mobvista.com

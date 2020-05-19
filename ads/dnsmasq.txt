@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-05-18 @ 12:19:38 (UTC)
-# ENTRIES: 94934
+# UPDATED: 2020-05-19 @ 12:21:35 (UTC)
+# ENTRIES: 94930
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -36315,7 +36315,6 @@ address=/firstgame.xyz/0.0.0.0
 address=/firsthotreward.ru/0.0.0.0
 address=/firstimpression.io/0.0.0.0
 address=/firstlightera.com/0.0.0.0
-address=/firstline.cc/0.0.0.0
 address=/firstmedsstore.su/0.0.0.0
 address=/firstshowing.us.intellitxt.com/0.0.0.0
 address=/firststandardpath.com/0.0.0.0
@@ -37356,7 +37355,6 @@ address=/fulldownload.pl/0.0.0.0
 address=/fullkanga.com/0.0.0.0
 address=/fullplayer.pl/0.0.0.0
 address=/fullrss.net/0.0.0.0
-address=/fullsizechevy.com/0.0.0.0
 address=/fullstory.com/0.0.0.0
 address=/fullthrottlesigns.com/0.0.0.0
 address=/fullyfurnishednyc.com/0.0.0.0
@@ -51732,7 +51730,6 @@ address=/mememakers.mobi/0.0.0.0
 address=/memnahyaho.wildcitymedia.com/0.0.0.0
 address=/memoclic.fr.intellitxt.com/0.0.0.0
 address=/memoriacruzrojamadrid.org/0.0.0.0
-address=/memoriesofalifetime.com.au/0.0.0.0
 address=/memorix.sdv.fr/0.0.0.0
 address=/memorizeneck.com/0.0.0.0
 address=/memorycobweb.com/0.0.0.0
@@ -68724,7 +68721,6 @@ address=/shafayat.com/0.0.0.0
 address=/shafiul.me/0.0.0.0
 address=/shafou.com/0.0.0.0
 address=/shafubasu.com/0.0.0.0
-address=/shagarat.com/0.0.0.0
 address=/shahee0y.beget.tech/0.0.0.0
 address=/shahjalalbank.com/0.0.0.0
 address=/shahtoba.faqserv.com/0.0.0.0
@@ -68754,7 +68750,6 @@ address=/shangri-la.gq/0.0.0.0
 address=/shanko2.zyr.su/0.0.0.0
 address=/shannahandriana.win/0.0.0.0
 address=/shannendoherty.sexybabesx.com/0.0.0.0
-address=/shannondensmore.com/0.0.0.0
 address=/shannonvalenteweddings.com/0.0.0.0
 address=/shantia.cba.pl/0.0.0.0
 address=/shantpie.tk/0.0.0.0
@@ -78560,6 +78555,7 @@ address=/userwebassistance.000webhostapp.com/0.0.0.0
 address=/usevideo.adsrvr.org/0.0.0.0
 address=/ush.adspecs.yahoo.com/0.0.0.0
 address=/ushelpwow.net/0.0.0.0
+address=/usibw.top/0.0.0.0
 address=/usigns.co.za/0.0.0.0
 address=/usilovnevcelicky.sk/0.0.0.0
 address=/usimpdsp.mobvista.com/0.0.0.0
