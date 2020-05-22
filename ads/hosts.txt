@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-21 @ 12:21:13 (UTC)
-# ENTRIES: 94865
+# UPDATED: 2020-05-22 @ 12:21:13 (UTC)
+# ENTRIES: 94867
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -41088,6 +41088,7 @@
 0.0.0.0 hobbytotaalservice.nl
 0.0.0.0 hobbyworkshop.com
 0.0.0.0 hobromusic.com
+0.0.0.0 hocgeese.com
 0.0.0.0 hochumilfu.xyz
 0.0.0.0 hoclaptrinhfree.com
 0.0.0.0 hocomserv.com
@@ -75246,6 +75247,7 @@
 0.0.0.0 tk.baidu.com
 0.0.0.0 tk.graphinsider.com
 0.0.0.0 tk.mobri.jp
+0.0.0.0 tkbo.com
 0.0.0.0 tkcatwalk.aotter.net
 0.0.0.0 tkenzy.com
 0.0.0.0 tkimpdsp.mobvista.com

@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-05-21 @ 12:21:13 (UTC)
-# ENTRIES: 94865
+# UPDATED: 2020-05-22 @ 12:21:13 (UTC)
+# ENTRIES: 94867
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -41080,6 +41080,7 @@ address=/hobby-hangar.net/0.0.0.0
 address=/hobbytotaalservice.nl/0.0.0.0
 address=/hobbyworkshop.com/0.0.0.0
 address=/hobromusic.com/0.0.0.0
+address=/hocgeese.com/0.0.0.0
 address=/hochumilfu.xyz/0.0.0.0
 address=/hoclaptrinhfree.com/0.0.0.0
 address=/hocomserv.com/0.0.0.0
@@ -75238,6 +75239,7 @@ address=/tk.ads.mmondi.com/0.0.0.0
 address=/tk.baidu.com/0.0.0.0
 address=/tk.graphinsider.com/0.0.0.0
 address=/tk.mobri.jp/0.0.0.0
+address=/tkbo.com/0.0.0.0
 address=/tkcatwalk.aotter.net/0.0.0.0
 address=/tkenzy.com/0.0.0.0
 address=/tkimpdsp.mobvista.com/0.0.0.0
