@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-22 @ 12:21:13 (UTC)
-# ENTRIES: 94867
+# UPDATED: 2020-05-23 @ 12:21:44 (UTC)
+# ENTRIES: 94869
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -29133,6 +29133,7 @@
 0.0.0.0 cybermarine.in
 0.0.0.0 cybermecca.com
 0.0.0.0 cybermonitor.com
+0.0.0.0 cyberprotection.pro
 0.0.0.0 cyberscat.com
 0.0.0.0 cybersport.push4site.com
 0.0.0.0 cybertechcomputo.com
@@ -62106,6 +62107,7 @@
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
 0.0.0.0 proper.io
+0.0.0.0 properatersch.fun
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 properties.northviewcreative.com
 0.0.0.0 propertikoting.com

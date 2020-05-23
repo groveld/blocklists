@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-05-22 @ 12:21:13 (UTC)
-# ENTRIES: 94867
+# UPDATED: 2020-05-23 @ 12:21:44 (UTC)
+# ENTRIES: 94869
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -29125,6 +29125,7 @@ address=/cybermagicindia.com/0.0.0.0
 address=/cybermarine.in/0.0.0.0
 address=/cybermecca.com/0.0.0.0
 address=/cybermonitor.com/0.0.0.0
+address=/cyberprotection.pro/0.0.0.0
 address=/cyberscat.com/0.0.0.0
 address=/cybersport.push4site.com/0.0.0.0
 address=/cybertechcomputo.com/0.0.0.0
@@ -62098,6 +62099,7 @@ address=/propellerads.com/0.0.0.0
 address=/propellerclick.com/0.0.0.0
 address=/propellerpops.com/0.0.0.0
 address=/proper.io/0.0.0.0
+address=/properatersch.fun/0.0.0.0
 address=/propermedia-d.openx.net/0.0.0.0
 address=/properties.northviewcreative.com/0.0.0.0
 address=/propertikoting.com/0.0.0.0
