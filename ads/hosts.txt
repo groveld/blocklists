@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-25 @ 12:22:05 (UTC)
-# ENTRIES: 94869
+# UPDATED: 2020-05-26 @ 12:25:02 (UTC)
+# ENTRIES: 94884
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -4666,6 +4666,7 @@
 0.0.0.0 ad.mx.doubleclick.net
 0.0.0.0 ad.my.doubleclick.be
 0.0.0.0 ad.my.doubleclick.net
+0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.mygamesol.com
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.mylinea.com
@@ -8281,6 +8282,7 @@
 0.0.0.0 ads.cjonline.com
 0.0.0.0 ads.clamav.net
 0.0.0.0 ads.clara.net
+0.0.0.0 ads.clasificadox.com
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.cleveland.com
 0.0.0.0 ads.click2paid.com
@@ -9232,6 +9234,7 @@
 0.0.0.0 ads.printscr.com
 0.0.0.0 ads.prisacom.com
 0.0.0.0 ads.privatefeeds.com
+0.0.0.0 ads.privatemedia.co
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.pro-market.net.edgesuite.net
 0.0.0.0 ads.proboards.com
@@ -9262,6 +9265,7 @@
 0.0.0.0 ads.rackshack.net
 0.0.0.0 ads.racunalniske-novice.com
 0.0.0.0 ads.radar.bg
+0.0.0.0 ads.radio1.lv
 0.0.0.0 ads.radioactive.se
 0.0.0.0 ads.rampidads.com
 0.0.0.0 ads.rasmussenreports.com
@@ -9382,6 +9386,7 @@
 0.0.0.0 ads.silverdisc.co.uk
 0.0.0.0 ads.simpleads.com.br
 0.0.0.0 ads.simpli.fi
+0.0.0.0 ads.simplyhired.com
 0.0.0.0 ads.simtel.com
 0.0.0.0 ads.simtel.net
 0.0.0.0 ads.sina.com
@@ -11196,6 +11201,7 @@
 0.0.0.0 adserver.dbusiness.com
 0.0.0.0 adserver.developersnetwork.com
 0.0.0.0 adserver.devx.com
+0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitalmedianet.com
 0.0.0.0 adserver.digitalpartners.com
 0.0.0.0 adserver.digitoday.com
@@ -11492,6 +11498,7 @@
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserverus.info
 0.0.0.0 adserverwc.adtechus.com
+0.0.0.0 adserverxxl.de
 0.0.0.0 adservetx.media.net
 0.0.0.0 adservex.media.net
 0.0.0.0 adservice.aliexpress.com
@@ -18786,6 +18793,7 @@
 0.0.0.0 banner.fyber.com
 0.0.0.0 banner.getgo.de
 0.0.0.0 banner.goldenpalace.com
+0.0.0.0 banner.grandefm.com.br
 0.0.0.0 banner.grupos.com.br
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.img.co.za
@@ -18856,6 +18864,7 @@
 0.0.0.0 banner1.axelsfun.com
 0.0.0.0 banner1.inet-traffic.com
 0.0.0.0 banner1.pornhost.com
+0.0.0.0 banner10.zetasystem.dk
 0.0.0.0 banner2.axelsfun.com
 0.0.0.0 banner2.babenet.be
 0.0.0.0 banner2.inet-traffic.com
@@ -19006,6 +19015,7 @@
 0.0.0.0 banners.germanfriendfinder.com
 0.0.0.0 banners.getiton.com
 0.0.0.0 banners.globovision.com
+0.0.0.0 banners.golfasian.com
 0.0.0.0 banners.hornywife.com
 0.0.0.0 banners.host.bannerflow.com
 0.0.0.0 banners.hotlinks.net
@@ -41809,6 +41819,7 @@
 0.0.0.0 i-generation.jp
 0.0.0.0 i-growth.com
 0.0.0.0 i-hacked.us.intellitxt.com
+0.0.0.0 i-i.lt
 0.0.0.0 i-idappleupdate.com
 0.0.0.0 i-ksiazka.pl
 0.0.0.0 i-l.ligatus.com
@@ -70824,6 +70835,7 @@
 0.0.0.0 sports.ign.us.intellitxt.com
 0.0.0.0 sports.msnbc.us.intellitxt.com
 0.0.0.0 sports.rightpundits.us.intellitxt.com
+0.0.0.0 sportsad.net
 0.0.0.0 sportsbettingaustralia.com
 0.0.0.0 sportscarillustrated.us.intellitxt.com
 0.0.0.0 sportscatchup.com
@@ -75071,6 +75083,7 @@
 0.0.0.0 thymetogrowessentials.com
 0.0.0.0 thyrednh.000webhostapp.com
 0.0.0.0 thz.nadvpnu.com
+0.0.0.0 ti.domainforlite.com
 0.0.0.0 ti.impact-ad.jp
 0.0.0.0 ti.tradetracker.net
 0.0.0.0 ti.tradetracker.nl
@@ -78627,6 +78640,7 @@
 0.0.0.0 utube.ml
 0.0.0.0 utucxoiivyt.com
 0.0.0.0 utzpkru.411.com1.ru
+0.0.0.0 uu.domainforlite.com
 0.0.0.0 uucome.com
 0.0.0.0 uucxyfhvcoeyueknxs.click
 0.0.0.0 uunyadgda1.doubleclick.net
@@ -93499,6 +93513,7 @@
 0.0.0.0 xtainment.net
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtqizu.com
+0.0.0.0 xtracker.logimeter.com
 0.0.0.0 xtrader-cm.admaster.com.cn
 0.0.0.0 xtrader.cm.admaster.com.cn
 0.0.0.0 xtrafic.ro
