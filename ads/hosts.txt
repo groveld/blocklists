@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-05-29 @ 12:25:14 (UTC)
-# ENTRIES: 94589
+# UPDATED: 2020-05-30 @ 12:28:00 (UTC)
+# ENTRIES: 94591
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -4571,6 +4571,7 @@
 0.0.0.0 ad.it.doubleclick.net
 0.0.0.0 ad.ittoolbox.com
 0.0.0.0 ad.iwin.com
+0.0.0.0 ad.jacotei.com.br
 0.0.0.0 ad.jamba.de
 0.0.0.0 ad.jamba.it
 0.0.0.0 ad.jamba.net
@@ -4909,6 +4910,7 @@
 0.0.0.0 ad.xertive.com
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.ximalaya.com
+0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xplusone.com
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.xtendmedia.com
