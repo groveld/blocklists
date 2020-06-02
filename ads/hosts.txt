@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-01 @ 12:25:39 (UTC)
-# ENTRIES: 94591
+# UPDATED: 2020-06-02 @ 12:26:43 (UTC)
+# ENTRIES: 94592
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -81156,6 +81156,7 @@
 0.0.0.0 wetjane.x10.mx
 0.0.0.0 wetpaint-d.openx.net
 0.0.0.0 wetrack.it
+0.0.0.0 wetransf.online
 0.0.0.0 wetransfer-d.openx.net
 0.0.0.0 wetransfer.net.ronaldkuwawi.id.au
 0.0.0.0 wetransfer.nets.ronaldkuwawi.id.au
