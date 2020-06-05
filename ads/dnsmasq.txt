@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-04 @ 12:27:29 (UTC)
-# ENTRIES: 94736
+# UPDATED: 2020-06-05 @ 12:30:36 (UTC)
+# ENTRIES: 94737
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -76320,6 +76320,7 @@ address=/tracking-sj2.cj.com/0.0.0.0
 address=/tracking-stvde.adsafety.net/0.0.0.0
 address=/tracking-thirdparty.i2w.io/0.0.0.0
 address=/tracking.1-a1502-bi.co.uk/0.0.0.0
+address=/tracking.1-kv015-ap.co.uk/0.0.0.0
 address=/tracking.10e20.com/0.0.0.0
 address=/tracking.1betternetwork.com/0.0.0.0
 address=/tracking.3com.com/0.0.0.0
