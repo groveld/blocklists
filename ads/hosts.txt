@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-08 @ 12:30:09 (UTC)
-# ENTRIES: 94737
+# UPDATED: 2020-06-09 @ 12:30:46 (UTC)
+# ENTRIES: 94738
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -23404,6 +23404,7 @@
 0.0.0.0 callmd5map.com
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
+0.0.0.0 calmcactus.com
 0.0.0.0 caloaksgc.com
 0.0.0.0 calodobowe-wiadomosci-pl.eu
 0.0.0.0 calouskype.over-blog.com
