@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-11 @ 12:34:10 (UTC)
-# ENTRIES: 94652
+# UPDATED: 2020-06-12 @ 12:32:42 (UTC)
+# ENTRIES: 94653
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -70141,6 +70141,7 @@
 0.0.0.0 sneakersytanie.pl
 0.0.0.0 sneakervclub.com
 0.0.0.0 sneakyboy.com
+0.0.0.0 sneakystamp.com
 0.0.0.0 sneckershatch.5gbfree.com
 0.0.0.0 snews.admicro.vn
 0.0.0.0 snews.aiservice.vn
