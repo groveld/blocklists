@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-12 @ 12:32:42 (UTC)
-# ENTRIES: 94653
+# UPDATED: 2020-06-13 @ 12:32:32 (UTC)
+# ENTRIES: 94654
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -41541,6 +41541,7 @@
 0.0.0.0 hrtya.com
 0.0.0.0 hryspap.cn
 0.0.0.0 hs-analytics.net
+0.0.0.0 hs-banner.com
 0.0.0.0 hs.interpolls.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 hsb-canada.com

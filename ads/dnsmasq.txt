@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-12 @ 12:32:42 (UTC)
-# ENTRIES: 94653
+# UPDATED: 2020-06-13 @ 12:32:32 (UTC)
+# ENTRIES: 94654
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -41533,6 +41533,7 @@ address=/hrsoft.asia/0.0.0.0
 address=/hrtya.com/0.0.0.0
 address=/hryspap.cn/0.0.0.0
 address=/hs-analytics.net/0.0.0.0
+address=/hs-banner.com/0.0.0.0
 address=/hs.interpolls.com/0.0.0.0
 address=/hsadspixel.net/0.0.0.0
 address=/hsb-canada.com/0.0.0.0
