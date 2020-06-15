@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-14 @ 12:32:39 (UTC)
-# ENTRIES: 94654
+# UPDATED: 2020-06-15 @ 12:33:35 (UTC)
+# ENTRIES: 94657
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -40002,6 +40002,7 @@ address=/habaapac.com/0.0.0.0
 address=/habija0t.beget.tech/0.0.0.0
 address=/habilitacaodetoken.com.br/0.0.0.0
 address=/habitatbakersfield.org/0.0.0.0
+address=/habitualhumor.com/0.0.0.0
 address=/hablabestop.live/0.0.0.0
 address=/haciaresort.com/0.0.0.0
 address=/hackairtel.tk/0.0.0.0
@@ -57769,6 +57770,7 @@ address=/openads.nightlifemagazine.ca/0.0.0.0
 address=/openads.org/0.0.0.0
 address=/openads.smithmag.net/0.0.0.0
 address=/openads.zeads.com/0.0.0.0
+address=/openadsnetwork.com/0.0.0.0
 address=/openadstream-eu1.247realmedia.com/0.0.0.0
 address=/openamp-error-reporting.appspot.com/0.0.0.0
 address=/openapi.cymera.com/0.0.0.0
@@ -57836,6 +57838,7 @@ address=/openx.omniton.net/0.0.0.0
 address=/openx.org/0.0.0.0
 address=/openx.sexsearchcom.com/0.0.0.0
 address=/openx.shinyads.com/0.0.0.0
+address=/openx.smcaen.fr/0.0.0.0
 address=/openx.stand.bg/0.0.0.0
 address=/openx.trellian.com/0.0.0.0
 address=/openx.vizzia.bg/0.0.0.0

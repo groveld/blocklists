@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-14 @ 12:32:39 (UTC)
-# ENTRIES: 94654
+# UPDATED: 2020-06-15 @ 12:33:35 (UTC)
+# ENTRIES: 94657
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -40010,6 +40010,7 @@
 0.0.0.0 habija0t.beget.tech
 0.0.0.0 habilitacaodetoken.com.br
 0.0.0.0 habitatbakersfield.org
+0.0.0.0 habitualhumor.com
 0.0.0.0 hablabestop.live
 0.0.0.0 haciaresort.com
 0.0.0.0 hackairtel.tk
@@ -57777,6 +57778,7 @@
 0.0.0.0 openads.org
 0.0.0.0 openads.smithmag.net
 0.0.0.0 openads.zeads.com
+0.0.0.0 openadsnetwork.com
 0.0.0.0 openadstream-eu1.247realmedia.com
 0.0.0.0 openamp-error-reporting.appspot.com
 0.0.0.0 openapi.cymera.com
@@ -57844,6 +57846,7 @@
 0.0.0.0 openx.org
 0.0.0.0 openx.sexsearchcom.com
 0.0.0.0 openx.shinyads.com
+0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx.stand.bg
 0.0.0.0 openx.trellian.com
 0.0.0.0 openx.vizzia.bg
