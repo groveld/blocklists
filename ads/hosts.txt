@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-17 @ 12:39:03 (UTC)
-# ENTRIES: 94893
+# UPDATED: 2020-06-18 @ 12:39:57 (UTC)
+# ENTRIES: 94901
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -3388,6 +3388,7 @@
 0.0.0.0 aavis.com
 0.0.0.0 aawesomename.xyz
 0.0.0.0 aax-cpm.amazon-adsystem.com
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -14756,6 +14757,7 @@
 0.0.0.0 analytics.informationweek.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.jumboprivacy.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kingoapp.com
@@ -14888,6 +14890,7 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics02.metalocator.com
 0.0.0.0 analyticsapi.bsbportal.com
+0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analyticssl.clickpathmedia.com
 0.0.0.0 analyticsv2.dol.gr
 0.0.0.0 analyticworks.ca
@@ -19175,6 +19178,7 @@
 0.0.0.0 bannersxchange.com
 0.0.0.0 bannert.ru
 0.0.0.0 bannertesting.com
+0.0.0.0 bannertrack.net
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 bannerus2.axelsfun.com
 0.0.0.0 bannerus3.axelsfun.com
@@ -27544,6 +27548,7 @@
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 connect.urbanairship.com
 0.0.0.0 connect5364.com
+0.0.0.0 connectad.io
 0.0.0.0 connecthospital.com
 0.0.0.0 connectievastleggen.nl
 0.0.0.0 connectionlead.com
@@ -69573,6 +69578,7 @@
 0.0.0.0 siteikj.ru
 0.0.0.0 siteikjncjyhd.info
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteimproveanalytics.io
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 siteinterceptco1.qualtrics.com
 0.0.0.0 siteiwj.cn
@@ -73742,6 +73748,7 @@
 0.0.0.0 tag.hockeycurve.com
 0.0.0.0 tag.imonomy.com
 0.0.0.0 tag.leadplace.fr
+0.0.0.0 tag.links-analytics.com
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.navdmp.com
@@ -81993,6 +82000,7 @@
 0.0.0.0 worldtus.com
 0.0.0.0 worldviewsproject.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 worldwidedigitalads.com
 0.0.0.0 wormaldblog.com.au.product.lakesmotorcycleclub.com
 0.0.0.0 wormgush.com
 0.0.0.0 worriednumber.com

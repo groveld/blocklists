@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-17 @ 12:39:03 (UTC)
-# ENTRIES: 94893
+# UPDATED: 2020-06-18 @ 12:39:57 (UTC)
+# ENTRIES: 94901
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -3380,6 +3380,7 @@ address=/aavc.com/0.0.0.0
 address=/aavis.com/0.0.0.0
 address=/aawesomename.xyz/0.0.0.0
 address=/aax-cpm.amazon-adsystem.com/0.0.0.0
+address=/aax-eu-dub.amazon.com/0.0.0.0
 address=/aax-eu.amazon-adsystem.com/0.0.0.0
 address=/aax-us-east-rtb.amazon-adsystem.com/0.0.0.0
 address=/aax-us-east.amazon-adsystem.com/0.0.0.0
@@ -14748,6 +14749,7 @@ address=/analytics.inform.com/0.0.0.0
 address=/analytics.informationweek.com/0.0.0.0
 address=/analytics.inlinemanual.com/0.0.0.0
 address=/analytics.jabong.com/0.0.0.0
+address=/analytics.jst.ai/0.0.0.0
 address=/analytics.jumboprivacy.com/0.0.0.0
 address=/analytics.kaltura.com/0.0.0.0
 address=/analytics.kingoapp.com/0.0.0.0
@@ -14880,6 +14882,7 @@ address=/analytics.zg-api.com/0.0.0.0
 address=/analytics.ziftsolutions.com/0.0.0.0
 address=/analytics02.metalocator.com/0.0.0.0
 address=/analyticsapi.bsbportal.com/0.0.0.0
+address=/analyticsapi.happypancake.net/0.0.0.0
 address=/analyticssl.clickpathmedia.com/0.0.0.0
 address=/analyticsv2.dol.gr/0.0.0.0
 address=/analyticworks.ca/0.0.0.0
@@ -19167,6 +19170,7 @@ address=/bannerswap.com/0.0.0.0
 address=/bannersxchange.com/0.0.0.0
 address=/bannert.ru/0.0.0.0
 address=/bannertesting.com/0.0.0.0
+address=/bannertrack.net/0.0.0.0
 address=/bannerus1.axelsfun.com/0.0.0.0
 address=/bannerus2.axelsfun.com/0.0.0.0
 address=/bannerus3.axelsfun.com/0.0.0.0
@@ -27536,6 +27540,7 @@ address=/connect.securelauthlogin.dolpresent-origin.cobllob.cons.maiamotos.com.b
 address=/connect.tapjoy.com/0.0.0.0
 address=/connect.urbanairship.com/0.0.0.0
 address=/connect5364.com/0.0.0.0
+address=/connectad.io/0.0.0.0
 address=/connecthospital.com/0.0.0.0
 address=/connectievastleggen.nl/0.0.0.0
 address=/connectionlead.com/0.0.0.0
@@ -69565,6 +69570,7 @@ address=/sitegovernanceinc.000webhostapp.com/0.0.0.0
 address=/siteikj.ru/0.0.0.0
 address=/siteikjncjyhd.info/0.0.0.0
 address=/siteimproveanalytics.com/0.0.0.0
+address=/siteimproveanalytics.io/0.0.0.0
 address=/siteintercept.qualtrics.com/0.0.0.0
 address=/siteinterceptco1.qualtrics.com/0.0.0.0
 address=/siteiwj.cn/0.0.0.0
@@ -73734,6 +73740,7 @@ address=/tag.getdrip.com/0.0.0.0
 address=/tag.hockeycurve.com/0.0.0.0
 address=/tag.imonomy.com/0.0.0.0
 address=/tag.leadplace.fr/0.0.0.0
+address=/tag.links-analytics.com/0.0.0.0
 address=/tag.marinsm.com/0.0.0.0
 address=/tag.mtrcs.samba.tv/0.0.0.0
 address=/tag.navdmp.com/0.0.0.0
@@ -81985,6 +81992,7 @@ address=/worldtravelguide.uk.intellitxt.com/0.0.0.0
 address=/worldtus.com/0.0.0.0
 address=/worldviewsproject.com/0.0.0.0
 address=/worldwide-cash.net/0.0.0.0
+address=/worldwidedigitalads.com/0.0.0.0
 address=/wormaldblog.com.au.product.lakesmotorcycleclub.com/0.0.0.0
 address=/wormgush.com/0.0.0.0
 address=/worriednumber.com/0.0.0.0
