@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-18 @ 12:39:57 (UTC)
-# ENTRIES: 94901
+# UPDATED: 2020-06-19 @ 12:36:57 (UTC)
+# ENTRIES: 94903
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -3292,6 +3292,7 @@
 0.0.0.0 aa-d.openx.net
 0.0.0.0 aa-gb.marketgid.com
 0.0.0.0 aa-gb.mgid.com
+0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aa-nb.marketgid.com
 0.0.0.0 aa.adfarm1.adition.com
 0.0.0.0 aa.agkn.com
@@ -35463,6 +35464,7 @@
 0.0.0.0 faq.carpediem.fr
 0.0.0.0 faqts.us.intellitxt.com
 0.0.0.0 far0m.somaliaworking.org
+0.0.0.0 faracoon.com
 0.0.0.0 faraweel.com
 0.0.0.0 farbybialystok.pl
 0.0.0.0 farcbook.000webhostapp.com
