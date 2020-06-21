@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt
-# UPDATED: 2020-06-20 @ 12:36:56 (UTC)
-# ENTRIES: 94903
+# UPDATED: 2020-06-21 @ 12:36:58 (UTC)
+# ENTRIES: 94906
 
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -4505,6 +4505,7 @@ ad.groupon.fr
 ad.groupon.net
 ad.groupon.nl
 ad.groupon.pl
+ad.gt
 ad.gt.doubleclick.net
 ad.gunosy.com
 ad.hankooki.com
@@ -31045,6 +31046,7 @@ dir.opank.com
 diranproductions.com
 dirbg.hit.gemius.pl
 direcong.com
+direct-events-collector.spot.im
 direct-ing-france.me
 direct-xxx-access.com
 direct.adsrvr.org
@@ -62706,6 +62708,7 @@ publift.fuseplatform.net
 publir-d.openx.net
 publish.bonzaii.no
 publish.webmasterbond.com
+publisher-assets.spot.im
 publisher-config.unityads.unity3d.com
 publisher-demos.sharethrough.com
 publisher-event.unityads.unity3d.com

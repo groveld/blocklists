@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-20 @ 12:36:56 (UTC)
-# ENTRIES: 94903
+# UPDATED: 2020-06-21 @ 12:36:58 (UTC)
+# ENTRIES: 94906
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -4505,6 +4505,7 @@ address=/ad.groupon.fr/0.0.0.0
 address=/ad.groupon.net/0.0.0.0
 address=/ad.groupon.nl/0.0.0.0
 address=/ad.groupon.pl/0.0.0.0
+address=/ad.gt/0.0.0.0
 address=/ad.gt.doubleclick.net/0.0.0.0
 address=/ad.gunosy.com/0.0.0.0
 address=/ad.hankooki.com/0.0.0.0
@@ -31045,6 +31046,7 @@ address=/dir.opank.com/0.0.0.0
 address=/diranproductions.com/0.0.0.0
 address=/dirbg.hit.gemius.pl/0.0.0.0
 address=/direcong.com/0.0.0.0
+address=/direct-events-collector.spot.im/0.0.0.0
 address=/direct-ing-france.me/0.0.0.0
 address=/direct-xxx-access.com/0.0.0.0
 address=/direct.adsrvr.org/0.0.0.0
@@ -62706,6 +62708,7 @@ address=/publift.fuseplatform.net/0.0.0.0
 address=/publir-d.openx.net/0.0.0.0
 address=/publish.bonzaii.no/0.0.0.0
 address=/publish.webmasterbond.com/0.0.0.0
+address=/publisher-assets.spot.im/0.0.0.0
 address=/publisher-config.unityads.unity3d.com/0.0.0.0
 address=/publisher-demos.sharethrough.com/0.0.0.0
 address=/publisher-event.unityads.unity3d.com/0.0.0.0

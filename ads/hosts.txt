@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-20 @ 12:36:56 (UTC)
-# ENTRIES: 94903
+# UPDATED: 2020-06-21 @ 12:36:58 (UTC)
+# ENTRIES: 94906
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -4513,6 +4513,7 @@
 0.0.0.0 ad.groupon.net
 0.0.0.0 ad.groupon.nl
 0.0.0.0 ad.groupon.pl
+0.0.0.0 ad.gt
 0.0.0.0 ad.gt.doubleclick.net
 0.0.0.0 ad.gunosy.com
 0.0.0.0 ad.hankooki.com
@@ -31053,6 +31054,7 @@
 0.0.0.0 diranproductions.com
 0.0.0.0 dirbg.hit.gemius.pl
 0.0.0.0 direcong.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-ing-france.me
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adsrvr.org
@@ -62714,6 +62716,7 @@
 0.0.0.0 publir-d.openx.net
 0.0.0.0 publish.bonzaii.no
 0.0.0.0 publish.webmasterbond.com
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 publisher-demos.sharethrough.com
 0.0.0.0 publisher-event.unityads.unity3d.com
