@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-21 @ 12:36:58 (UTC)
-# ENTRIES: 94906
+# UPDATED: 2020-06-22 @ 12:37:14 (UTC)
+# ENTRIES: 94910
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -9019,6 +9019,7 @@
 0.0.0.0 ads.musiccity.com
 0.0.0.0 ads.musicfans.com
 0.0.0.0 ads.musicmatch.com
+0.0.0.0 ads.muslimehelfen.org
 0.0.0.0 ads.mustangworks.com
 0.0.0.0 ads.mybale.com
 0.0.0.0 ads.mybannerswap.com
@@ -9036,6 +9037,7 @@
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 ads.nativeinstruments.de
 0.0.0.0 ads.nc.cname.inmobi.com
+0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.neg.bg
@@ -9221,6 +9223,7 @@
 0.0.0.0 ads.portlandmercury.com
 0.0.0.0 ads.postimees.ee
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.ppvmedien.de
 0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.premium.cz
 0.0.0.0 ads.premiumaccounts.com
@@ -11178,6 +11181,7 @@
 0.0.0.0 adserver.buzzfirst.com
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.cantv.net
+0.0.0.0 adserver.cdnstream.com
 0.0.0.0 adserver.cebu-online.com
 0.0.0.0 adserver.cheatplanet.com
 0.0.0.0 adserver.chickclick.com

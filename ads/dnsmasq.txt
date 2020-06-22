@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-21 @ 12:36:58 (UTC)
-# ENTRIES: 94906
+# UPDATED: 2020-06-22 @ 12:37:14 (UTC)
+# ENTRIES: 94910
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -9011,6 +9011,7 @@ address=/ads.multimania.lycos.fr/0.0.0.0
 address=/ads.musiccity.com/0.0.0.0
 address=/ads.musicfans.com/0.0.0.0
 address=/ads.musicmatch.com/0.0.0.0
+address=/ads.muslimehelfen.org/0.0.0.0
 address=/ads.mustangworks.com/0.0.0.0
 address=/ads.mybale.com/0.0.0.0
 address=/ads.mybannerswap.com/0.0.0.0
@@ -9028,6 +9029,7 @@ address=/ads.nationalreview.com/0.0.0.0
 address=/ads.nationchannel.com/0.0.0.0
 address=/ads.nativeinstruments.de/0.0.0.0
 address=/ads.nc.cname.inmobi.com/0.0.0.0
+address=/ads.nccwebs.com/0.0.0.0
 address=/ads.ncm.com/0.0.0.0
 address=/ads.ndtv1.com/0.0.0.0
 address=/ads.neg.bg/0.0.0.0
@@ -9213,6 +9215,7 @@ address=/ads.pornerbros.com/0.0.0.0
 address=/ads.portlandmercury.com/0.0.0.0
 address=/ads.postimees.ee/0.0.0.0
 address=/ads.powweb.com/0.0.0.0
+address=/ads.ppvmedien.de/0.0.0.0
 address=/ads.praguetv.cz/0.0.0.0
 address=/ads.premium.cz/0.0.0.0
 address=/ads.premiumaccounts.com/0.0.0.0
@@ -11170,6 +11173,7 @@ address=/adserver.buttonware.net/0.0.0.0
 address=/adserver.buzzfirst.com/0.0.0.0
 address=/adserver.cams.com/0.0.0.0
 address=/adserver.cantv.net/0.0.0.0
+address=/adserver.cdnstream.com/0.0.0.0
 address=/adserver.cebu-online.com/0.0.0.0
 address=/adserver.cheatplanet.com/0.0.0.0
 address=/adserver.chickclick.com/0.0.0.0
