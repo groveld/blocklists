@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-23 @ 12:37:40 (UTC)
-# ENTRIES: 94772
+# UPDATED: 2020-06-24 @ 12:38:25 (UTC)
+# ENTRIES: 94785
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -3296,6 +3296,7 @@
 0.0.0.0 aa-d.openx.net
 0.0.0.0 aa-gb.marketgid.com
 0.0.0.0 aa-gb.mgid.com
+0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aa-nb.marketgid.com
 0.0.0.0 aa.adfarm1.adition.com
@@ -4662,6 +4663,7 @@
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.mobadme.jp
 0.0.0.0 ad.mobilike.com
+0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.moo-mam-tai.com
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.moscowtimes.ru
@@ -8400,6 +8402,7 @@
 0.0.0.0 ads.developershed.com
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.devicebondage.com
+0.0.0.0 ads.devmates.com
 0.0.0.0 ads.devx.com
 0.0.0.0 ads.dgonn.com
 0.0.0.0 ads.dichtbij.adhese.com
@@ -8521,6 +8524,7 @@
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fark.com
+0.0.0.0 ads.fastcomgroup.it
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.fatvine.com
 0.0.0.0 ads.faxo.com
@@ -8561,6 +8565,7 @@
 0.0.0.0 ads.forbes.com
 0.0.0.0 ads.forbes.net
 0.0.0.0 ads.forium.de
+0.0.0.0 ads.formit.cz
 0.0.0.0 ads.fortunecity.co.uk
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fortunecity.de
@@ -9155,6 +9160,7 @@
 0.0.0.0 ads.osdn.com
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.oxymoronent.com
+0.0.0.0 ads.oxyshop.cz
 0.0.0.0 ads.p.veruta.com
 0.0.0.0 ads.p161.net
 0.0.0.0 ads.pagina12.com.ar
@@ -9415,6 +9421,7 @@
 0.0.0.0 ads.singlescash.com
 0.0.0.0 ads.sitemeter.com
 0.0.0.0 ads.sixapart.com
+0.0.0.0 ads.sjon.info
 0.0.0.0 ads.skelbiu.lt
 0.0.0.0 ads.skinected.com
 0.0.0.0 ads.skupe.net
@@ -9470,6 +9477,7 @@
 0.0.0.0 ads.sprout-ad.com
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.spymac.net
+0.0.0.0 ads.squarecrop.net
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.standartnews.com
 0.0.0.0 ads.starbanner.com
@@ -11170,6 +11178,7 @@
 0.0.0.0 adserver.alt.com
 0.0.0.0 adserver.amna.gr
 0.0.0.0 adserver.amnews.com
+0.0.0.0 adserver.anawe.cz
 0.0.0.0 adserver.ancestry.com
 0.0.0.0 adserver.anemo.com
 0.0.0.0 adserver.anm.co.uk
@@ -11183,6 +11192,7 @@
 0.0.0.0 adserver.atdnetwork.com
 0.0.0.0 adserver.b2c.com
 0.0.0.0 adserver.barrapunto.com
+0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.beggarspromo.com
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.billiger-surfen.de
@@ -11347,6 +11357,7 @@
 0.0.0.0 adserver.monstersandcritics.com
 0.0.0.0 adserver.motonews.pl
 0.0.0.0 adserver.motorpresse.de
+0.0.0.0 adserver.msmb.biz
 0.0.0.0 adserver.mylinea.com
 0.0.0.0 adserver.myownemail.com
 0.0.0.0 adserver.netcollex.co.uk
@@ -17313,6 +17324,7 @@
 0.0.0.0 aseanlegaltech.com
 0.0.0.0 aseanstore.com
 0.0.0.0 aser.comscore.com
+0.0.0.0 aserv.motorsgate.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 aservitel.com
 0.0.0.0 asess.com.mx
@@ -93124,6 +93136,7 @@
 0.0.0.0 xfeedback.scloud.lfengmobile.com
 0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 xfreelesbianmovies.com.powered-by.securewebsiteaccess.com
+0.0.0.0 xfreeservice.com
 0.0.0.0 xft5ui5gr5.is-gone.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xgames-04.com
