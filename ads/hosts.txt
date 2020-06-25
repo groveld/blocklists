@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-24 @ 12:38:25 (UTC)
-# ENTRIES: 94785
+# UPDATED: 2020-06-25 @ 12:40:53 (UTC)
+# ENTRIES: 94801
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -5726,6 +5726,7 @@
 0.0.0.0 ad2.nationalreview.com
 0.0.0.0 ad2.nend.net
 0.0.0.0 ad2.neodatagroup.com
+0.0.0.0 ad2.netriota.hu
 0.0.0.0 ad2.netshelter.net
 0.0.0.0 ad2.nmm.de
 0.0.0.0 ad2.pamedia.com
@@ -8084,6 +8085,7 @@
 0.0.0.0 ads.appnext.com
 0.0.0.0 ads.appota.com
 0.0.0.0 ads.appsgeyser.com
+0.0.0.0 ads.apteka254.ru
 0.0.0.0 ads.araba.com
 0.0.0.0 ads.aralego.com
 0.0.0.0 ads.arcadechain.com
@@ -8277,6 +8279,7 @@
 0.0.0.0 ads.channel4.com
 0.0.0.0 ads.chargeads.com
 0.0.0.0 ads.chartboosts.com
+0.0.0.0 ads.cheabit.com
 0.0.0.0 ads.checkm8.co.za
 0.0.0.0 ads.chickclick.com
 0.0.0.0 ads.china.com
@@ -8486,6 +8489,7 @@
 0.0.0.0 ads.eohub.com
 0.0.0.0 ads.epatra.com
 0.0.0.0 ads.epi.es
+0.0.0.0 ads.epi.sk
 0.0.0.0 ads.epltalk.com
 0.0.0.0 ads.eqads.com
 0.0.0.0 ads.ere.net
@@ -8842,6 +8846,7 @@
 0.0.0.0 ads.jpost.com
 0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.juicyads.com
+0.0.0.0 ads.junctionbox.com
 0.0.0.0 ads.juneauempire.com
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.justpremium.com
@@ -8923,6 +8928,7 @@
 0.0.0.0 ads.lycos.de
 0.0.0.0 ads.lycos.fr
 0.0.0.0 ads.lzjl.com
+0.0.0.0 ads.ma7.tv
 0.0.0.0 ads.macdailynews.com
 0.0.0.0 ads.macnews.de
 0.0.0.0 ads.macupdate.com
@@ -9290,6 +9296,7 @@
 0.0.0.0 ads.rackshack.net
 0.0.0.0 ads.racunalniske-novice.com
 0.0.0.0 ads.radar.bg
+0.0.0.0 ads.radialserver.com
 0.0.0.0 ads.radio1.lv
 0.0.0.0 ads.radioactive.se
 0.0.0.0 ads.rampidads.com
@@ -9390,6 +9397,7 @@
 0.0.0.0 ads.sessiongames.com
 0.0.0.0 ads.sexandsubmission.com
 0.0.0.0 ads.sexforums.com
+0.0.0.0 ads.sexgratuit.tv
 0.0.0.0 ads.sexier.com
 0.0.0.0 ads.sexinyourcity.com
 0.0.0.0 ads.sexspaces.com
@@ -9441,6 +9449,7 @@
 0.0.0.0 ads.snapchat.com
 0.0.0.0 ads.snowball.com
 0.0.0.0 ads.soapcreative.com
+0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialreach.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.sockshots.com
@@ -9748,6 +9757,7 @@
 0.0.0.0 ads.webground.bg
 0.0.0.0 ads.webheat.com
 0.0.0.0 ads.webhosting.info
+0.0.0.0 ads.webinak.sk
 0.0.0.0 ads.webindia123.com
 0.0.0.0 ads.webisleri.com
 0.0.0.0 ads.webkinz.com
@@ -11334,6 +11344,7 @@
 0.0.0.0 adserver.lanacion.com.ar
 0.0.0.0 adserver.lanepress.com
 0.0.0.0 adserver.latimes.com
+0.0.0.0 adserver.lecool.com
 0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.linktrader.co.uk
@@ -17240,6 +17251,7 @@
 0.0.0.0 as1.mistupid.com
 0.0.0.0 as1image1.adshuffle.com
 0.0.0.0 as1image2.adshuffle.com
+0.0.0.0 as2.adserverhd.com
 0.0.0.0 as2.advfn.com
 0.0.0.0 as2.autoforums.com
 0.0.0.0 as2.falkag.de
@@ -18851,6 +18863,7 @@
 0.0.0.0 banner.grandefm.com.br
 0.0.0.0 banner.grupos.com.br
 0.0.0.0 banner.hpmdnetwork.ru
+0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.intermega.com.br
 0.0.0.0 banner.inyourpocket.com
@@ -18887,6 +18900,7 @@
 0.0.0.0 banner.prestigecasino.com
 0.0.0.0 banner.publisher.to
 0.0.0.0 banner.rbc.ru
+0.0.0.0 banner.reinstil.de
 0.0.0.0 banner.relcom.ru
 0.0.0.0 banner.ringofon.com
 0.0.0.0 banner.rootsweb.com
@@ -19212,6 +19226,7 @@
 0.0.0.0 bannevs.ero-advertising.com
 0.0.0.0 banniere.reussissonsensemble.fr
 0.0.0.0 bannieres.acces-contenu.com
+0.0.0.0 bannieres.wdmedia.net
 0.0.0.0 banorte.com-wps-portal-banorte-2d519.etrek.in
 0.0.0.0 banorte.com-wps-portal-banorte-be597.bedcollegesindelhi.com
 0.0.0.0 banoteraswaer.com
@@ -64644,6 +64659,7 @@
 0.0.0.0 revitib.com
 0.0.0.0 revivalcollective.com
 0.0.0.0 revive.lavanetwork.net
+0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.vkushti.tv
 0.0.0.0 reviveads.faktor.bg
 0.0.0.0 revivestore.com
