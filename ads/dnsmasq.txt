@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-26 @ 12:39:51 (UTC)
-# ENTRIES: 94831
+# UPDATED: 2020-06-27 @ 12:39:13 (UTC)
+# ENTRIES: 94834
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -6804,6 +6804,7 @@ address=/adc3-launch.adcolony.com/0.0.0.0
 address=/adcache.aftenposten.no/0.0.0.0
 address=/adcache.nymag.com/0.0.0.0
 address=/adcamp.ru/0.0.0.0
+address=/adcampo.com/0.0.0.0
 address=/adcanadian.com/0.0.0.0
 address=/adcannyads.com/0.0.0.0
 address=/adcarem.co/0.0.0.0
@@ -9718,6 +9719,7 @@ address=/ads.vx2.cc/0.0.0.0
 address=/ads.w3hoster.de/0.0.0.0
 address=/ads.w55c.net/0.0.0.0
 address=/ads.waframedia1.com/0.0.0.0
+address=/ads.walkiberia.com/0.0.0.0
 address=/ads.wanadooregie.com/0.0.0.0
 address=/ads.waps.cn/0.0.0.0
 address=/ads.wapx.cn/0.0.0.0
@@ -48049,6 +48051,7 @@ address=/lifefordatings7.live/0.0.0.0
 address=/lifefordatings8.live/0.0.0.0
 address=/lifefordatings9.live/0.0.0.0
 address=/lifehackz.net/0.0.0.0
+address=/lifeimpressions.net/0.0.0.0
 address=/lifelineoutreach.com/0.0.0.0
 address=/lifemediahouse1.onlinewelten.com/0.0.0.0
 address=/lifenetusa.com/0.0.0.0
