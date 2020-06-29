@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-28 @ 12:41:38 (UTC)
-# ENTRIES: 94731
+# UPDATED: 2020-06-29 @ 12:40:23 (UTC)
+# ENTRIES: 94740
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -3169,6 +3169,7 @@
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.unbounce.com
 0.0.0.0 a.update.51edm.net
+0.0.0.0 a.vartoken.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.villeges.com
@@ -3562,6 +3563,7 @@
 0.0.0.0 about-sexy.com
 0.0.0.0 about.com
 0.0.0.0 about.netster.com
+0.0.0.0 aboutads.gr
 0.0.0.0 aboutads.quantcast.com
 0.0.0.0 aboutharrypotter.fasthost.tv
 0.0.0.0 abouthomesdecorating.com
@@ -4757,6 +4759,7 @@
 0.0.0.0 ad.proxy.sh
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.pt.doubleclick.net
+0.0.0.0 ad.pttcn.net
 0.0.0.0 ad.punto-informatico.it
 0.0.0.0 ad.pupsik.ru
 0.0.0.0 ad.pyce.info
@@ -9468,6 +9471,7 @@
 0.0.0.0 ads.sopeng.com
 0.0.0.0 ads.sourceforge.net
 0.0.0.0 ads.southbendtribune.com
+0.0.0.0 ads.soweb.gr
 0.0.0.0 ads.space.com
 0.0.0.0 ads.spaceports.com
 0.0.0.0 ads.spaceports.net
@@ -11127,6 +11131,7 @@
 0.0.0.0 adserve.gogreece.com
 0.0.0.0 adserve.gossipgirls.com
 0.0.0.0 adserve.io
+0.0.0.0 adserve.jbs.org
 0.0.0.0 adserve.kargo.com
 0.0.0.0 adserve.kikizo.com
 0.0.0.0 adserve.mizzenmedia.com
@@ -11725,6 +11730,7 @@
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
 0.0.0.0 adsrocket.net
+0.0.0.0 adsroller.com
 0.0.0.0 adsrv.adplus.co.id
 0.0.0.0 adsrv.ads.eniro.com
 0.0.0.0 adsrv.advanced-television.tv
@@ -63333,6 +63339,7 @@
 0.0.0.0 raidcomasia.my
 0.0.0.0 rail.us
 0.0.0.0 railwayrainstorm.com
+0.0.0.0 railwayreason.com
 0.0.0.0 rainb00-scama.revupnet.com
 0.0.0.0 rainbow-de.mythings.com
 0.0.0.0 rainbow-es.mythings.com
@@ -63754,6 +63761,7 @@
 0.0.0.0 realnyzarobek.pl
 0.0.0.0 realplayz.com
 0.0.0.0 realpropertyrighttime.com
+0.0.0.0 realsrv.com
 0.0.0.0 realstats.dhgate.com
 0.0.0.0 realsuccessng.com
 0.0.0.0 realsun.com
@@ -77045,6 +77053,7 @@
 0.0.0.0 tswgqcseq.com
 0.0.0.0 tsxclub.us.intellitxt.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndicate.net
 0.0.0.0 tt.adcocktail.com
 0.0.0.0 tt.mangoads.vn
 0.0.0.0 tt.onthe.io
