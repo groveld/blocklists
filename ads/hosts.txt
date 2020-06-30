@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-29 @ 12:40:23 (UTC)
-# ENTRIES: 94740
+# UPDATED: 2020-06-30 @ 12:41:24 (UTC)
+# ENTRIES: 94741
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -26172,6 +26172,7 @@
 0.0.0.0 clicklink.jp
 0.0.0.0 clicklinkz.com
 0.0.0.0 clicklog.info
+0.0.0.0 clickmate.io
 0.0.0.0 clickmedia.ro
 0.0.0.0 clickmeter.com
 0.0.0.0 clickmngr.com
