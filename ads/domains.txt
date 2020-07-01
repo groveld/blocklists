@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt
-# UPDATED: 2020-06-30 @ 12:41:24 (UTC)
-# ENTRIES: 94741
+# UPDATED: 2020-07-01 @ 12:41:50 (UTC)
+# ENTRIES: 94744
 
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -15753,6 +15753,7 @@ api.datadoghq.com
 api.deep-ad.com.edgekey.net
 api.demandbase.com
 api.destinationrewards.com
+api.device.xiaomi.net
 api.donglogs.com
 api.doubles.click
 api.doumob.com
@@ -15921,6 +15922,7 @@ api.sdk.wiman.io
 api.sdk.zadn.vn
 api.sdkbox.com
 api.sec.intl.miui.com
+api.sec.miui.com
 api.segment.io
 api.sentiance.com
 api.setting.intl.miui.com
@@ -55316,6 +55318,7 @@ newmatch663photos.96.lt
 newmatch71pics.890m.com
 newmecerdisfromthetittle.com
 newmediaz.com
+newmedsdeal.eu
 newmedsshop.ru
 newminimall.com
 newnet.qsrch.com

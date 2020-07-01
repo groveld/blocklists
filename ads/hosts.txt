@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-06-30 @ 12:41:24 (UTC)
-# ENTRIES: 94741
+# UPDATED: 2020-07-01 @ 12:41:50 (UTC)
+# ENTRIES: 94744
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -15761,6 +15761,7 @@
 0.0.0.0 api.deep-ad.com.edgekey.net
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.destinationrewards.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.donglogs.com
 0.0.0.0 api.doubles.click
 0.0.0.0 api.doumob.com
@@ -15929,6 +15930,7 @@
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 api.sdkbox.com
 0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.sentiance.com
 0.0.0.0 api.setting.intl.miui.com
@@ -55324,6 +55326,7 @@
 0.0.0.0 newmatch71pics.890m.com
 0.0.0.0 newmecerdisfromthetittle.com
 0.0.0.0 newmediaz.com
+0.0.0.0 newmedsdeal.eu
 0.0.0.0 newmedsshop.ru
 0.0.0.0 newminimall.com
 0.0.0.0 newnet.qsrch.com

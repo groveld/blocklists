@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-06-30 @ 12:41:24 (UTC)
-# ENTRIES: 94741
+# UPDATED: 2020-07-01 @ 12:41:50 (UTC)
+# ENTRIES: 94744
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -15753,6 +15753,7 @@ address=/api.datadoghq.com/0.0.0.0
 address=/api.deep-ad.com.edgekey.net/0.0.0.0
 address=/api.demandbase.com/0.0.0.0
 address=/api.destinationrewards.com/0.0.0.0
+address=/api.device.xiaomi.net/0.0.0.0
 address=/api.donglogs.com/0.0.0.0
 address=/api.doubles.click/0.0.0.0
 address=/api.doumob.com/0.0.0.0
@@ -15921,6 +15922,7 @@ address=/api.sdk.wiman.io/0.0.0.0
 address=/api.sdk.zadn.vn/0.0.0.0
 address=/api.sdkbox.com/0.0.0.0
 address=/api.sec.intl.miui.com/0.0.0.0
+address=/api.sec.miui.com/0.0.0.0
 address=/api.segment.io/0.0.0.0
 address=/api.sentiance.com/0.0.0.0
 address=/api.setting.intl.miui.com/0.0.0.0
@@ -55316,6 +55318,7 @@ address=/newmatch663photos.96.lt/0.0.0.0
 address=/newmatch71pics.890m.com/0.0.0.0
 address=/newmecerdisfromthetittle.com/0.0.0.0
 address=/newmediaz.com/0.0.0.0
+address=/newmedsdeal.eu/0.0.0.0
 address=/newmedsshop.ru/0.0.0.0
 address=/newminimall.com/0.0.0.0
 address=/newnet.qsrch.com/0.0.0.0
