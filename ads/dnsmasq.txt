@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-01 @ 12:41:50 (UTC)
-# ENTRIES: 94744
+# UPDATED: 2020-07-02 @ 12:42:31 (UTC)
+# ENTRIES: 94745
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -72338,6 +72338,7 @@ address=/store.malaysia-it.com/0.0.0.0
 address=/store.ttzarzar.com/0.0.0.0
 address=/store001.mybigcommerce.com/0.0.0.0
 address=/store4everything.com/0.0.0.0
+address=/storecentr.su/0.0.0.0
 address=/storeconfig.mistat.intl.xiaomi.com/0.0.0.0
 address=/storecor.net/0.0.0.0
 address=/storefedexship.com/0.0.0.0
