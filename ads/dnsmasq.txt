@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-07 @ 12:44:57 (UTC)
-# ENTRIES: 94744
+# UPDATED: 2020-07-08 @ 12:44:59 (UTC)
+# ENTRIES: 94746
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -40122,6 +40122,7 @@ address=/halodzwonek.pl/0.0.0.0
 address=/halopozyczka.pl/0.0.0.0
 address=/halr-io-nse.com/0.0.0.0
 address=/halswarszawa.pl/0.0.0.0
+address=/haltingbadge.com/0.0.0.0
 address=/hamalibg.biz/0.0.0.0
 address=/hamaraswaraj.in/0.0.0.0
 address=/hamcomonty.000webhostapp.com/0.0.0.0
@@ -47255,6 +47256,7 @@ address=/lamatrest.xyz/0.0.0.0
 address=/lambdake.ga/0.0.0.0
 address=/lameguard.ru/0.0.0.0
 address=/lameh.info/0.0.0.0
+address=/lameletters.com/0.0.0.0
 address=/lamiciacooking.com.au/0.0.0.0
 address=/lamictal.about-tabs.com/0.0.0.0
 address=/lamiflor.xyz/0.0.0.0

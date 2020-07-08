@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-07 @ 12:44:57 (UTC)
-# ENTRIES: 94744
+# UPDATED: 2020-07-08 @ 12:44:59 (UTC)
+# ENTRIES: 94746
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -40130,6 +40130,7 @@
 0.0.0.0 halopozyczka.pl
 0.0.0.0 halr-io-nse.com
 0.0.0.0 halswarszawa.pl
+0.0.0.0 haltingbadge.com
 0.0.0.0 hamalibg.biz
 0.0.0.0 hamaraswaraj.in
 0.0.0.0 hamcomonty.000webhostapp.com
@@ -47263,6 +47264,7 @@
 0.0.0.0 lambdake.ga
 0.0.0.0 lameguard.ru
 0.0.0.0 lameh.info
+0.0.0.0 lameletters.com
 0.0.0.0 lamiciacooking.com.au
 0.0.0.0 lamictal.about-tabs.com
 0.0.0.0 lamiflor.xyz
