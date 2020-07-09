@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-08 @ 12:44:59 (UTC)
-# ENTRIES: 94746
+# UPDATED: 2020-07-09 @ 12:45:01 (UTC)
+# ENTRIES: 94748
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -4657,6 +4657,7 @@
 0.0.0.0 ad.mediawayss.com
 0.0.0.0 ad.mediba.jp
 0.0.0.0 ad.metanetwork.com
+0.0.0.0 ad.mg
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.mi.com
 0.0.0.0 ad.mirror.co.uk
@@ -76206,6 +76207,7 @@
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.3com.com
+0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.45-fe6b6-aah.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.aatkit.com

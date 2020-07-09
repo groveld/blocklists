@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-08 @ 12:44:59 (UTC)
-# ENTRIES: 94746
+# UPDATED: 2020-07-09 @ 12:45:01 (UTC)
+# ENTRIES: 94748
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -4649,6 +4649,7 @@ address=/ad.mediastorm.hu/0.0.0.0
 address=/ad.mediawayss.com/0.0.0.0
 address=/ad.mediba.jp/0.0.0.0
 address=/ad.metanetwork.com/0.0.0.0
+address=/ad.mg/0.0.0.0
 address=/ad.mgd.de/0.0.0.0
 address=/ad.mi.com/0.0.0.0
 address=/ad.mirror.co.uk/0.0.0.0
@@ -76198,6 +76199,7 @@ address=/tracking.10e20.com/0.0.0.0
 address=/tracking.1betternetwork.com/0.0.0.0
 address=/tracking.21-a4652-bi.co.uk/0.0.0.0
 address=/tracking.3com.com/0.0.0.0
+address=/tracking.42-01pr5-osm-secure.co.uk/0.0.0.0
 address=/tracking.45-fe6b6-aah.co.uk/0.0.0.0
 address=/tracking.5-47737-bi.co.uk/0.0.0.0
 address=/tracking.aatkit.com/0.0.0.0

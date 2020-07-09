@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt
-# UPDATED: 2020-07-08 @ 12:44:59 (UTC)
-# ENTRIES: 94746
+# UPDATED: 2020-07-09 @ 12:45:01 (UTC)
+# ENTRIES: 94748
 
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -4649,6 +4649,7 @@ ad.mediastorm.hu
 ad.mediawayss.com
 ad.mediba.jp
 ad.metanetwork.com
+ad.mg
 ad.mgd.de
 ad.mi.com
 ad.mirror.co.uk
@@ -76198,6 +76199,7 @@ tracking.10e20.com
 tracking.1betternetwork.com
 tracking.21-a4652-bi.co.uk
 tracking.3com.com
+tracking.42-01pr5-osm-secure.co.uk
 tracking.45-fe6b6-aah.co.uk
 tracking.5-47737-bi.co.uk
 tracking.aatkit.com
