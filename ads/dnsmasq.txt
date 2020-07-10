@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-09 @ 12:45:01 (UTC)
-# ENTRIES: 94748
+# UPDATED: 2020-07-10 @ 12:45:16 (UTC)
+# ENTRIES: 94749
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -26025,6 +26025,7 @@ address=/click.mobile-bt.com/0.0.0.0
 address=/click.mp3.com/0.0.0.0
 address=/click.mrrage.com/0.0.0.0
 address=/click.mygeek.com/0.0.0.0
+address=/click.negociosdigitaisnapratica.com.br/0.0.0.0
 address=/click.newviralmobistore.com/0.0.0.0
 address=/click.novanet.vn/0.0.0.0
 address=/click.oneplus.com/0.0.0.0
