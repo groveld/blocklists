@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-11 @ 12:48:18 (UTC)
-# ENTRIES: 94750
+# UPDATED: 2020-07-12 @ 12:46:19 (UTC)
+# ENTRIES: 94752
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -44816,6 +44816,7 @@
 0.0.0.0 jatservis.co.id
 0.0.0.0 jatukarm-30.com
 0.0.0.0 jatxt.com
+0.0.0.0 jauchuwa.net
 0.0.0.0 jav.jave.xyz
 0.0.0.0 java-brasil.ga
 0.0.0.0 java-games.bestxs.de
@@ -60647,6 +60648,7 @@
 0.0.0.0 plclifesg.com
 0.0.0.0 pldev.112.2o7.net
 0.0.0.0 pleasantlychaotic.com
+0.0.0.0 pleasantpump.com
 0.0.0.0 pleasedontlabelme.com
 0.0.0.0 pleaseupdate.checkupdateslive.net
 0.0.0.0 pleasevotenow.000webhostapp.com
