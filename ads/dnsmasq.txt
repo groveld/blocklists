@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-12 @ 12:46:19 (UTC)
-# ENTRIES: 94752
+# UPDATED: 2020-07-13 @ 12:47:20 (UTC)
+# ENTRIES: 94754
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -22154,6 +22154,7 @@ address=/boutique-miniature.com/0.0.0.0
 address=/boutique.iacoila.fr/0.0.0.0
 address=/bovisfoods.com/0.0.0.0
 address=/bovusforum.com/0.0.0.0
+address=/bowie-cdn.fathomdns.com/0.0.0.0
 address=/bowlgirl.com/0.0.0.0
 address=/bowling.co.kr/0.0.0.0
 address=/bowlingle.com/0.0.0.0
@@ -60567,6 +60568,7 @@ address=/platnosc.twojkurier.com/0.0.0.0
 address=/platnosci-online.services/0.0.0.0
 address=/platnosci24.services/0.0.0.0
 address=/plattform.deruwia.de/0.0.0.0
+address=/plausible.io/0.0.0.0
 address=/plavix.shengen.ru/0.0.0.0
 address=/plawdcs.net/0.0.0.0
 address=/play-cda.pl/0.0.0.0

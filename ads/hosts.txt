@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-12 @ 12:46:19 (UTC)
-# ENTRIES: 94752
+# UPDATED: 2020-07-13 @ 12:47:20 (UTC)
+# ENTRIES: 94754
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -22162,6 +22162,7 @@
 0.0.0.0 boutique.iacoila.fr
 0.0.0.0 bovisfoods.com
 0.0.0.0 bovusforum.com
+0.0.0.0 bowie-cdn.fathomdns.com
 0.0.0.0 bowlgirl.com
 0.0.0.0 bowling.co.kr
 0.0.0.0 bowlingle.com
@@ -60575,6 +60576,7 @@
 0.0.0.0 platnosci-online.services
 0.0.0.0 platnosci24.services
 0.0.0.0 plattform.deruwia.de
+0.0.0.0 plausible.io
 0.0.0.0 plavix.shengen.ru
 0.0.0.0 plawdcs.net
 0.0.0.0 play-cda.pl
