@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-14 @ 12:47:55 (UTC)
-# ENTRIES: 94908
+# UPDATED: 2020-07-15 @ 12:48:38 (UTC)
+# ENTRIES: 94910
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -11273,6 +11273,7 @@
 0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.economic.bg
 0.0.0.0 adserver.eham.net
+0.0.0.0 adserver.ekokatu.com
 0.0.0.0 adserver.emapadserver.com
 0.0.0.0 adserver.emporis.com
 0.0.0.0 adserver.emulation64.com
@@ -64876,6 +64877,7 @@
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmgparcelforcecom.112.2o7.net
 0.0.0.0 rmgroyalmailcom.112.2o7.net
+0.0.0.0 rmgserving.com
 0.0.0.0 rmhospitalcalicut.com
 0.0.0.0 rmisllc.net
 0.0.0.0 rmkpatashaala.ac.in

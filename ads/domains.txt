@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt
-# UPDATED: 2020-07-14 @ 12:47:55 (UTC)
-# ENTRIES: 94908
+# UPDATED: 2020-07-15 @ 12:48:38 (UTC)
+# ENTRIES: 94910
 
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -11265,6 +11265,7 @@ adserver.dotmusic.com
 adserver.echdk.pl
 adserver.economic.bg
 adserver.eham.net
+adserver.ekokatu.com
 adserver.emapadserver.com
 adserver.emporis.com
 adserver.emulation64.com
@@ -64868,6 +64869,7 @@ rmedia.adonnetwork.com
 rmedia.boston.com
 rmgparcelforcecom.112.2o7.net
 rmgroyalmailcom.112.2o7.net
+rmgserving.com
 rmhospitalcalicut.com
 rmisllc.net
 rmkpatashaala.ac.in
