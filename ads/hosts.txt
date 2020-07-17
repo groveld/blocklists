@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-16 @ 12:49:41 (UTC)
-# ENTRIES: 94910
+# UPDATED: 2020-07-17 @ 12:49:46 (UTC)
+# ENTRIES: 94911
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -41645,6 +41645,7 @@
 0.0.0.0 hub.adlpartner.com
 0.0.0.0 hub.appsflyer.com
 0.0.0.0 hub.com.pl
+0.0.0.0 hubadnetwork.com
 0.0.0.0 hubert.iad-03.braze.com
 0.0.0.0 hubertcetnar.pl
 0.0.0.0 hubvisual.com.br

@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-16 @ 12:49:41 (UTC)
-# ENTRIES: 94910
+# UPDATED: 2020-07-17 @ 12:49:46 (UTC)
+# ENTRIES: 94911
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -41637,6 +41637,7 @@ address=/huayangjd.com/0.0.0.0
 address=/hub.adlpartner.com/0.0.0.0
 address=/hub.appsflyer.com/0.0.0.0
 address=/hub.com.pl/0.0.0.0
+address=/hubadnetwork.com/0.0.0.0
 address=/hubert.iad-03.braze.com/0.0.0.0
 address=/hubertcetnar.pl/0.0.0.0
 address=/hubvisual.com.br/0.0.0.0
