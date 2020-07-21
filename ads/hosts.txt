@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-20 @ 12:51:36 (UTC)
-# ENTRIES: 95099
+# UPDATED: 2020-07-21 @ 12:52:13 (UTC)
+# ENTRIES: 95102
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -8992,6 +8992,7 @@
 0.0.0.0 ads.miniclip.com
 0.0.0.0 ads.mininova.org
 0.0.0.0 ads.mircx.com
+0.0.0.0 ads.missena.io
 0.0.0.0 ads.mixbg.net
 0.0.0.0 ads.mixi.jp
 0.0.0.0 ads.mixtraffic.com
@@ -12808,6 +12809,7 @@
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.gainesvillesun.com
 0.0.0.0 adx.gainesvillsun.com
+0.0.0.0 adx.gayboy.at
 0.0.0.0 adx.groupstate.com
 0.0.0.0 adx.hendersonvillenews.com
 0.0.0.0 adx.heraldtribune.com
@@ -57929,6 +57931,7 @@
 0.0.0.0 openwrt.com
 0.0.0.0 openx-server.thinknearhub.com
 0.0.0.0 openx.4shared.com
+0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.adfactor.nl
 0.0.0.0 openx.ajur.info
 0.0.0.0 openx.angelsgroup.org.uk

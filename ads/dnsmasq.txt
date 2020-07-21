@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-20 @ 12:51:36 (UTC)
-# ENTRIES: 95099
+# UPDATED: 2020-07-21 @ 12:52:13 (UTC)
+# ENTRIES: 95102
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -8984,6 +8984,7 @@ address=/ads.mindviz.com/0.0.0.0
 address=/ads.miniclip.com/0.0.0.0
 address=/ads.mininova.org/0.0.0.0
 address=/ads.mircx.com/0.0.0.0
+address=/ads.missena.io/0.0.0.0
 address=/ads.mixbg.net/0.0.0.0
 address=/ads.mixi.jp/0.0.0.0
 address=/ads.mixtraffic.com/0.0.0.0
@@ -12800,6 +12801,7 @@ address=/adx.dable.io/0.0.0.0
 address=/adx.g.doubleclick.net/0.0.0.0
 address=/adx.gainesvillesun.com/0.0.0.0
 address=/adx.gainesvillsun.com/0.0.0.0
+address=/adx.gayboy.at/0.0.0.0
 address=/adx.groupstate.com/0.0.0.0
 address=/adx.hendersonvillenews.com/0.0.0.0
 address=/adx.heraldtribune.com/0.0.0.0
@@ -57921,6 +57923,7 @@ address=/openwire.tv/0.0.0.0
 address=/openwrt.com/0.0.0.0
 address=/openx-server.thinknearhub.com/0.0.0.0
 address=/openx.4shared.com/0.0.0.0
+address=/openx.actvtech.com/0.0.0.0
 address=/openx.adfactor.nl/0.0.0.0
 address=/openx.ajur.info/0.0.0.0
 address=/openx.angelsgroup.org.uk/0.0.0.0
