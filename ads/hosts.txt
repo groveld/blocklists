@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-21 @ 12:52:13 (UTC)
-# ENTRIES: 95102
+# UPDATED: 2020-07-22 @ 12:52:59 (UTC)
+# ENTRIES: 95115
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -11924,6 +11924,7 @@
 0.0.0.0 adtrace.org
 0.0.0.0 adtrack-prod.elasticbeanstalk.com
 0.0.0.0 adtrack.adleadevent.com
+0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.chartboosts.com
 0.0.0.0 adtrack.cimedia.net
 0.0.0.0 adtrack.cmgdigital.com
@@ -14746,6 +14747,7 @@
 0.0.0.0 analytics-ingest.creative-mobile.com
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
 0.0.0.0 analytics-league-lfp.yinzcam.com
 0.0.0.0 analytics-nfl-1.yinzcam.com
@@ -14828,6 +14830,7 @@
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 analytics.glance.inmobi.com
+0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.grupogodo.com
 0.0.0.0 analytics.grupogodo.com-v1.edgekey.net
 0.0.0.0 analytics.harpercollins.com
@@ -14921,6 +14924,7 @@
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 analytics.sohatv.vn
 0.0.0.0 analytics.soup.io
@@ -16048,6 +16052,7 @@
 0.0.0.0 api5.batmobi.net
 0.0.0.0 api5.batmobil.net
 0.0.0.0 apia.headlines.pw
+0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 apibeta.zeti.com
 0.0.0.0 apibookprinting.com
 0.0.0.0 apicdn.viglink.com
@@ -34450,6 +34455,7 @@
 0.0.0.0 eu-srv2.apptornado.com
 0.0.0.0 eu-survey.com
 0.0.0.0 eu-tlx.3lift.com
+0.0.0.0 eu-track.inside-graph.com
 0.0.0.0 eu-u.openx.net
 0.0.0.0 eu-west.load.exelator.com
 0.0.0.0 eu-win.bidsopt.com
@@ -36915,6 +36921,7 @@
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fpibhiinwepy.fgppchg.fgpp.com
+0.0.0.0 fpjs.io
 0.0.0.0 fpn81171321mp.hol.es
 0.0.0.0 fpn81291321p.hol.es
 0.0.0.0 fptad.com
@@ -37731,6 +37738,7 @@
 0.0.0.0 game.immomo.com
 0.0.0.0 game.weibo.com
 0.0.0.0 game0516.cdn8-traffic68-server10.top
+0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gameanalysis.chartboosts.com
 0.0.0.0 gameanalytics.com
 0.0.0.0 gameangel.com
@@ -54117,6 +54125,7 @@
 0.0.0.0 myasiantv.gsspcln.jp
 0.0.0.0 myaxure.ru
 0.0.0.0 mybb.ero-advertising.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestmv.com
 0.0.0.0 mybetterdl.com
 0.0.0.0 mybgbgclojp.com
@@ -57937,6 +57946,7 @@
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
 0.0.0.0 openx.bmwpower-bg.net
+0.0.0.0 openx.cairo360.com
 0.0.0.0 openx.camelmedia.net
 0.0.0.0 openx.cnews.ru
 0.0.0.0 openx.com
@@ -62192,6 +62202,7 @@
 0.0.0.0 proparm.jp
 0.0.0.0 propdfconverter.com
 0.0.0.0 propecia.1.p2l.info
+0.0.0.0 propeller-tracking.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
@@ -76397,6 +76408,7 @@
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.promosvc.com
 0.0.0.0 tracker.promovalue.us
+0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.squidanalytics.com
@@ -76633,6 +76645,7 @@
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.xapads.com
 0.0.0.0 tracking.yieldlove-ad-serving.net
+0.0.0.0 tracking.yohoads.com
 0.0.0.0 tracking.yomedia.vn
 0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 tracking01.walmart.com

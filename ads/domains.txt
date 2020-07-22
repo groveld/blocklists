@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt
-# UPDATED: 2020-07-21 @ 12:52:13 (UTC)
-# ENTRIES: 95102
+# UPDATED: 2020-07-22 @ 12:52:59 (UTC)
+# ENTRIES: 95115
 
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -11916,6 +11916,7 @@ adtotal.pl
 adtrace.org
 adtrack-prod.elasticbeanstalk.com
 adtrack.adleadevent.com
+adtrack.appcpi.net
 adtrack.chartboosts.com
 adtrack.cimedia.net
 adtrack.cmgdigital.com
@@ -14738,6 +14739,7 @@ analytics-google.info
 analytics-ingest.creative-mobile.com
 analytics-ingestion.production-public.tubi.io
 analytics-ingestion.staging-public.tubi.io
+analytics-ingress-global.bitmovin.com
 analytics-iwtg-ten.yinzcam.com
 analytics-league-lfp.yinzcam.com
 analytics-nfl-1.yinzcam.com
@@ -14820,6 +14822,7 @@ analytics.fuckingawesome.com
 analytics.gameforge.de
 analytics.gazeta.pl
 analytics.glance.inmobi.com
+analytics.global.sky.com
 analytics.grupogodo.com
 analytics.grupogodo.com-v1.edgekey.net
 analytics.harpercollins.com
@@ -14913,6 +14916,7 @@ analytics.shareaholic.com
 analytics.siliconexpert.com
 analytics.sitewit.com
 analytics.slashdotmedia.com
+analytics.sleeknote.com
 analytics.snssdk.com
 analytics.sohatv.vn
 analytics.soup.io
@@ -16040,6 +16044,7 @@ api4report.adsplay.xyz
 api5.batmobi.net
 api5.batmobil.net
 apia.headlines.pw
+apiadapter.ad5track.com
 apibeta.zeti.com
 apibookprinting.com
 apicdn.viglink.com
@@ -34442,6 +34447,7 @@ eu-srv.apptornado.com
 eu-srv2.apptornado.com
 eu-survey.com
 eu-tlx.3lift.com
+eu-track.inside-graph.com
 eu-u.openx.net
 eu-west.load.exelator.com
 eu-win.bidsopt.com
@@ -36907,6 +36913,7 @@ fpcclicks.com
 fpctraffic.com
 fpctraffic2.com
 fpibhiinwepy.fgppchg.fgpp.com
+fpjs.io
 fpn81171321mp.hol.es
 fpn81291321p.hol.es
 fptad.com
@@ -37723,6 +37730,7 @@ game.idoing3d.com
 game.immomo.com
 game.weibo.com
 game0516.cdn8-traffic68-server10.top
+gameanalysis.appcpi.net
 gameanalysis.chartboosts.com
 gameanalytics.com
 gameangel.com
@@ -54109,6 +54117,7 @@ myappleipone.org
 myasiantv.gsspcln.jp
 myaxure.ru
 mybb.ero-advertising.com
+mybbc-analytics.files.bbci.co.uk
 mybestmv.com
 mybetterdl.com
 mybgbgclojp.com
@@ -57929,6 +57938,7 @@ openx.ajur.info
 openx.angelsgroup.org.uk
 openx.blindferret.com
 openx.bmwpower-bg.net
+openx.cairo360.com
 openx.camelmedia.net
 openx.cnews.ru
 openx.com
@@ -62184,6 +62194,7 @@ propague.online
 proparm.jp
 propdfconverter.com
 propecia.1.p2l.info
+propeller-tracking.com
 propellerads.com
 propellerclick.com
 propellerpops.com
@@ -76389,6 +76400,7 @@ tracker.onapps.org
 tracker.phunuvagiadinh.vn
 tracker.promosvc.com
 tracker.promovalue.us
+tracker.remp.impresa.pt
 tracker.rqmob.com
 tracker.samplicio.us
 tracker.squidanalytics.com
@@ -76625,6 +76637,7 @@ tracking.whattoexpect.com
 tracking.wisepops.com
 tracking.xapads.com
 tracking.yieldlove-ad-serving.net
+tracking.yohoads.com
 tracking.yomedia.vn
 tracking.yourfilehost.com
 tracking01.walmart.com
