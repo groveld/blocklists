@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-07-23 @ 12:53:12 (UTC)
-# ENTRIES: 95115
+# UPDATED: 2020-07-24 @ 12:53:36 (UTC)
+# ENTRIES: 95124
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -3276,6 +3276,7 @@ address=/a48.info/0.0.0.0
 address=/a4p.adpartner.pro/0.0.0.0
 address=/a4p.net/0.0.0.0
 address=/a4uatro.com.br/0.0.0.0
+address=/a5.overclockers.ua/0.0.0.0
 address=/a5.websponsors.com/0.0.0.0
 address=/a50.g2.akamai.net/0.0.0.0
 address=/a55barin.000webhostapp.com/0.0.0.0
@@ -4836,6 +4837,7 @@ address=/ad.sunflower.vn/0.0.0.0
 address=/ad.suprnova.org/0.0.0.0
 address=/ad.sxp.smartclip.net/0.0.0.0
 address=/ad.tapjoy.click/0.0.0.0
+address=/ad.tapthislink.com/0.0.0.0
 address=/ad.tbn.ru/0.0.0.0
 address=/ad.technoramedia.com/0.0.0.0
 address=/ad.technoratimedia.com/0.0.0.0
@@ -14803,6 +14805,7 @@ address=/analytics.codigo.se/0.0.0.0
 address=/analytics.cohesionapps.com/0.0.0.0
 address=/analytics.digital-metric.com/0.0.0.0
 address=/analytics.disneyinternational.com/0.0.0.0
+address=/analytics.dnsfilter.com/0.0.0.0
 address=/analytics.donglogs.com/0.0.0.0
 address=/analytics.dspunion.com/0.0.0.0
 address=/analytics.easyvideo.vn/0.0.0.0
@@ -26888,6 +26891,7 @@ address=/cogivea.com/0.0.0.0
 address=/cognitionet.com/0.0.0.0
 address=/cognitiv.ai/0.0.0.0
 address=/cognitivaperu.com/0.0.0.0
+address=/cognitiveadscience.com/0.0.0.0
 address=/cognitiveintegration.com/0.0.0.0
 address=/cogsgasandplumbing.com.au/0.0.0.0
 address=/cohas.vn/0.0.0.0
@@ -33760,6 +33764,7 @@ address=/eng.trkcnv.com/0.0.0.0
 address=/engage-network.influencemobile.com/0.0.0.0
 address=/engage-postbacks.influencemobile.com/0.0.0.0
 address=/engage.com/0.0.0.0
+address=/engage.dnsfilter.com/0.0.0.0
 address=/engage.everyone.net/0.0.0.0
 address=/engage.marketo.com/0.0.0.0
 address=/engage.meltwater.com/0.0.0.0
@@ -57227,6 +57232,7 @@ address=/ogladaj.online/0.0.0.0
 address=/ogladajfilmy.pl/0.0.0.0
 address=/ogladajzadarmo.com.pl/0.0.0.0
 address=/ogladamy24.pl/0.0.0.0
+address=/oglasi.posjetnica.com/0.0.0.0
 address=/oglasnikadhr.hit.gemius.pl/0.0.0.0
 address=/oglaszamy.ct8.pl/0.0.0.0
 address=/oglody.cf/0.0.0.0
@@ -63447,6 +63453,7 @@ address=/radkokurier.org/0.0.0.0
 address=/radowiczdamian.pl/0.0.0.0
 address=/radrounds.net/0.0.0.0
 address=/rads.msn.com/0.0.0.0
+address=/rads.realadmin.pl/0.0.0.0
 address=/rads.stackoverflow.com/0.0.0.0
 address=/radzymin-pzw.pl/0.0.0.0
 address=/rafaeloticaerelojoaria.com.br/0.0.0.0
@@ -64756,8 +64763,10 @@ address=/revistas.tec.ac.cr/0.0.0.0
 address=/revitagene.com/0.0.0.0
 address=/revitib.com/0.0.0.0
 address=/revivalcollective.com/0.0.0.0
+address=/revive.docmatic.org/0.0.0.0
 address=/revive.lavanetwork.net/0.0.0.0
 address=/revive.netriota.hu/0.0.0.0
+address=/revive.plays.bg/0.0.0.0
 address=/revive.vkushti.tv/0.0.0.0
 address=/reviveads.faktor.bg/0.0.0.0
 address=/revivestore.com/0.0.0.0

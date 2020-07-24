@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-23 @ 12:53:12 (UTC)
-# ENTRIES: 95115
+# UPDATED: 2020-07-24 @ 12:53:36 (UTC)
+# ENTRIES: 95124
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -3284,6 +3284,7 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a4p.net
 0.0.0.0 a4uatro.com.br
+0.0.0.0 a5.overclockers.ua
 0.0.0.0 a5.websponsors.com
 0.0.0.0 a50.g2.akamai.net
 0.0.0.0 a55barin.000webhostapp.com
@@ -4844,6 +4845,7 @@
 0.0.0.0 ad.suprnova.org
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tapjoy.click
+0.0.0.0 ad.tapthislink.com
 0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoramedia.com
 0.0.0.0 ad.technoratimedia.com
@@ -14811,6 +14813,7 @@
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.digital-metric.com
 0.0.0.0 analytics.disneyinternational.com
+0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.donglogs.com
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.easyvideo.vn
@@ -26896,6 +26899,7 @@
 0.0.0.0 cognitionet.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cognitivaperu.com
+0.0.0.0 cognitiveadscience.com
 0.0.0.0 cognitiveintegration.com
 0.0.0.0 cogsgasandplumbing.com.au
 0.0.0.0 cohas.vn
@@ -33768,6 +33772,7 @@
 0.0.0.0 engage-network.influencemobile.com
 0.0.0.0 engage-postbacks.influencemobile.com
 0.0.0.0 engage.com
+0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.everyone.net
 0.0.0.0 engage.marketo.com
 0.0.0.0 engage.meltwater.com
@@ -57235,6 +57240,7 @@
 0.0.0.0 ogladajfilmy.pl
 0.0.0.0 ogladajzadarmo.com.pl
 0.0.0.0 ogladamy24.pl
+0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 oglasnikadhr.hit.gemius.pl
 0.0.0.0 oglaszamy.ct8.pl
 0.0.0.0 oglody.cf
@@ -63455,6 +63461,7 @@
 0.0.0.0 radowiczdamian.pl
 0.0.0.0 radrounds.net
 0.0.0.0 rads.msn.com
+0.0.0.0 rads.realadmin.pl
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 radzymin-pzw.pl
 0.0.0.0 rafaeloticaerelojoaria.com.br
@@ -64764,8 +64771,10 @@
 0.0.0.0 revitagene.com
 0.0.0.0 revitib.com
 0.0.0.0 revivalcollective.com
+0.0.0.0 revive.docmatic.org
 0.0.0.0 revive.lavanetwork.net
 0.0.0.0 revive.netriota.hu
+0.0.0.0 revive.plays.bg
 0.0.0.0 revive.vkushti.tv
 0.0.0.0 reviveads.faktor.bg
 0.0.0.0 revivestore.com
