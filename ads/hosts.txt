@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-26 @ 12:54:38 (UTC)
-# ENTRIES: 95160
+# UPDATED: 2020-07-27 @ 12:57:35 (UTC)
+# ENTRIES: 95170
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -3309,6 +3309,7 @@
 0.0.0.0 aa-gb.marketgid.com
 0.0.0.0 aa-gb.mgid.com
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
+0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aa-nb.marketgid.com
 0.0.0.0 aa.adfarm1.adition.com
@@ -7929,13 +7930,16 @@
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.51.net
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads.73dpi.com
 0.0.0.0 ads.7days.ae
 0.0.0.0 ads.8833.com
 0.0.0.0 ads.8live.com
+0.0.0.0 ads.aavv.com
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.abs-cbn.com
 0.0.0.0 ads.accelerator-media.com
 0.0.0.0 ads.aceweb.net
+0.0.0.0 ads.acpc.cat
 0.0.0.0 ads.acrosspf.com
 0.0.0.0 ads.active.com
 0.0.0.0 ads.activeagent.at
@@ -8817,6 +8821,7 @@
 0.0.0.0 ads.interfacelift.com
 0.0.0.0 ads.intergi.com
 0.0.0.0 ads.internet-optimizer.com
+0.0.0.0 ads.internet24.se
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.inthesidebar.com
 0.0.0.0 ads.inven.co.kr
@@ -9667,6 +9672,7 @@
 0.0.0.0 ads.ultimatesurrender.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.unison.bg
 0.0.0.0 ads.univision.com
 0.0.0.0 ads.unixathome.org
 0.0.0.0 ads.uol.com.br
@@ -34442,6 +34448,7 @@
 0.0.0.0 etoroinvestmentltd.com
 0.0.0.0 etr-interac.com
 0.0.0.0 etr-mobile1.com
+0.0.0.0 etracker.com
 0.0.0.0 etracker.de
 0.0.0.0 etracking-pocztapolska24.net
 0.0.0.0 etracking-ppocztapolska.com
@@ -46780,6 +46787,7 @@
 0.0.0.0 klasa2a.pl
 0.0.0.0 klaumonforma.com.br
 0.0.0.0 klclick.com
+0.0.0.0 klclick1.com
 0.0.0.0 kleanthisxatzinikos.gr
 0.0.0.0 klebezeit.de
 0.0.0.0 kleinaberoho.info
@@ -76503,6 +76511,7 @@
 0.0.0.0 tracking.10e20.com
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.3com.com
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.45-fe6b6-aah.co.uk
@@ -78905,6 +78914,7 @@
 0.0.0.0 v11lndpin.com
 0.0.0.0 v16.56.com
 0.0.0.0 v17pdpe0iamqgxzr4pxxha.download
+0.0.0.0 v1adserver.com
 0.0.0.0 v1hcmqbaqw.ru
 0.0.0.0 v1rbigqjxn8ixfbcs.review
 0.0.0.0 v1tj.jiguangie.com

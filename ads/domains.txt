@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/domains.txt
-# UPDATED: 2020-07-26 @ 12:54:38 (UTC)
-# ENTRIES: 95160
+# UPDATED: 2020-07-27 @ 12:57:35 (UTC)
+# ENTRIES: 95170
 
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -3301,6 +3301,7 @@ aa-d.openx.net
 aa-gb.marketgid.com
 aa-gb.mgid.com
 aa-metrics.beauty.hotpepper.jp
+aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
 aa-nb.marketgid.com
 aa.adfarm1.adition.com
@@ -7921,13 +7922,16 @@ ads.4rati.lv
 ads.4tube.com
 ads.51.net
 ads.5ci.lt
+ads.73dpi.com
 ads.7days.ae
 ads.8833.com
 ads.8live.com
+ads.aavv.com
 ads.abovetopsecret.com
 ads.abs-cbn.com
 ads.accelerator-media.com
 ads.aceweb.net
+ads.acpc.cat
 ads.acrosspf.com
 ads.active.com
 ads.activeagent.at
@@ -8809,6 +8813,7 @@ ads.intentiq.com
 ads.interfacelift.com
 ads.intergi.com
 ads.internet-optimizer.com
+ads.internet24.se
 ads.internic.co.il
 ads.inthesidebar.com
 ads.inven.co.kr
@@ -9659,6 +9664,7 @@ ads.ultimate-guitar.com
 ads.ultimatesurrender.com
 ads.uncrate.com
 ads.undertone.com
+ads.unison.bg
 ads.univision.com
 ads.unixathome.org
 ads.uol.com.br
@@ -34434,6 +34440,7 @@ etoroglobal.com
 etoroinvestmentltd.com
 etr-interac.com
 etr-mobile1.com
+etracker.com
 etracker.de
 etracking-pocztapolska24.net
 etracking-ppocztapolska.com
@@ -46772,6 +46779,7 @@ klarikaardra.su
 klasa2a.pl
 klaumonforma.com.br
 klclick.com
+klclick1.com
 kleanthisxatzinikos.gr
 klebezeit.de
 kleinaberoho.info
@@ -76495,6 +76503,7 @@ tracking.1-kv015-ap.co.uk
 tracking.10e20.com
 tracking.1betternetwork.com
 tracking.21-a4652-bi.co.uk
+tracking.39-bb4a9-osm.co.uk
 tracking.3com.com
 tracking.42-01pr5-osm-secure.co.uk
 tracking.45-fe6b6-aah.co.uk
@@ -78897,6 +78906,7 @@ v10c.events.data.microsoft.com
 v11lndpin.com
 v16.56.com
 v17pdpe0iamqgxzr4pxxha.download
+v1adserver.com
 v1hcmqbaqw.ru
 v1rbigqjxn8ixfbcs.review
 v1tj.jiguangie.com
