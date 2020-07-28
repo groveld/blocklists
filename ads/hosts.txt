@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-27 @ 12:57:35 (UTC)
-# ENTRIES: 95170
+# UPDATED: 2020-07-28 @ 12:56:27 (UTC)
+# ENTRIES: 95175
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -24437,6 +24437,7 @@
 0.0.0.0 cdn.freejlo.com
 0.0.0.0 cdn.freelac.com
 0.0.0.0 cdn.freelev.com
+0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 cdn.g.promosrv.com
 0.0.0.0 cdn.g5e.com
@@ -34088,6 +34089,7 @@
 0.0.0.0 epomeolagrotta.com
 0.0.0.0 epos-ua.com
 0.0.0.0 epost.122.2o7.net
+0.0.0.0 epp.bih.net.ba
 0.0.0.0 eppilxqwyqdhmpdsn.pw
 0.0.0.0 epraja1.com.br
 0.0.0.0 eproperties.com.mx
@@ -58694,6 +58696,7 @@
 0.0.0.0 p.midasplayer.com
 0.0.0.0 p.mobilebanner.ru
 0.0.0.0 p.multiquicks.net
+0.0.0.0 p.nag.ru
 0.0.0.0 p.nexac.com
 0.0.0.0 p.nxtck.com
 0.0.0.0 p.parrable.com
@@ -63532,6 +63535,7 @@
 0.0.0.0 radkokurier.org
 0.0.0.0 radowiczdamian.pl
 0.0.0.0 radrounds.net
+0.0.0.0 rads.alfamedia.pl
 0.0.0.0 rads.msn.com
 0.0.0.0 rads.realadmin.pl
 0.0.0.0 rads.stackoverflow.com
@@ -64845,6 +64849,7 @@
 0.0.0.0 revivalcollective.com
 0.0.0.0 revive.docmatic.org
 0.0.0.0 revive.dubcnm.com
+0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.lavanetwork.net
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
