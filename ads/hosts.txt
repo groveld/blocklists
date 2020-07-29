@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-07-28 @ 12:56:27 (UTC)
-# ENTRIES: 95175
+# UPDATED: 2020-07-29 @ 12:56:29 (UTC)
+# ENTRIES: 95188
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -2093,6 +2093,7 @@
 0.0.0.0 48.2mydns.net
 0.0.0.0 4802.170.blueseek.com
 0.0.0.0 488568.com
+0.0.0.0 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 0.0.0.0 48wwuved42.ru
 0.0.0.0 4902-145639.link.iwanttodeliver.com
 0.0.0.0 4923503.fls.doubleclick.net
@@ -3955,6 +3956,7 @@
 0.0.0.0 achterin.nl
 0.0.0.0 achtungachtung.com
 0.0.0.0 aciasms.com.br
+0.0.0.0 acid-adserver.click
 0.0.0.0 aciikdenizi-denizbank.com
 0.0.0.0 acikdeniz-bireysel.com
 0.0.0.0 acikdeniz-denizbanka.com
@@ -4337,6 +4339,7 @@
 0.0.0.0 ad.aim4media.com
 0.0.0.0 ad.airad.com
 0.0.0.0 ad.ajanshaber.com
+0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.allyes.cn
 0.0.0.0 ad.altervista.org
@@ -7064,6 +7067,7 @@
 0.0.0.0 adfpaces.ero-advertising.com
 0.0.0.0 adfries.info
 0.0.0.0 adfrut.cl
+0.0.0.0 adfs.senacrs.com.br
 0.0.0.0 adfu.blockstackers.com
 0.0.0.0 adfu.slashdot.org
 0.0.0.0 adfun.ru
@@ -11229,6 +11233,7 @@
 0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.aphrodite.tweakers.net
 0.0.0.0 adserver.archant.co.uk
+0.0.0.0 adserver.ariase.org
 0.0.0.0 adserver.artempireindustries.com
 0.0.0.0 adserver.arttoday.com
 0.0.0.0 adserver.asiafriendfinder.com
@@ -11349,6 +11354,7 @@
 0.0.0.0 adserver.ilango.de
 0.0.0.0 adserver.ilounge.com
 0.0.0.0 adserver.infinit.net
+0.0.0.0 adserver.info7.mx
 0.0.0.0 adserver.infotiger.com
 0.0.0.0 adserver.intentiq.com
 0.0.0.0 adserver.interfree.it
@@ -11390,6 +11396,7 @@
 0.0.0.0 adserver.luzu.vn
 0.0.0.0 adserver.lycos.co.jp
 0.0.0.0 adserver.m2kcore.com
+0.0.0.0 adserver.madeby.ws
 0.0.0.0 adserver.magazyn.pl
 0.0.0.0 adserver.matchcraft.com
 0.0.0.0 adserver.merc.com
@@ -11426,6 +11433,7 @@
 0.0.0.0 adserver.online-tech.com
 0.0.0.0 adserver.onwisconsin.com
 0.0.0.0 adserver.outpersonals.com
+0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adserver.passagemaker.com
 0.0.0.0 adserver.passion.com
@@ -14979,6 +14987,7 @@
 0.0.0.0 analytics.webads.eu
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.wishabi.ca
+0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xl.pt
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yolacdn.net
@@ -17888,6 +17897,7 @@
 0.0.0.0 augustads.com
 0.0.0.0 auhtsiginsessioniduserestbayu.3eeweb.com
 0.0.0.0 auifhejgrg.betachiomega.org
+0.0.0.0 auiopt.unityads.unity3d.com
 0.0.0.0 aujourdhui.refr.adgtw.orangeads.fr
 0.0.0.0 aulist.com
 0.0.0.0 aumo123usedcarscom.112.2o7.net
@@ -24176,6 +24186,7 @@
 0.0.0.0 cdn-cf.justpremium.com
 0.0.0.0 cdn-cf.postitial.com
 0.0.0.0 cdn-config.taplytics.com
+0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-edgecast.optimizely.com
 0.0.0.0 cdn-engagement.inmarket.com
@@ -62325,6 +62336,7 @@
 0.0.0.0 prosoccer1.dyndns.info
 0.0.0.0 prosoccer2.dyndns.info
 0.0.0.0 prosoft-industry.eu
+0.0.0.0 prosper.on-line-casino.ca
 0.0.0.0 prosperent.com
 0.0.0.0 prosperity.charifree.org
 0.0.0.0 prosperoservers.pw
@@ -76363,6 +76375,7 @@
 0.0.0.0 track.theprovision.net
 0.0.0.0 track.theviralconcept.com
 0.0.0.0 track.tiara.daum.net
+0.0.0.0 track.tkbo.com
 0.0.0.0 track.todayreward.net
 0.0.0.0 track.tooplay.com
 0.0.0.0 track.topromotion.net
