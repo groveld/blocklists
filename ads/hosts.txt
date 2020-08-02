@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-01 @ 12:57:32 (UTC)
-# ENTRIES: 96172
+# UPDATED: 2020-08-02 @ 12:58:07 (UTC)
+# ENTRIES: 96173
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -72270,6 +72270,7 @@
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
 0.0.0.0 staldecor.pl
+0.0.0.0 stalesummer.com
 0.0.0.0 stalkchalk.co.uk
 0.0.0.0 stalliontrailblazer.co.zw
 0.0.0.0 stalsrubiarnia.pl

@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-01 @ 12:57:32 (UTC)
-# ENTRIES: 96172
+# UPDATED: 2020-08-02 @ 12:58:07 (UTC)
+# ENTRIES: 96173
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -72262,6 +72262,7 @@ address=/stakim.org/0.0.0.0
 address=/stakingscrew.com/0.0.0.0
 address=/stakingslope.com/0.0.0.0
 address=/staldecor.pl/0.0.0.0
+address=/stalesummer.com/0.0.0.0
 address=/stalkchalk.co.uk/0.0.0.0
 address=/stalliontrailblazer.co.zw/0.0.0.0
 address=/stalsrubiarnia.pl/0.0.0.0
