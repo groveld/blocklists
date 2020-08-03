@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-02 @ 12:58:07 (UTC)
-# ENTRIES: 96173
+# UPDATED: 2020-08-03 @ 12:59:14 (UTC)
+# ENTRIES: 96174
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -12873,6 +12873,7 @@
 0.0.0.0 adyz.net
 0.0.0.0 adz.afterdawn.net
 0.0.0.0 adz.mobi
+0.0.0.0 adz.rashflash.com
 0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.com
