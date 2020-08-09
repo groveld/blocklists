@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-08 @ 13:01:19 (UTC)
-# ENTRIES: 96010
+# UPDATED: 2020-08-09 @ 13:06:34 (UTC)
+# ENTRIES: 96011
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -4485,6 +4485,7 @@ address=/ad.ettoday.net/0.0.0.0
 address=/ad.eurosport.com/0.0.0.0
 address=/ad.excite.co.jp/0.0.0.0
 address=/ad.extrabanner.com/0.0.0.0
+address=/ad.exyws.org/0.0.0.0
 address=/ad.ezcybersearch.com/0.0.0.0
 address=/ad.f1cd.ru/0.0.0.0
 address=/ad.family.go.com/0.0.0.0
