@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-10 @ 13:02:24 (UTC)
-# ENTRIES: 96012
+# UPDATED: 2020-08-11 @ 13:05:06 (UTC)
+# ENTRIES: 96013
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -36530,6 +36530,7 @@ address=/fineboost-loghub.ap-southeast-1.log.aliyuncs.com/0.0.0.0
 address=/fineclicks.com/0.0.0.0
 address=/fined4sd.000webhostapp.com/0.0.0.0
 address=/finehardwoodfurniture.com.au/0.0.0.0
+address=/fineoffer.net/0.0.0.0
 address=/finezja-restauracja.pl/0.0.0.0
 address=/fingahvf.top/0.0.0.0
 address=/fingerprint.admicro.vn/0.0.0.0

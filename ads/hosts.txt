@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-10 @ 13:02:24 (UTC)
-# ENTRIES: 96012
+# UPDATED: 2020-08-11 @ 13:05:06 (UTC)
+# ENTRIES: 96013
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -36538,6 +36538,7 @@
 0.0.0.0 fineclicks.com
 0.0.0.0 fined4sd.000webhostapp.com
 0.0.0.0 finehardwoodfurniture.com.au
+0.0.0.0 fineoffer.net
 0.0.0.0 finezja-restauracja.pl
 0.0.0.0 fingahvf.top
 0.0.0.0 fingerprint.admicro.vn
