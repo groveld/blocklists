@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-11 @ 13:05:06 (UTC)
-# ENTRIES: 96013
+# UPDATED: 2020-08-12 @ 13:02:05 (UTC)
+# ENTRIES: 96015
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -36879,6 +36879,7 @@
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0 flw.ero-advertising.com
 0.0.0.0 flx367.lporirxe.com
+0.0.0.0 fly-analytics.com
 0.0.0.0 fly-by-night-dolly.000webhostapp.com
 0.0.0.0 flyb787.com
 0.0.0.0 flyberianclothing.com
@@ -77253,6 +77254,7 @@
 0.0.0.0 tracking.lay-ota.fr
 0.0.0.0 tracking.layo-ta.fr
 0.0.0.0 tracking.leadlander.com
+0.0.0.0 tracking.lenddom.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lifescript.com

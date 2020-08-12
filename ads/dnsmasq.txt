@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-11 @ 13:05:06 (UTC)
-# ENTRIES: 96013
+# UPDATED: 2020-08-12 @ 13:02:05 (UTC)
+# ENTRIES: 96015
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -36871,6 +36871,7 @@ address=/flurry.com/0.0.0.0
 address=/flury-ycpi.gycpi.b.yahoodns.net/0.0.0.0
 address=/flw.ero-advertising.com/0.0.0.0
 address=/flx367.lporirxe.com/0.0.0.0
+address=/fly-analytics.com/0.0.0.0
 address=/fly-by-night-dolly.000webhostapp.com/0.0.0.0
 address=/flyb787.com/0.0.0.0
 address=/flyberianclothing.com/0.0.0.0
@@ -77245,6 +77246,7 @@ address=/tracking.kurier.at/0.0.0.0
 address=/tracking.lay-ota.fr/0.0.0.0
 address=/tracking.layo-ta.fr/0.0.0.0
 address=/tracking.leadlander.com/0.0.0.0
+address=/tracking.lenddom.com/0.0.0.0
 address=/tracking.lengow.com/0.0.0.0
 address=/tracking.lenzmx.com/0.0.0.0
 address=/tracking.lifescript.com/0.0.0.0
