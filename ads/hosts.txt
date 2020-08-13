@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-12 @ 13:02:05 (UTC)
-# ENTRIES: 96015
+# UPDATED: 2020-08-13 @ 13:07:13 (UTC)
+# ENTRIES: 96017
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -48351,6 +48351,7 @@
 0.0.0.0 lfatwater.com
 0.0.0.0 lfcizjjtkbyjjk2ya5h8.maherstcottage.com.au
 0.0.0.0 lfcraft.com
+0.0.0.0 lfeeder.com
 0.0.0.0 lfgkyy.com
 0.0.0.0 lfjbafklgaga.co.vu
 0.0.0.0 lfjcytrfuvg.com
@@ -77325,6 +77326,7 @@
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.tapinfluence.com
+0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
 0.0.0.0 tracking.trackmobistore.com

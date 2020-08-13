@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-12 @ 13:02:05 (UTC)
-# ENTRIES: 96015
+# UPDATED: 2020-08-13 @ 13:07:13 (UTC)
+# ENTRIES: 96017
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -48343,6 +48343,7 @@ address=/lfacebook.za.pl/0.0.0.0
 address=/lfatwater.com/0.0.0.0
 address=/lfcizjjtkbyjjk2ya5h8.maherstcottage.com.au/0.0.0.0
 address=/lfcraft.com/0.0.0.0
+address=/lfeeder.com/0.0.0.0
 address=/lfgkyy.com/0.0.0.0
 address=/lfjbafklgaga.co.vu/0.0.0.0
 address=/lfjcytrfuvg.com/0.0.0.0
@@ -77317,6 +77318,7 @@ address=/tracking.sv23.monarchads.com/0.0.0.0
 address=/tracking.synthasite.net/0.0.0.0
 address=/tracking.taboola.com/0.0.0.0
 address=/tracking.tapinfluence.com/0.0.0.0
+address=/tracking.thinkabt.com/0.0.0.0
 address=/tracking.tomsguide.com/0.0.0.0
 address=/tracking.tomshardware.com/0.0.0.0
 address=/tracking.trackmobistore.com/0.0.0.0
