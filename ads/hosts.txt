@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-16 @ 13:05:11 (UTC)
-# ENTRIES: 96755
+# UPDATED: 2020-08-17 @ 13:04:43 (UTC)
+# ENTRIES: 96757
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -61018,6 +61018,7 @@
 0.0.0.0 pgebok.com
 0.0.0.0 pginludhiana.com
 0.0.0.0 pgl.example
+0.0.0.0 pgl.example.com
 0.0.0.0 pgl.example0101
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgoogleawbgo.xyz
@@ -69283,6 +69284,7 @@
 0.0.0.0 servads.aip.org
 0.0.0.0 servads.fansshare.com
 0.0.0.0 servadsdisrupt.com
+0.0.0.0 servamain.ddns.net
 0.0.0.0 servdswncjkcn.ru
 0.0.0.0 serve-east.acuityplatform.com
 0.0.0.0 serve-prod1204.uberads.com

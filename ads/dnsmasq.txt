@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-16 @ 13:05:11 (UTC)
-# ENTRIES: 96755
+# UPDATED: 2020-08-17 @ 13:04:43 (UTC)
+# ENTRIES: 96757
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -61010,6 +61010,7 @@ address=/pge.unityads.unity3d.com/0.0.0.0
 address=/pgebok.com/0.0.0.0
 address=/pginludhiana.com/0.0.0.0
 address=/pgl.example/0.0.0.0
+address=/pgl.example.com/0.0.0.0
 address=/pgl.example0101/0.0.0.0
 address=/pgmediaserve.com/0.0.0.0
 address=/pgoogleawbgo.xyz/0.0.0.0
@@ -69275,6 +69276,7 @@ address=/servad.mynet.com/0.0.0.0
 address=/servads.aip.org/0.0.0.0
 address=/servads.fansshare.com/0.0.0.0
 address=/servadsdisrupt.com/0.0.0.0
+address=/servamain.ddns.net/0.0.0.0
 address=/servdswncjkcn.ru/0.0.0.0
 address=/serve-east.acuityplatform.com/0.0.0.0
 address=/serve-prod1204.uberads.com/0.0.0.0
