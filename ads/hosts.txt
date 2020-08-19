@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-18 @ 13:04:41 (UTC)
-# ENTRIES: 96156
+# UPDATED: 2020-08-19 @ 13:07:06 (UTC)
+# ENTRIES: 96163
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -7675,6 +7675,7 @@
 0.0.0.0 adobeo.com
 0.0.0.0 adobeonlinereader.000webhostapp.com
 0.0.0.0 adobepdfremmit.000webhostapp.com
+0.0.0.0 adobestats.com
 0.0.0.0 adobey.uk
 0.0.0.0 adobur.com
 0.0.0.0 adobur.net
@@ -20613,6 +20614,7 @@
 0.0.0.0 bitcoin-billion-club.com
 0.0.0.0 bitcoin-storm.com
 0.0.0.0 bitcoin-trader-app.com
+0.0.0.0 bitcoinaussiesystemsoft.com
 0.0.0.0 bitcoincodesverigerecension.com
 0.0.0.0 bitcoinera-appl.com
 0.0.0.0 bitcoinerapro.com
@@ -23671,6 +23673,7 @@
 0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 campaign.bharatmatrimony.com
+0.0.0.0 campaign.budgethyve.com
 0.0.0.0 campaign.iitech.dk
 0.0.0.0 campaign.indieclick.com
 0.0.0.0 campaigns.ambient-platform.com
@@ -36859,6 +36862,7 @@
 0.0.0.0 fliteilex.com
 0.0.0.0 flixnetmove.com
 0.0.0.0 flixnetmovi.com
+0.0.0.0 flixprice.com
 0.0.0.0 flixsport.co
 0.0.0.0 flluae.com
 0.0.0.0 flndmiphone.com
@@ -41568,6 +41572,7 @@
 0.0.0.0 hollistersklep.com
 0.0.0.0 hollisterwarszawa.pl
 0.0.0.0 hollowshake.com
+0.0.0.0 hollps.win
 0.0.0.0 hollymatthewsmakeup.co.uk
 0.0.0.0 hollyrude.us.intellitxt.com
 0.0.0.0 hollywood.122.2o7.net
@@ -60939,6 +60944,7 @@
 0.0.0.0 pilltabletsrxbargain.net
 0.0.0.0 pilmedia.ads.visionweb.no
 0.0.0.0 pilot.civicscience.com
+0.0.0.0 pilotaffiliate.com
 0.0.0.0 pilotenespel.gq
 0.0.0.0 pim14uwcgivjdw8esf8u.mbservicesyorkshire.co.uk
 0.0.0.0 pimpout.com
@@ -72818,6 +72824,7 @@
 0.0.0.0 stats.mobincube.com
 0.0.0.0 stats.mondespersistants.com
 0.0.0.0 stats.nascar.com
+0.0.0.0 stats.nba.com.edgekey.net
 0.0.0.0 stats.netsolads.com
 0.0.0.0 stats.nowpublic.com
 0.0.0.0 stats.nutritiondata.com

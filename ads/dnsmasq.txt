@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-18 @ 13:04:41 (UTC)
-# ENTRIES: 96156
+# UPDATED: 2020-08-19 @ 13:07:06 (UTC)
+# ENTRIES: 96163
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -7667,6 +7667,7 @@ address=/adobeflashupdate14.com/0.0.0.0
 address=/adobeo.com/0.0.0.0
 address=/adobeonlinereader.000webhostapp.com/0.0.0.0
 address=/adobepdfremmit.000webhostapp.com/0.0.0.0
+address=/adobestats.com/0.0.0.0
 address=/adobey.uk/0.0.0.0
 address=/adobur.com/0.0.0.0
 address=/adobur.net/0.0.0.0
@@ -20605,6 +20606,7 @@ address=/bitcoadz.io/0.0.0.0
 address=/bitcoin-billion-club.com/0.0.0.0
 address=/bitcoin-storm.com/0.0.0.0
 address=/bitcoin-trader-app.com/0.0.0.0
+address=/bitcoinaussiesystemsoft.com/0.0.0.0
 address=/bitcoincodesverigerecension.com/0.0.0.0
 address=/bitcoinera-appl.com/0.0.0.0
 address=/bitcoinerapro.com/0.0.0.0
@@ -23663,6 +23665,7 @@ address=/campaign-tapad.s3.amazonaws.com/0.0.0.0
 address=/campaign.accesstrade.vn/0.0.0.0
 address=/campaign.ad-brix.com/0.0.0.0
 address=/campaign.bharatmatrimony.com/0.0.0.0
+address=/campaign.budgethyve.com/0.0.0.0
 address=/campaign.iitech.dk/0.0.0.0
 address=/campaign.indieclick.com/0.0.0.0
 address=/campaigns.ambient-platform.com/0.0.0.0
@@ -36851,6 +36854,7 @@ address=/flipvine.com/0.0.0.0
 address=/fliteilex.com/0.0.0.0
 address=/flixnetmove.com/0.0.0.0
 address=/flixnetmovi.com/0.0.0.0
+address=/flixprice.com/0.0.0.0
 address=/flixsport.co/0.0.0.0
 address=/flluae.com/0.0.0.0
 address=/flndmiphone.com/0.0.0.0
@@ -41560,6 +41564,7 @@ address=/hollandbusinessadvertising.nl/0.0.0.0
 address=/hollistersklep.com/0.0.0.0
 address=/hollisterwarszawa.pl/0.0.0.0
 address=/hollowshake.com/0.0.0.0
+address=/hollps.win/0.0.0.0
 address=/hollymatthewsmakeup.co.uk/0.0.0.0
 address=/hollyrude.us.intellitxt.com/0.0.0.0
 address=/hollywood.122.2o7.net/0.0.0.0
@@ -60931,6 +60936,7 @@ address=/pillsmoney.com/0.0.0.0
 address=/pilltabletsrxbargain.net/0.0.0.0
 address=/pilmedia.ads.visionweb.no/0.0.0.0
 address=/pilot.civicscience.com/0.0.0.0
+address=/pilotaffiliate.com/0.0.0.0
 address=/pilotenespel.gq/0.0.0.0
 address=/pim14uwcgivjdw8esf8u.mbservicesyorkshire.co.uk/0.0.0.0
 address=/pimpout.com/0.0.0.0
@@ -72810,6 +72816,7 @@ address=/stats.mirrorfootball.co.uk/0.0.0.0
 address=/stats.mobincube.com/0.0.0.0
 address=/stats.mondespersistants.com/0.0.0.0
 address=/stats.nascar.com/0.0.0.0
+address=/stats.nba.com.edgekey.net/0.0.0.0
 address=/stats.netsolads.com/0.0.0.0
 address=/stats.nowpublic.com/0.0.0.0
 address=/stats.nutritiondata.com/0.0.0.0
