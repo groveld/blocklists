@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-20 @ 13:08:44 (UTC)
-# ENTRIES: 95122
+# UPDATED: 2020-08-21 @ 13:05:27 (UTC)
+# ENTRIES: 95124
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -16043,6 +16043,7 @@ address=/app.super-links.net/0.0.0.0
 address=/app.toopfacebook2.xyz/0.0.0.0
 address=/app.ubertags.com/0.0.0.0
 address=/app.unbounce.com/0.0.0.0
+address=/app.upee.online/0.0.0.0
 address=/app.vayron.cc/0.0.0.0
 address=/app.winwords.adhood.com/0.0.0.0
 address=/app.wootric.com/0.0.0.0
@@ -77925,6 +77926,7 @@ address=/updplhzaag1rc8wlbycuca.download/0.0.0.0
 address=/updt-secure-alert.rccgcanada.org/0.0.0.0
 address=/updtdelacccinformatid82378uduzd23387aseodl23784.atdmaintenance.com.au/0.0.0.0
 address=/updtenet2019.com/0.0.0.0
+address=/upee.online/0.0.0.0
 address=/upepoeiw.co/0.0.0.0
 address=/upepoeiw.pro/0.0.0.0
 address=/uperpay.club/0.0.0.0

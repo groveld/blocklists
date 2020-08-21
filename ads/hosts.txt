@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-20 @ 13:08:44 (UTC)
-# ENTRIES: 95122
+# UPDATED: 2020-08-21 @ 13:05:27 (UTC)
+# ENTRIES: 95124
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -16051,6 +16051,7 @@
 0.0.0.0 app.toopfacebook2.xyz
 0.0.0.0 app.ubertags.com
 0.0.0.0 app.unbounce.com
+0.0.0.0 app.upee.online
 0.0.0.0 app.vayron.cc
 0.0.0.0 app.winwords.adhood.com
 0.0.0.0 app.wootric.com
@@ -77933,6 +77934,7 @@
 0.0.0.0 updt-secure-alert.rccgcanada.org
 0.0.0.0 updtdelacccinformatid82378uduzd23387aseodl23784.atdmaintenance.com.au
 0.0.0.0 updtenet2019.com
+0.0.0.0 upee.online
 0.0.0.0 upepoeiw.co
 0.0.0.0 upepoeiw.pro
 0.0.0.0 uperpay.club
