@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-21 @ 13:05:27 (UTC)
-# ENTRIES: 95124
+# UPDATED: 2020-08-22 @ 13:06:21 (UTC)
+# ENTRIES: 95128
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -2409,6 +2409,7 @@
 0.0.0.0 6pnfsdfm4p.ojuqcvkwwh.madpendesign.com.au
 0.0.0.0 6qbrxcchyely9xgsulhe.richambitions.co.uk
 0.0.0.0 6qhzz.allvideos.keme.info
+0.0.0.0 6sc.co
 0.0.0.0 6server.com
 0.0.0.0 6ssaintandeer-servicios18n.com
 0.0.0.0 6ssaintandeer-servicios3n.com
@@ -23711,6 +23712,7 @@
 0.0.0.0 catzell.com
 0.0.0.0 caue971.org
 0.0.0.0 causeandfx.com
+0.0.0.0 causecherry.com
 0.0.0.0 cavalinaeventos.com
 0.0.0.0 caveaudelteatro.it
 0.0.0.0 caveki.com
@@ -66956,6 +66958,7 @@
 0.0.0.0 sdc8prod1.wiley.com
 0.0.0.0 sdcchq.com
 0.0.0.0 sdcexecs.us.intellitxt.com
+0.0.0.0 sdcswingers.online
 0.0.0.0 sdcurepge.000webhostapp.com
 0.0.0.0 sdfaswaed2.nokiadns.com
 0.0.0.0 sdffsdsdffsdsfd.akyurekhirdavat.com
@@ -78574,6 +78577,7 @@
 0.0.0.0 vads.adbrite.com
 0.0.0.0 vads.net.vn
 0.0.0.0 vads.vn
+0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vahkeioanku.com
 0.0.0.0 vaime.net.popunder.ru
 0.0.0.0 vaippaandedicators.reducemycard.com
