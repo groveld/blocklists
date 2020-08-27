@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-26 @ 13:12:56 (UTC)
-# ENTRIES: 93602
+# UPDATED: 2020-08-27 @ 13:10:57 (UTC)
+# ENTRIES: 93604
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -17430,6 +17430,7 @@
 0.0.0.0 awa-beauty.ru
 0.0.0.0 awaf.answers.nielsen.com
 0.0.0.0 awaisjuno.net
+0.0.0.0 awakebird.com
 0.0.0.0 awakeningthenations.com
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awardspace.de.intellitxt.com
@@ -70627,6 +70628,7 @@
 0.0.0.0 stephens-laughlin.com
 0.0.0.0 stephwardfashion.com
 0.0.0.0 stepnation.com
+0.0.0.0 stepplane.com
 0.0.0.0 stepstone.112.2o7.net
 0.0.0.0 stercy.website
 0.0.0.0 steroidsworld.pl

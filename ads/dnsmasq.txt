@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-08-26 @ 13:12:56 (UTC)
-# ENTRIES: 93602
+# UPDATED: 2020-08-27 @ 13:10:57 (UTC)
+# ENTRIES: 93604
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -17422,6 +17422,7 @@ address=/aw.masterstats.com/0.0.0.0
 address=/awa-beauty.ru/0.0.0.0
 address=/awaf.answers.nielsen.com/0.0.0.0
 address=/awaisjuno.net/0.0.0.0
+address=/awakebird.com/0.0.0.0
 address=/awakeningthenations.com/0.0.0.0
 address=/awaps.yandex.ru/0.0.0.0
 address=/awardspace.de.intellitxt.com/0.0.0.0
@@ -70619,6 +70620,7 @@ address=/stephenbest.com/0.0.0.0
 address=/stephens-laughlin.com/0.0.0.0
 address=/stephwardfashion.com/0.0.0.0
 address=/stepnation.com/0.0.0.0
+address=/stepplane.com/0.0.0.0
 address=/stepstone.112.2o7.net/0.0.0.0
 address=/stercy.website/0.0.0.0
 address=/steroidsworld.pl/0.0.0.0
