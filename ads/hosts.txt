@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-08-27 @ 13:10:57 (UTC)
-# ENTRIES: 93604
+# UPDATED: 2020-08-28 @ 13:09:33 (UTC)
+# ENTRIES: 93616
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -7483,6 +7483,7 @@
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.51.net
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads.5min.at
 0.0.0.0 ads.73dpi.com
 0.0.0.0 ads.7days.ae
 0.0.0.0 ads.8833.com
@@ -7607,6 +7608,7 @@
 0.0.0.0 ads.akademika.bg
 0.0.0.0 ads.al.com
 0.0.0.0 ads.albawaba.com
+0.0.0.0 ads.alive.com
 0.0.0.0 ads.all-free-download.com
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 ads.allotraffic.com
@@ -7634,6 +7636,7 @@
 0.0.0.0 ads.amusive.com
 0.0.0.0 ads.angop.ao
 0.0.0.0 ads.anm.co.uk
+0.0.0.0 ads.annabac.com
 0.0.0.0 ads.ants.vn
 0.0.0.0 ads.anvato.com
 0.0.0.0 ads.aol.co.uk
@@ -7704,6 +7707,7 @@
 0.0.0.0 ads.bauerpublishing.com
 0.0.0.0 ads.baventures.com
 0.0.0.0 ads.baz.ch
+0.0.0.0 ads.bb59.ru
 0.0.0.0 ads.bbcworld.com
 0.0.0.0 ads.bcnewsgroup.com
 0.0.0.0 ads.be2hand.com
@@ -7854,6 +7858,7 @@
 0.0.0.0 ads.cinemaden.com
 0.0.0.0 ads.cineville.nl
 0.0.0.0 ads.city24.ee
+0.0.0.0 ads.citymagazine.si
 0.0.0.0 ads.cjonline.com
 0.0.0.0 ads.clamav.net
 0.0.0.0 ads.clara.net
@@ -9398,6 +9403,7 @@
 0.0.0.0 ads.zedo.com
 0.0.0.0 ads.zepterads.com
 0.0.0.0 ads.zeusclicks.com
+0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads.zone-media.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads.zynga.com
@@ -10997,6 +11003,7 @@
 0.0.0.0 adserver.terra.com.br
 0.0.0.0 adserver.terra.es
 0.0.0.0 adserver.theknot.com
+0.0.0.0 adserver.thema.cc
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.thirty4.com
 0.0.0.0 adserver.thisislondon.co.uk
@@ -11136,6 +11143,7 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adsfeed3.brabys.co.za
 0.0.0.0 adsfile.qq.com
 0.0.0.0 adsflame.com
@@ -56604,6 +56612,7 @@
 0.0.0.0 openx.adfactor.nl
 0.0.0.0 openx.ajur.info
 0.0.0.0 openx.angelsgroup.org.uk
+0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.blindferret.com
 0.0.0.0 openx.bmwpower-bg.net
 0.0.0.0 openx.cairo360.com
@@ -56617,6 +56626,7 @@
 0.0.0.0 openx.hamarepo.com
 0.0.0.0 openx.imoti.net
 0.0.0.0 openx.itsmassive.com
+0.0.0.0 openx.kgmedia.eu
 0.0.0.0 openx.kokoma.pl
 0.0.0.0 openx.mercatormedia.com
 0.0.0.0 openx.nagrzyby.pl
@@ -56626,6 +56636,7 @@
 0.0.0.0 openx.org
 0.0.0.0 openx.sexsearchcom.com
 0.0.0.0 openx.shinyads.com
+0.0.0.0 openx.skinet.cz
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx.stand.bg
 0.0.0.0 openx.trellian.com
@@ -56635,6 +56646,7 @@
 0.0.0.0 openx.xenium.pl
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx2.fotoflexer.com
+0.0.0.0 openx2.kytary.cz
 0.0.0.0 openxenterprise.com
 0.0.0.0 openxxx.viragemedia.com
 0.0.0.0 opera-server.thinknearhub.com
