@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-03 @ 13:11:53 (UTC)
-# ENTRIES: 94065
+# UPDATED: 2020-09-04 @ 13:12:06 (UTC)
+# ENTRIES: 94066
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -59600,6 +59600,7 @@
 0.0.0.0 ploide.org
 0.0.0.0 plolgki.com.cn
 0.0.0.0 ploskonax.com
+0.0.0.0 plotrabbit.com
 0.0.0.0 ploumanach-village-prefere.fr
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 plpanaifheaighai.com

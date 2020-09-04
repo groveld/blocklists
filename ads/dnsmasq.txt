@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-09-03 @ 13:11:53 (UTC)
-# ENTRIES: 94065
+# UPDATED: 2020-09-04 @ 13:12:06 (UTC)
+# ENTRIES: 94066
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -59592,6 +59592,7 @@ address=/ploaz54.com/0.0.0.0
 address=/ploide.org/0.0.0.0
 address=/plolgki.com.cn/0.0.0.0
 address=/ploskonax.com/0.0.0.0
+address=/plotrabbit.com/0.0.0.0
 address=/ploumanach-village-prefere.fr/0.0.0.0
 address=/ploy.batmobi.net/0.0.0.0
 address=/plpanaifheaighai.com/0.0.0.0
