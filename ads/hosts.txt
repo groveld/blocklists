@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-08 @ 13:16:31 (UTC)
-# ENTRIES: 94011
+# UPDATED: 2020-09-09 @ 13:14:52 (UTC)
+# ENTRIES: 94014
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -21885,6 +21885,7 @@
 0.0.0.0 budujemypodklucz.pl
 0.0.0.0 budujzdrowie.pl
 0.0.0.0 buesink.com
+0.0.0.0 buf.lemonde.fr
 0.0.0.0 buffalogoesout.com
 0.0.0.0 buffer-control.com
 0.0.0.0 bufore.com
@@ -22400,6 +22401,7 @@
 0.0.0.0 c0.anthill.vn
 0.0.0.0 c0.st.anthill.vn
 0.0.0.0 c001.trax-ad.jp
+0.0.0.0 c0011.boursorama.com
 0.0.0.0 c00162-dl.urbanairship.com
 0.0.0.0 c03.adsummos.net
 0.0.0.0 c04.adsummos.net
@@ -32925,6 +32927,7 @@
 0.0.0.0 eno.si
 0.0.0.0 enoratraffic.com
 0.0.0.0 enormon.ga
+0.0.0.0 enormousearth.com
 0.0.0.0 enpara-finansbank.com
 0.0.0.0 enpara-finansbanka.com
 0.0.0.0 enpara-onlinesube.com

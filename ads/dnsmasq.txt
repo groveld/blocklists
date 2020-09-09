@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-09-08 @ 13:16:31 (UTC)
-# ENTRIES: 94011
+# UPDATED: 2020-09-09 @ 13:14:52 (UTC)
+# ENTRIES: 94014
 
 address=/0-24bpautomentes.hu/0.0.0.0
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
@@ -21877,6 +21877,7 @@ address=/budsinc.com/0.0.0.0
 address=/budujemypodklucz.pl/0.0.0.0
 address=/budujzdrowie.pl/0.0.0.0
 address=/buesink.com/0.0.0.0
+address=/buf.lemonde.fr/0.0.0.0
 address=/buffalogoesout.com/0.0.0.0
 address=/buffer-control.com/0.0.0.0
 address=/bufore.com/0.0.0.0
@@ -22392,6 +22393,7 @@ address=/c0.amazingcounters.com/0.0.0.0
 address=/c0.anthill.vn/0.0.0.0
 address=/c0.st.anthill.vn/0.0.0.0
 address=/c001.trax-ad.jp/0.0.0.0
+address=/c0011.boursorama.com/0.0.0.0
 address=/c00162-dl.urbanairship.com/0.0.0.0
 address=/c03.adsummos.net/0.0.0.0
 address=/c04.adsummos.net/0.0.0.0
@@ -32917,6 +32919,7 @@ address=/ennvoy.com/0.0.0.0
 address=/eno.si/0.0.0.0
 address=/enoratraffic.com/0.0.0.0
 address=/enormon.ga/0.0.0.0
+address=/enormousearth.com/0.0.0.0
 address=/enpara-finansbank.com/0.0.0.0
 address=/enpara-finansbanka.com/0.0.0.0
 address=/enpara-onlinesube.com/0.0.0.0
