@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-09 @ 13:14:52 (UTC)
-# ENTRIES: 94014
+# UPDATED: 2020-09-10 @ 13:15:08 (UTC)
+# ENTRIES: 94016
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -47955,6 +47955,8 @@
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.81plug.com
 0.0.0.0 logs.comics.com
+0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.eresmas.net
 0.0.0.0 logs.gaana.com
