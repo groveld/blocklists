@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-11 @ 13:16:12 (UTC)
-# ENTRIES: 94016
+# UPDATED: 2020-09-12 @ 13:16:50 (UTC)
+# ENTRIES: 94018
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -2462,6 +2462,7 @@
 0.0.0.0 8d6274.t.axf8.net
 0.0.0.0 8fvchzuz.myutilitydomain.com
 0.0.0.0 8gold.com
+0.0.0.0 8hj500ro4t7.groovepages.com
 0.0.0.0 8khmer.com
 0.0.0.0 8live.com
 0.0.0.0 8milestechnologies.com
@@ -70822,6 +70823,7 @@
 0.0.0.0 storecor.net
 0.0.0.0 storefedexship.com
 0.0.0.0 storemarked-contact.com
+0.0.0.0 storeoverlylatestapplication.best
 0.0.0.0 stores-ebav-webaddserberwebportalwebdll.dns05.com
 0.0.0.0 storestteampowered.com
 0.0.0.0 storesurprise.com
