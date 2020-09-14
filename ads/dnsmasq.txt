@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-09-13 @ 13:16:34 (UTC)
-# ENTRIES: 94018
+# UPDATED: 2020-09-14 @ 13:16:57 (UTC)
+# ENTRIES: 94019
 
 address=/0-24bpautomentes.hu/0.0.0.0
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
@@ -72289,6 +72289,7 @@ address=/targer.co.za/0.0.0.0
 address=/target-support.online/0.0.0.0
 address=/target.cm/0.0.0.0
 address=/target.e-generator.com/0.0.0.0
+address=/target.microsoft.com/0.0.0.0
 address=/target.net.finam.ru/0.0.0.0
 address=/target.smi2.net/0.0.0.0
 address=/targetctracker.com/0.0.0.0
