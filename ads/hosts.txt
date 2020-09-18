@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-17 @ 13:19:27 (UTC)
-# ENTRIES: 94664
+# UPDATED: 2020-09-18 @ 13:22:04 (UTC)
+# ENTRIES: 94666
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -55604,6 +55604,7 @@
 0.0.0.0 o2.nowy-regulamin.pl
 0.0.0.0 o2.regulamin-poczty.net
 0.0.0.0 o2adpl.hit.gemius.pl
+0.0.0.0 o333o.com
 0.0.0.0 o365.ezyro.com
 0.0.0.0 o3sndvzo25.com
 0.0.0.0 o5gee.from-ks.com
@@ -73923,6 +73924,7 @@
 0.0.0.0 tidbitscom.skimlinks.com
 0.0.0.0 tidebuy.com
 0.0.0.0 tidewatermech.com
+0.0.0.0 tidint.pro
 0.0.0.0 tidyup.company
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tie.iprom.net
