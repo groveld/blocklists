@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-18 @ 13:22:04 (UTC)
-# ENTRIES: 94666
+# UPDATED: 2020-09-19 @ 13:20:33 (UTC)
+# ENTRIES: 94668
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -19131,6 +19131,7 @@
 0.0.0.0 behindthenumbers.com.au
 0.0.0.0 behlenjoiner.com
 0.0.0.0 bei.nuggad.net
+0.0.0.0 beifibpola.work
 0.0.0.0 beijingpifukeyiyuan.com
 0.0.0.0 beikehongbei.com
 0.0.0.0 beinghypothermic.blogspot.com
@@ -19542,6 +19543,7 @@
 0.0.0.0 bibliodro.pl
 0.0.0.0 bibliomaniacal-cont.000webhostapp.com
 0.0.0.0 biciklin.si
+0.0.0.0 bicoinsprofit.com
 0.0.0.0 bicpzonasegura-viabcp.cf
 0.0.0.0 bicpzonasequra.vivabcps.tk
 0.0.0.0 bicpzone.wwwsgss2.a2hosted.com
