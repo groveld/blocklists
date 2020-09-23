@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-09-22 @ 13:21:12 (UTC)
-# ENTRIES: 94595
+# UPDATED: 2020-09-23 @ 13:22:05 (UTC)
+# ENTRIES: 94598
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -36595,6 +36595,7 @@ address=/futuristicfairies.com/0.0.0.0
 address=/fuuze.net/0.0.0.0
 address=/fuviseni.angelfire.com/0.0.0.0
 address=/fuzzy-pole.000webhostapp.com/0.0.0.0
+address=/fuzzybasketball.com/0.0.0.0
 address=/fuzzybeauty.com/0.0.0.0
 address=/fuzzyflavor.com/0.0.0.0
 address=/fuzzyweather.com/0.0.0.0
@@ -38963,6 +38964,7 @@ address=/guildofangels.net/0.0.0.0
 address=/guile.jp/0.0.0.0
 address=/guillab3.beget.tech/0.0.0.0
 address=/guimaraesconstrutorasjc.com.br/0.0.0.0
+address=/guisuaphical.work/0.0.0.0
 address=/guitarforce.pl/0.0.0.0
 address=/guj.122.2o7.net/0.0.0.0
 address=/gujaratfurnitureassociation.com/0.0.0.0
@@ -76373,6 +76375,7 @@ address=/uk.adserver.yahoo.com/0.0.0.0
 address=/uk.advertising.yahoo.com/0.0.0.0
 address=/uk.at.atwola.com/0.0.0.0
 address=/uk.best-top.biz/0.0.0.0
+address=/uk.bitcoinfreedom-appl.t500track42.com/0.0.0.0
 address=/uk.cqcounter.com/0.0.0.0
 address=/uk.i1.yimg.com/0.0.0.0
 address=/uk.mediaplayercodecpack.com/0.0.0.0

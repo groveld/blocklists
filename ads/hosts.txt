@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-22 @ 13:21:12 (UTC)
-# ENTRIES: 94595
+# UPDATED: 2020-09-23 @ 13:22:05 (UTC)
+# ENTRIES: 94598
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -36603,6 +36603,7 @@
 0.0.0.0 fuuze.net
 0.0.0.0 fuviseni.angelfire.com
 0.0.0.0 fuzzy-pole.000webhostapp.com
+0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzybeauty.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
@@ -38971,6 +38972,7 @@
 0.0.0.0 guile.jp
 0.0.0.0 guillab3.beget.tech
 0.0.0.0 guimaraesconstrutorasjc.com.br
+0.0.0.0 guisuaphical.work
 0.0.0.0 guitarforce.pl
 0.0.0.0 guj.122.2o7.net
 0.0.0.0 gujaratfurnitureassociation.com
@@ -76381,6 +76383,7 @@
 0.0.0.0 uk.advertising.yahoo.com
 0.0.0.0 uk.at.atwola.com
 0.0.0.0 uk.best-top.biz
+0.0.0.0 uk.bitcoinfreedom-appl.t500track42.com
 0.0.0.0 uk.cqcounter.com
 0.0.0.0 uk.i1.yimg.com
 0.0.0.0 uk.mediaplayercodecpack.com
