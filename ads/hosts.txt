@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/hosts.txt
-# UPDATED: 2020-09-24 @ 13:24:31 (UTC)
-# ENTRIES: 94598
+# UPDATED: 2020-09-25 @ 13:23:18 (UTC)
+# ENTRIES: 94599
 
 127.0.0.1 localhost
 127.0.0.1 local
@@ -62828,6 +62828,7 @@
 0.0.0.0 reconnectworkshops.com
 0.0.0.0 record.affiliatelounge.com
 0.0.0.0 record.affiliates.karjalakasino.com
+0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.commissionking.com
 0.0.0.0 record.commissionlounge.com
 0.0.0.0 record.foresee.com

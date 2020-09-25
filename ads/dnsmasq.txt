@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/ads/dnsmasq.txt
-# UPDATED: 2020-09-24 @ 13:24:31 (UTC)
-# ENTRIES: 94598
+# UPDATED: 2020-09-25 @ 13:23:18 (UTC)
+# ENTRIES: 94599
 
 address=/0.0.0.0.beeglivesex.com/0.0.0.0
 address=/0.0.0.0.creative.hpyrdr.com/0.0.0.0
@@ -62820,6 +62820,7 @@ address=/reconfirmationaccesscustomers.com/0.0.0.0
 address=/reconnectworkshops.com/0.0.0.0
 address=/record.affiliatelounge.com/0.0.0.0
 address=/record.affiliates.karjalakasino.com/0.0.0.0
+address=/record.bonniergaming.com/0.0.0.0
 address=/record.commissionking.com/0.0.0.0
 address=/record.commissionlounge.com/0.0.0.0
 address=/record.foresee.com/0.0.0.0
