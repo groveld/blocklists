@@ -19,7 +19,7 @@ JSON=()
 
 for DIR in ./data/*; do
   LIST=${DIR##*/}
-  LISTURL="https://raw.githubusercontent.com/groveld/blocklists/master/lists/${LIST}"
+  LISTURL="https://raw.githubusercontent.com/groveld/blocklists/lists/${LIST}"
   TYPEJSON=()
 
   [ ! -d ./temp/${LIST} ] && mkdir -p ./temp/${LIST}
@@ -27,10 +27,10 @@ for DIR in ./data/*; do
   wget -i ${DIR}/source.list -O ./temp/${LIST}/dirty.source.list
   parseFile ./temp/${LIST}/dirty.source.list > ./temp/${LIST}/clean.source.list
 
-  cat ./global.black.list ${DIR}/black.list > ./temp/${LIST}/dirty.black.list
+  cat ./data/global.black.list ${DIR}/black.list > ./temp/${LIST}/dirty.black.list
   parseFile ./temp/${LIST}/dirty.black.list > ./temp/${LIST}/clean.black.list
 
-  cat ./global.white.list ${DIR}/white.list > ./temp/${LIST}/dirty.white.list
+  cat ./data/global.white.list ${DIR}/white.list > ./temp/${LIST}/dirty.white.list
   parseFile ./temp/${LIST}/dirty.white.list > ./temp/${LIST}/clean.white.list
 
   sort -u ./temp/${LIST}/clean.source.list ./temp/${LIST}/clean.black.list | grep -Fxv -f ./temp/${LIST}/clean.white.list > ./temp/${LIST}/${LIST}.list
