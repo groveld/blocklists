@@ -1,19 +1,21 @@
-name: Generate Lists
+name: Generate new lists
 
 on:
   push:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  schedule:
+    - cron:  '0 0 * * *'
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
+      - name: GitHub Checkout
       - uses: actions/checkout@v2
 
-      - name: Generate Lists
+      - name: Generate new lists
         run: |
           chmod +x generate.sh
           ./generate.sh
@@ -23,5 +25,5 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add -A
-          git commit -am "Auto-generated lists by GitHub Actions (${GITHUB_SHA::7})"
+          git commit -am "Updated by GitHub Actions (${GITHUB_SHA::7})"
           git push -f origin ${PUSH_BRANCH} > /dev/null 2>&1
