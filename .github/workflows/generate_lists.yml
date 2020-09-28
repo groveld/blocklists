@@ -1,0 +1,25 @@
+name: Generate Lists
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Lists
+        run: |
+          chmod +x generate.sh
+          ./generate.sh
+
+      - name: Push to GitHub
+        run: |
+          git add -A
+          git commit -am 'Auto generated updated lists'
+          git push
