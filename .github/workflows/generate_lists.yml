@@ -20,6 +20,8 @@ jobs:
 
       - name: Push to GitHub
         run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add -A
-          git commit -am 'Auto generated updated lists'
-          git push
+          git commit -am "Auto-generated lists by GitHub Actions (${GITHUB_SHA::7})"
+          git push -f origin ${PUSH_BRANCH} > /dev/null 2>&1
