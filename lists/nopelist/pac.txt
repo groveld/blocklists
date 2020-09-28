@@ -1,5 +1,5 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/master/lists/nopelist/pac.txt
-# UPDATED: 2020-09-28 19:31:22.846205643 +0000
+# UPDATED: 2020-09-28 21:55:50.186963129 +0000
 # ENTRIES: 136203
 
 var BLOCKLIST = {
