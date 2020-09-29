@@ -24,11 +24,14 @@ jobs:
 
       - name: Generate new lists
         run: |
-          chmod +x ${GITHUB_WORKSPACE}/master/generate.sh
-          ${GITHUB_WORKSPACE}/master/generate.sh
+          cd ${GITHUB_WORKSPACE}/master/
+          chmod +x ./generate.sh
+          ./generate.sh
 
       - name: Copy to lists branch
-        run: rsync -vrth --delete --exclude ".git*" ${GITHUB_WORKSPACE}/master/lists/ ${GITHUB_WORKSPACE}/lists/
+        run: |
+          cd ${GITHUB_WORKSPACE}/
+          rsync -vrth --delete --exclude ".git*" ./master/lists/ ./lists/
 
       - name: Push to GitHub
         run: |
