@@ -1,0 +1,16 @@
+# LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/global.white.list/pac.txt
+# UPDATED: 2020-09-29 08:48:37.532803058 +0000
+# ENTRIES: 0
+
+var BLOCKLIST = {
+};
+
+function FindProxyForURL(url, host) {
+  var h = host.toLowerCase();
+  while(1) {
+    var n = h.indexOf(.);
+    if (n == -1) break;
+    var h = h.substr(n+1);
+    if (h in BLOCKLIST) return PROXY }
+  return DIRECT;
+}
