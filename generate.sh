@@ -10,14 +10,15 @@ function parseFile() {
 }
 
 function jsonMeta() {
-  FILESIZE=$(stat -c '%s' ./lists/${LIST}/${TYPE}.txt)
+  FILESIZE=$(stat -c '%s' ./lists/${LIST}/${TYPE}.txt | numfmt --to iec)
   FILEHASH=$(sha1sum ./lists/${LIST}/${TYPE}.txt | cut -d' ' -f1)
   echo "\"file\":\"${LISTURL}/${TYPE}.txt\",\"entries\":\"${ENTRIES}\",\"size\":\"${FILESIZE}\",\"date\":\"${UPDATED}\",\"hash\":\"${FILEHASH}\""
 }
 
 JSON=()
 
-for DIR in ./data/*; do
+for dir in ./data/*/; do
+  DIR=${dir%*/} # remove trailing slash
   LIST=${DIR##*/}
   LISTURL="https://raw.githubusercontent.com/groveld/blocklists/lists/${LIST}"
   TYPEJSON=()
