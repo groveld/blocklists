@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt
-# UPDATED: 2020-09-29 09:03:36.116988278 +0000
-# ENTRIES: 136358
+# UPDATED: 2020-09-29 21:13:46.437996413 +0000
+# ENTRIES: 136213
 
 ||0--e.info^
 ||0-24bpautomentes.hu^
@@ -15077,7 +15077,6 @@
 ||aircanad.com^
 ||aircanadaca.com^
 ||aircananda.com^
-||aircotop.nl^
 ||aircovid19virus.com^
 ||aircraft.evote.cl^
 ||airdauks.net^
@@ -15612,7 +15611,6 @@
 ||aliexpress-acc-sup-up-sec.srivara.com^
 ||aliexpress-summer.cityads.com^
 ||aliexpressbot.ru^
-||aliexpresscoupon.nl^
 ||aliexpresswincoupons.club^
 ||alif-ba-ta.com^
 ||alifruitjuice.biz^
@@ -16252,7 +16250,6 @@
 ||amazon-emailf.info^
 ||amazon-hotline.com^
 ||amazon-jp-co.today^
-||amazon-jp-copro.xyz^
 ||amazon-mail.photos^
 ||amazon-mail.plus^
 ||amazon-mail.win^
@@ -16268,7 +16265,6 @@
 ||amazon-updateas-co-jpcenter.xyz^
 ||amazon-updateas-co-jponline.xyz^
 ||amazon-validationa.buzz^
-||amazon-validationa.xyz^
 ||amazon.co.jp.b2fdetto-s4f-fq5e6y14vqg.run^
 ||amazon.co.uk.security-check.ga^
 ||amazon.de.0-vwixn-amazon-qu0y1.ru^
@@ -16311,8 +16307,6 @@
 ||amazoncc.top^
 ||amazonco.uk^
 ||amazoncustomerservice.d2.sc.omtrdc.net^
-||amazoncuuo.xyz^
-||amazoncuus.xyz^
 ||amazoncuuw.xyz^
 ||amazoncuuz.xyz^
 ||amazondorce.com^
@@ -16356,7 +16350,6 @@
 ||amazonsignin.lechertshuber.b00ryv9r20.de^
 ||amazonsnno.xyz^
 ||amazontips.net^
-||amazonupdate-security.com^
 ||amazonwebservices.d2.sc.omtrdc.net^
 ||amazonwebservicesinc.tt.omtrdc.net^
 ||amazonwebstore.122.2o7.net^
@@ -20418,7 +20411,6 @@
 ||authedmine.eu^
 ||authedwebmine.cz^
 ||authenticate-confirm.xyz^
-||authenticate.authorize-suspicious-activity.xyz^
 ||authenticate.device.sms-confirmation-wfb.xyz^
 ||authentication-sms-bank.authorizations-wfb.xyz^
 ||authentication-text-message-bank.confirm-wells.xyz^
@@ -22437,7 +22429,6 @@
 ||bdapi.ads.oppomobile.com^
 ||bdb.oewabox.at^
 ||bdbdhdd.000webhostapp.com^
-||bdbdqkdkfb.xyz^
 ||bdbebq.jik.thetreecentre.com^
 ||bdbrandsale.com^
 ||bdcelectricalservices.com^
@@ -23479,7 +23470,6 @@
 ||billing-problems.com^
 ||billing.netflix.user.solution.id2.client-redirection.com^
 ||billing.speedboink.com^
-||billingnetflixupdateinfo.com^
 ||billingproblem-cl-appid.itsmepuput.id^
 ||billingsupportcenter.com^
 ||billowybead.com^
@@ -27882,7 +27872,6 @@
 ||cascope.today^
 ||cascos.fimego.cl^
 ||case-4051.pw^
-||case-appleid.com^
 ||case.edu.nayakgroup.co.in^
 ||casefileng.com^
 ||cases.app-revieworder.com^
@@ -30895,7 +30884,6 @@
 ||clientaa.beget.tech^
 ||clientcdn.pushengage.com^
 ||cliente-friday2015.co^
-||cliente-santander-acceso.es.lore.co.za^
 ||clientegestaoempresarial.com^
 ||clienteltau.com^
 ||clientes-app.ml^
@@ -42650,7 +42638,6 @@
 ||facebook-fb-terms.com^
 ||facebook-group-lookalike.com^
 ||facebook-group-pics.com^
-||facebook-itm.3481928458266491286583.site^
 ||facebook-login-secured.online^
 ||facebook-login.5v.pl^
 ||facebook-marketplace-ca.top^
@@ -44924,7 +44911,6 @@
 ||forme.com.ua^
 ||formessengers.com^
 ||formigadoce.com.br^
-||forms-google.xyz^
 ||forms.earnmydegree.com^
 ||forms.net.in^
 ||formulaire-remboursement-ameli.com^
@@ -48189,7 +48175,6 @@
 ||google-tour.com^
 ||google.drive.out.pesanfiforlif.com^
 ||google.maniyakat.cn^
-||google.ritsch.co^
 ||google.ryantoddrose.com^
 ||google.tucows.com^
 ||google20.net^
@@ -51475,7 +51460,6 @@
 ||hsadspixel.net^
 ||hsb-canada.com^
 ||hsbarbershop.co.uk^
-||hsbc-security-online.com^
 ||hsbc-security.co.uk^
 ||hsbc.accountsecurity-page.com^
 ||hsbc.co.uk.payee-authorisation-3894.info^
@@ -54214,7 +54198,6 @@
 ||instagram-checker-log.com^
 ||instagram-community.gq^
 ||instagram-community.tk^
-||instagram-copyrightteams.com^
 ||instagram-formcopyright.com^
 ||instagram-girisi-tr.com^
 ||instagram-log-user.com^
@@ -54229,7 +54212,6 @@
 ||instagram.jolims.tk^
 ||instagram.myago.tk^
 ||instagram.serulom.tk^
-||instagramailab.com^
 ||instagrambigdata.com^
 ||instagrambigdatalab.com^
 ||instagrambreakthrough.com^
@@ -54261,7 +54243,6 @@
 ||instagramverifingaccounts.ml^
 ||instagramverify-support.ml^
 ||instagramvipanel.com^
-||instagramyardim.cf^
 ||instakipcim.xyz^
 ||instakipi.club^
 ||instalacioneselectricas.co^
@@ -60437,7 +60418,6 @@
 ||livestats.atlanta-airport.com^
 ||livestreamhd24.com^
 ||livestrong.us.intellitxt.com^
-||livesupportinsta.ga^
 ||liveteach.fr^
 ||livetex.ru^
 ||livetotry.com^
@@ -61080,7 +61060,6 @@
 ||loginsbobetclick.com^
 ||loginsdata.net^
 ||loginsecured104.online^
-||loginsigupfacebook.my.id^
 ||loginslf.beget.tech^
 ||loginslimited.net^
 ||loginsonline.org^
@@ -69231,15 +69210,11 @@
 ||netflix.pl.murataydeniz.com.tr^
 ||netflix.pl.springday.com.tr^
 ||netflix50k.com^
-||netflixaccount-suspend.com^
-||netflixaccountbillingarea.com^
-||netflixaccountinformationservice.com^
 ||netflixdz.me^
 ||netflixfullhd.com^
 ||netflixgiveaways.com^
 ||netflixmemberships.com^
 ||netflixseriestv.com^
-||netflixserviceaccountbilling.com^
 ||netflixtrial.net^
 ||netflixuser-support.validate-user.activation.safeguard.key.1uh3.verify-netflix0.com^
 ||netflixuser-support.validate-user.activation.safeguard.key.1uh3.verify-netflix1.com^
@@ -74927,7 +74902,6 @@
 ||paypal-updateco.com^
 ||paypal-user-resolve171.com^
 ||paypal-user-resolve172.com^
-||paypal-user-resolve173.com^
 ||paypal-user-resolve174.com^
 ||paypal-verification-account.com^
 ||paypal-verification-comptes.backup.fluctis.com^
@@ -75025,7 +74999,6 @@
 ||paypal.de.sicherer-login.com^
 ||paypal.eu.uk.verification.com.bihartechnical.com^
 ||paypal.fitwelpharma.com^
-||paypal.girlsdating.xyz^
 ||paypal.homepplsgroup.com^
 ||paypal.information.birdmen.website^
 ||paypal.it.msg32.co.uk^
@@ -75120,11 +75093,9 @@
 ||paypalmegiuseppe.altervista.org^
 ||paypalonlineverificationpage.printechsolutions.net^
 ||paypalpentolkorekasem.com^
-||paypalrecoveryservice.com^
 ||paypalresolu.myjino.ru^
 ||paypalsecure-2016.sucurecode524154241.arita.ac.tz^
 ||paypalservice.payment-reviewed.com^
-||paypalsevices.com^
 ||paypalsservice.com^
 ||paypalssl.doubleclick.net^
 ||paypaltetewewew.com^
@@ -75170,9 +75141,7 @@
 ||payu-secure.services^
 ||payu20-paczka24.com^
 ||payuk.automotiveeventregistration.com^
-||payupal.co.uk^
 ||payusatax.com^
-||paywithpaypal.co^
 ||paywu.net^
 ||payyaal.com^
 ||payyanbngbepaypalekrt.com^
@@ -85548,7 +85517,6 @@
 ||secure-uat2.imrworldwide.com^
 ||secure-uk.imrworldwide.com^
 ||secure-update.techmines.cl^
-||secure-updateaccountbilling.com^
 ||secure-upgrade.com^
 ||secure-us.imrworldwide.com^
 ||secure-validaton.com.sicconingenieros.com^
@@ -85854,7 +85822,6 @@
 ||securecloud-smart.com^
 ||securecloudtrusted.com^
 ||secureconnctauth.000webhostapp.com^
-||secureconnect-wellsfargoverified.com^
 ||securecontactinfo.com^
 ||securecust-verifuserid-session35362101849re.rdt-uidd.com^
 ||secured-document.bbvvsanluiscapital.org.ar^
@@ -85868,7 +85835,6 @@
 ||secured.netflix.com.find.userinfo.n87g3hh91.netuseractive.com^
 ||secured.sahajcare.org^
 ||secured.tiffanyamberhenson.com^
-||securedapple.tk^
 ||securedfilesign.com^
 ||securedgames.cf^
 ||securedliveuploads.com^
@@ -87564,7 +87530,6 @@
 ||shrigpmcollegevileparle.org^
 ||shrihariindia.com^
 ||shrihariindia.in^
-||shrinkads.com^
 ||shrinkearn.com^
 ||shrug-increase304.ru^
 ||shrugartisticelder.com^
@@ -88415,7 +88380,6 @@
 ||skypehotologin.com^
 ||skyperec.com^
 ||skypeupdate.com^
-||skypeweb.uth.tmc.edu^
 ||skypicker-api.infinario.com^
 ||skyscan.com^
 ||skyscraperdb.com^
@@ -92060,7 +92024,6 @@
 ||sugiatun.co.id^
 ||sugoicounter.com^
 ||sugrrgabalanceaaj.us^
-||suhadanokisetsu-amazon.website^
 ||suhaifah.psychictx.com^
 ||suhlenpynqqblmhq.4x4corps.com^
 ||suhprdfb.bid^
@@ -103069,7 +103032,6 @@
 ||wellsfargoonlineaceeebeb.marcelinochampagnat.edu.pe^
 ||wellsfargoonlineadituscom112.000webhostapp.com^
 ||wellsfargoonlinee.000webhostapp.com^
-||wellsfargooonlinee.gq^
 ||wellsfargosecure.coachbringthapayne.com^
 ||wellsfargosucrity.000webhostapp.com^
 ||wellsfargousacustomerservice.report.com.ticketid.8f5d41fd4545df.dgf45fg4545fd45dfg4.dfg87d45fg54fdg45f.dg87df4g5f4dg5d7f8g.dfg57df4g5fgf57g.d8gf454g5df4g54f.dfgdf4g5f4g5f.d5g4.indfe.com.br^
@@ -103322,7 +103284,6 @@
 ||whatsap-groupvideose18-invite.2waky.com^
 ||whatsap-invite-groupberbagi8.2waky.com^
 ||whatsapbokep.dns04.com^
-||whatsapp-invit.my.id^
 ||whatsapp-videocalls.co^
 ||whatsapp.chatsex01.my.id^
 ||whatsapp.com.confirm-online.today^
@@ -104589,7 +104550,6 @@
 ||www-confusion-melisa-chaos-lame.blogspot.com^
 ||www-ctr.businessconsults.net^
 ||www-dailymotion-video.blogspot.com^
-||www-facebook.net^
 ||www-gemini.com^
 ||www-google-analytics.l.google.com^
 ||www-google.nl^
@@ -104875,7 +104835,6 @@
 ||www.202.co.za^
 ||www.20200709071631.restflko.giize.com^
 ||www.2020search.com^
-||www.203fb7a4cb1.com^
 ||www.206ads.com^
 ||www.20a840a14a0ef7d6.com^
 ||www.20afcc1f257.com^
@@ -105535,7 +105494,6 @@
 ||www.9ata.ero-advertising.com^
 ||www.9b13c1c151f9664a73.com^
 ||www.9c690ac2bcb.com^
-||www.9dc93a7c1dd.com^
 ||www.9e5420f6be48ccc.com^
 ||www.9eb10b7a3d04a.com^
 ||www.9egiyiyt1o18.com^
@@ -105659,7 +105617,6 @@
 ||www.abcmlm.com^
 ||www.abcommunication.it^
 ||www.abdal.com.ua^
-||www.aberrings.club^
 ||www.abetterinternet.com^
 ||www.abevc.club^
 ||www.abfcfxfkzmiqht.com^
@@ -106797,7 +106754,6 @@
 ||www.afcyhf.com^
 ||www.afeuvqrsswz.com^
 ||www.aff.biz^
-||www.aff1xstavka.com^
 ||www.aff201868865.com^
 ||www.affbot3.com^
 ||www.affbuzzads.com^
@@ -106948,7 +106904,6 @@
 ||www.ahsqbeospcdrngfv.info^
 ||www.ahstrelgnh.com^
 ||www.ahtrk.com^
-||www.ahumourned.club^
 ||www.ahxldgy.com^
 ||www.ahzh-pv.com^
 ||www.ahzxy.com^
@@ -106961,7 +106916,6 @@
 ||www.ailamtrieuphu.com^
 ||www.ailawlani.club^
 ||www.ailegro.pl.ua^
-||www.ailingtonwh.club^
 ||www.ailiyou1999.com^
 ||www.ailvgo.com^
 ||www.aim4media.com^
@@ -106980,7 +106934,6 @@
 ||www.air-token.com^
 ||www.airadmins.com^
 ||www.airbornehydrography.com^
-||www.aircotop.nl^
 ||www.airfrance.life^
 ||www.airit.pl^
 ||www.airmaxonlinesklep.pl^
@@ -107130,12 +107083,10 @@
 ||www.algocashmaster.net^
 ||www.alhosn-u.com^
 ||www.alhudaqom.com^
-||www.alibabaflavorindustry.com^
 ||www.alibbbv.nl^
 ||www.alibestru.ru^
 ||www.alicjapaczka.org^
 ||www.alieokazje.pl^
-||www.aliexpresscoupon.nl^
 ||www.aliexpresswincoupons.club^
 ||www.alimentechnician.com^
 ||www.aliorbank.io^
@@ -107364,7 +107315,6 @@
 ||www.amazinglesbos.com^
 ||www.amazingvacationhotels.com^
 ||www.amazon-1cojp.monster^
-||www.amazon-1cojp.pw^
 ||www.amazon-co-jp-i2fd.top^
 ||www.amazon-creatorscourt.com^
 ||www.amazon-emaila.info^
@@ -107374,25 +107324,19 @@
 ||www.amazon-emaile.info^
 ||www.amazon-emailf.info^
 ||www.amazon-jp-co.today^
-||www.amazon-jp-copro.xyz^
 ||www.amazon-mail.photos^
 ||www.amazon-mail.win^
 ||www.amazon-mail.ws^
 ||www.amazon-mail.wtf^
 ||www.amazon-maill.club^
-||www.amazon-petstore.com^
 ||www.amazon-pharmacy.de^
-||www.amazon-securlty.myvnc.com^
 ||www.amazon-updateas-co-jpcenter.xyz^
 ||www.amazon-updateas-co-jponline.xyz^
 ||www.amazon-validationa.buzz^
-||www.amazon-validationa.xyz^
 ||www.amazona.top^
 ||www.amazonboulevard.com.br^
 ||www.amazoncc.top^
 ||www.amazonco.uk^
-||www.amazoncuuo.xyz^
-||www.amazoncuus.xyz^
 ||www.amazoncuuw.xyz^
 ||www.amazoncuuz.xyz^
 ||www.amazondorce.com^
@@ -107404,31 +107348,24 @@
 ||www.amazonf0rce.com^
 ||www.amazonfocre.com^
 ||www.amazonforcee.com^
-||www.amazongameinfo.com^
 ||www.amazongreenstore.com^
 ||www.amazonjo.xyz^
-||www.amazonjpnet-card.buzz^
-||www.amazonjpp.xyz^
-||www.amazonlunachina.com^
 ||www.amazonm-cojpa.shop^
 ||www.amazonm-cojpb.shop^
 ||www.amazonm-cojpc.shop^
 ||www.amazonm-cojpd.shop^
 ||www.amazonm-cojpe.shop^
 ||www.amazonma.top^
-||www.amazonmallcard.xyz^
 ||www.amazonmassivetraffic.com^
 ||www.amazonmusicpodcast.us^
 ||www.amazonmusicpodcasts.us^
 ||www.amazonofrce.com^
-||www.amazonpayglobal.com^
 ||www.amazonpetsindia.co.in^
 ||www.amazonq.top^
 ||www.amazonresponder.com^
 ||www.amazonselller.com^
 ||www.amazonshopup.com^
 ||www.amazonsnno.xyz^
-||www.amazonupdate-security.com^
 ||www.amazonwonderz.com^
 ||www.amazonxxz.buzz^
 ||www.amazoonn.buzz^
@@ -107820,7 +107757,6 @@
 ||www.apps.co.pl^
 ||www.apps.id.net^
 ||www.appsdorado.com^
-||www.appssecureverifyinformationaccounts.com^
 ||www.appstorepost.com^
 ||www.apptap.com^
 ||www.apptornado.com^
@@ -108591,7 +108527,6 @@
 ||www.bavlcentral.org^
 ||www.bavners2.ero-advertising.com^
 ||www.baways.com^
-||www.baweicloud.cn^
 ||www.bax.com.ua^
 ||www.bayctrk.com^
 ||www.bayhousehotel.com^
@@ -108630,7 +108565,6 @@
 ||www.bcservice.it^
 ||www.bcsgleba.pl^
 ||www.bcvrczvqlm.com^
-||www.bdbdqkdkfb.xyz^
 ||www.bde.be^
 ||www.bde3d.com^
 ||www.bdozkocgkljj.com^
@@ -108986,12 +108920,10 @@
 ||www.bikerouteshop.com^
 ||www.bilaltastan.com.tr^
 ||www.bilbob.com^
-||www.bilbosaquet.ug^
 ||www.bildeboks.no^
 ||www.bility.top^
 ||www.billigeflybillettertiltyrkiet.dk^
 ||www.billing-amazon.co^
-||www.billingnetflixupdateinfo.com^
 ||www.billycheerful.com^
 ||www.billyd.com.au^
 ||www.bilsyndication.com^
@@ -109203,7 +109135,6 @@
 ||www.blnance.org^
 ||www.blockadsnot.com^
 ||www.blockchain-drive.com^
-||www.blockchain-support.live^
 ||www.blockchainjoblist.com^
 ||www.blockchaintop.nl^
 ||www.blockschain.club^
@@ -110072,7 +110003,6 @@
 ||www.casamama.nl^
 ||www.cascadehunterelton.com^
 ||www.cascope.today^
-||www.case-appleid.com^
 ||www.casestore.xyz^
 ||www.cash-ads.com^
 ||www.cash-duck.com^
@@ -110158,7 +110088,6 @@
 ||www.ccc.sys.intl.xiaomi.com^
 ||www.ccc.sys.miui.com^
 ||www.ccch.xyz^
-||www.ccd8450321.com^
 ||www.ccdthrissuracademy.com^
 ||www.ccheckout.com^
 ||www.ccp14.ac.uk^
@@ -111144,7 +111073,6 @@
 ||www.consumerproductsusa.com^
 ||www.contabse.us^
 ||www.contactesolutions.com^
-||www.contactinstagram.info^
 ||www.contactorplus.com^
 ||www.contadd.com^
 ||www.contambeat16.live^
@@ -111447,7 +111375,6 @@
 ||www.cowpolsce.xyz^
 ||www.cozumeltoday.com^
 ||www.cozvhotizbepi.com^
-||www.cp-netfilx.us^
 ||www.cp.masiodls.com^
 ||www.cp08192.tmweb.ru^
 ||www.cp7gyw5w94c7.com^
@@ -111859,7 +111786,6 @@
 ||www.d34zjr0p5kjx3b.cloudfront.net^
 ||www.d3b75cfc88a9.com^
 ||www.d3cknv5e7a99jg.cloudfront.net^
-||www.d3dq1nh1l1pzqy.cloudfront.net^
 ||www.d3e44a82c2df88.com^
 ||www.d3oxtn1x3b8d7i.cloudfront.net^
 ||www.d3r6awv9ysiyn4.cloudfront.net^
@@ -113323,7 +113249,6 @@
 ||www.edelmann-belschner.de^
 ||www.eden21.net^
 ||www.edenslask.pl^
-||www.edestrathergo.club^
 ||www.edge.quantserve.com^
 ||www.edgedalefinance.com^
 ||www.edgevertise.com^
@@ -113512,10 +113437,6 @@
 ||www.eluaccesorios.com^
 ||www.elvox.pl^
 ||www.elwirakurier.com^
-||www.email-authentication-service.cf^
-||www.email-authentication-service.ga^
-||www.email-authentication-service.gq^
-||www.email-authentication-service.tk^
 ||www.email-login-support.com^
 ||www.emailaccout.com^
 ||www.emailadvantagegroup.com^
@@ -114103,14 +114024,12 @@
 ||www.facebook.realtorarcf.com^
 ||www.facebook.twoje-foty.eu^
 ||www.facebook20.cf^
-||www.facebookabouts.com^
 ||www.facebookaplikacje.blogspot.com^
 ||www.facebookapp-login.ga^
 ||www.facebookapp-login.ml^
 ||www.facebookcolors24.blogspot.com^
 ||www.facebookcrawl.co.cc^
 ||www.facebookdrive-in.com^
-||www.facebookfromhelp.com^
 ||www.facebookkoloruj.blogspot.com^
 ||www.facebookktr.com^
 ||www.facebookkviewer.blogspot.com^
@@ -114972,7 +114891,6 @@
 ||www.formanaplus.pl^
 ||www.forme.com.ua^
 ||www.formessengers.com^
-||www.forms-google.xyz^
 ||www.forms.net.in^
 ||www.forntlinebdibetesi.us^
 ||www.forppp.net^
@@ -114981,7 +114899,6 @@
 ||www.forstriko.com^
 ||www.fortesband.pl^
 ||www.fortnite-vbuck.com^
-||www.fortsexpres.club^
 ||www.fortsmithtimes.com^
 ||www.fortunatefellow.xyz^
 ||www.fortunatetime.xyz^
@@ -115103,7 +115020,6 @@
 ||www.free.mymapsexpress.com^
 ||www.free.propdfconverter.com^
 ||www.free3weekdiet.com^
-||www.freeaccountsnetflix.cf^
 ||www.freeadguru.com^
 ||www.freeadult.games^
 ||www.freeartist.name^
@@ -115775,7 +115691,6 @@
 ||www.getcouponsfast.com^
 ||www.getcydiapro.com^
 ||www.getdataback.pl^
-||www.getdonspeg.work^
 ||www.getelectra.com^
 ||www.getfashionmania.com^
 ||www.getfidgetspinner.net^
@@ -116811,8 +116726,6 @@
 ||www.helltraffic.com^
 ||www.help-covid19.ru^
 ||www.help-instagram-fb.ml^
-||www.help-instagram-verified-badge-support.cf^
-||www.help-instagram-verifiedbadge-centers.tk^
 ||www.help-verifyaccount.ml^
 ||www.helpcoronacare.com^
 ||www.helpcube.net^
@@ -117203,7 +117116,6 @@
 ||www.hruner.com^
 ||www.hryspap.cn^
 ||www.hsbarbershop.co.uk^
-||www.hsbc-security-online.com^
 ||www.hsbcholding.ml^
 ||www.hseda.com^
 ||www.hsfactory.pl^
@@ -117900,36 +117812,27 @@
 ||www.instagram-2020.com^
 ||www.instagram-community.gq^
 ||www.instagram-community.tk^
-||www.instagram-copyrightteams.com^
 ||www.instagram-formcopyright.com^
 ||www.instagram-girisi-tr.com^
 ||www.instagram-privacy-help.com^
 ||www.instagram-support-help-fb.cf^
 ||www.instagramailab.com^
-||www.instagrambigdata.com^
-||www.instagrambigdatalab.com^
 ||www.instagrambreakthrough.com^
 ||www.instagrambussineshelp.ml^
 ||www.instagrambussineshelpcenter.com^
 ||www.instagramcopyright-rules.ml^
-||www.instagramdatalab.com^
 ||www.instagramfollowtrain.com^
 ||www.instagramfolowers.com^
 ||www.instagramhelpteam.org^
-||www.instagrammarketinglab.com^
 ||www.instagrammer.com.ar^
-||www.instagrammodelfashionsales.net^
 ||www.instagrammoodboard.com^
 ||www.instagrampatentservicenmedia.ml^
 ||www.instagramrule.com^
 ||www.instagrams--bluebadge.com^
 ||www.instagrams-bluebadge.com^
 ||www.instagramsecruty.tk^
-||www.instagramserviceforms.com^
-||www.instagramtrendlab.com^
 ||www.instagramverifingaccounts.ml^
 ||www.instagramverify-support.ml^
-||www.instagramyardim.cf^
 ||www.instalikes7.appspot.com^
 ||www.install.pdfconverterhd.com^
 ||www.installads.net^
@@ -118471,7 +118374,6 @@
 ||www.jiawen88.com^
 ||www.jibertytciako.pl^
 ||www.jibrilrajoub.ps^
-||www.jicherincom.club^
 ||www.jichi.ga^
 ||www.jidekanwang.com^
 ||www.jiduan.cc^
@@ -119597,7 +119499,6 @@
 ||www.ldkisaw.gq^
 ||www.ldmeetings.com^
 ||www.ldrcp.pl^
-||www.ldrummaroise.club^
 ||www.ldt1duixoe.com^
 ||www.lduhtrp.net^
 ||www.ldxrb.com^
@@ -119969,7 +119870,6 @@
 ||www.liveshopdealz.com^
 ||www.livesmarter.com^
 ||www.livestat.com^
-||www.livesupportinsta.ga^
 ||www.livetex.ru^
 ||www.livetrack.in^
 ||www.livetraf.com^
@@ -119991,7 +119891,6 @@
 ||www.lkorb.com^
 ||www.lkpwmhjfvpctw.com^
 ||www.lkqd.net^
-||www.lkse-amazonservic9k.servebeer.com^
 ||www.lkskkssuoa.com^
 ||www.lkyuoybczr.com^
 ||www.lkzrb.com^
@@ -120088,7 +119987,6 @@
 ||www.login-verifypaypalaccount-and-provide-information-idefnb11.cf^
 ||www.login-verifypaypalaccount-and-provide-information-idefnb16.cf^
 ||www.login.unlimited.serials.movies.tv.shows.ganjrss.ir^
-||www.loginsigupfacebook.my.id^
 ||www.logintofb.tcp4.me^
 ||www.logisticusa.biz^
 ||www.logitechlogitechglobal.112.2o7.net^
@@ -120112,8 +120010,6 @@
 ||www.lolaandgrace.com^
 ||www.lolalynch.pl^
 ||www.lolhello.com^
-||www.lolicloud.cf^
-||www.lolicloud.gq^
 ||www.lolicmw.org^
 ||www.lolitateen.com^
 ||www.lollastuff.blogspot.com^
@@ -120574,12 +120470,10 @@
 ||www.malikshabas.com^
 ||www.malinkakurier.org^
 ||www.malkm.com^
-||www.mallamazonto.xyz^
 ||www.mallamazontosee.xyz^
 ||www.mallcen.com^
 ||www.mallestore.com^
 ||www.mallowsmother.com^
-||www.mallrakutento.xyz^
 ||www.mallrakutentosee.xyz^
 ||www.malluhacks.com^
 ||www.malneo44.com^
@@ -121020,7 +120914,6 @@
 ||www.megatut.com^
 ||www.megawealthbiz.com^
 ||www.megazakupy.net^
-||www.megmeallab.com^
 ||www.megpacokjce.bid^
 ||www.meinlist.com^
 ||www.meinlnim.com^
@@ -121088,8 +120981,6 @@
 ||www.metareward.com^
 ||www.metavertising.com^
 ||www.metavertizer.com^
-||www.metflix.one^
-||www.metflix.rocks^
 ||www.metherwallet.com^
 ||www.methinkinge.com^
 ||www.method21.net^
@@ -121176,7 +121067,6 @@
 ||www.microsoft-secure-online.oa.r.appspot.com^
 ||www.microsoft-update.name^
 ||www.microsoft2010.com^
-||www.microsoft365online.cn^
 ||www.microsoftaffiliates.net^
 ||www.mictxtwtjigs.com^
 ||www.midaddle.com^
@@ -121334,7 +121224,6 @@
 ||www.mixturehopeful.com^
 ||www.mizahturk.com^
 ||www.mjbuuxt7l18r.com^
-||www.mjekimiyahoodiyon.fun^
 ||www.mjkvwpabdce.com^
 ||www.mjw.or.kr^
 ||www.mk.am^
@@ -122387,14 +122276,8 @@
 ||www.netflix.pl.lightersidepodcast.com^
 ||www.netflix.pl.murataydeniz.com.tr^
 ||www.netflix.pl.springday.com.tr^
-||www.netflix50k.com^
-||www.netflixaccount-suspend.com^
-||www.netflixaccountbillingarea.com^
-||www.netflixaccountinformationservice.com^
-||www.netflixdz.me^
 ||www.netflixgiveaways.com^
 ||www.netflixseriestv.com^
-||www.netflixserviceaccountbilling.com^
 ||www.netflixtrial.net^
 ||www.nethacker.de^
 ||www.netherum.com^
@@ -122900,7 +122783,6 @@
 ||www.novaonx.com^
 ||www.novastarled.com^
 ||www.novatio-masaze.pl^
-||www.novatrck.icu^
 ||www.novaturegroup.com^
 ||www.novaxdesign.com^
 ||www.novelalittleme.blogspot.com^
@@ -124114,14 +123996,11 @@
 ||www.paypal-com-pl.cf^
 ||www.paypal-exchange.com^
 ||www.paypal-insurance.support^
-||www.paypal-support10.serveirc.com^
 ||www.paypal-user-resolve171.com^
 ||www.paypal-user-resolve172.com^
-||www.paypal-user-resolve173.com^
 ||www.paypal-user-resolve174.com^
 ||www.paypal-verification.3utilities.com^
 ||www.paypal4bitcoin.com^
-||www.paypalrecoveryservice.com^
 ||www.paypalsevices.com^
 ||www.paypalsservice.com^
 ||www.paypau.io^
@@ -124130,16 +124009,12 @@
 ||www.payperpost.com^
 ||www.payperranking.com^
 ||www.paypie.net^
-||www.payplticket4161287194.info^
-||www.payplticket4161287195.info^
 ||www.paypop.org^
 ||www.paypopup.com^
 ||www.paypublicity.it^
 ||www.payu-secure.services^
 ||www.payu20-paczka24.com^
-||www.payupal.co.uk^
 ||www.payusatax.com^
-||www.paywithpaypal.co^
 ||www.paywu.net^
 ||www.payyanbngbepaypalekrt.com^
 ||www.pazelpop.com^
@@ -124386,7 +124261,6 @@
 ||www.pikolinoses.com^
 ||www.pila-dziedzictwo-2017-online.5v.pl^
 ||www.pilabu.ru^
-||www.pilgrimary.club^
 ||www.pilkanozna.yolasite.com^
 ||www.pillheat.cyou^
 ||www.pillowagecredulous.com^
@@ -125079,7 +124953,6 @@
 ||www.premiumbesucher.de^
 ||www.premiumdownloaden.de^
 ||www.premiumholidayoffers.com^
-||www.premiumhotmail.com^
 ||www.premiumlink.7tools.eu^
 ||www.premiumlinkgenerator.online^
 ||www.premiumpedia.com^
@@ -125281,7 +125154,6 @@
 ||www.protectdedication.com^
 ||www.protection-cellphone.fun^
 ||www.protectmobiletechieai.club^
-||www.protectoramazones.com^
 ||www.protesttaxi.pl^
 ||www.protovid.com^
 ||www.provanto.pl^
@@ -125777,7 +125649,6 @@
 ||www.rakuten-emaild.info^
 ||www.rakuten-emaile.info^
 ||www.rakuten-emailf.info^
-||www.rakutenas.xyz^
 ||www.ralister.co.uk^
 ||www.ralphlaurenkolekta.pl^
 ||www.ralplauran.com^
@@ -125953,7 +125824,6 @@
 ||www.recommendedlab.com^
 ||www.recommendservices.com^
 ||www.recordingroadsidezoo.com^
-||www.recovery-paypal.org^
 ||www.recoveryinformremorse.com^
 ||www.recoverypaypal.com.ng^
 ||www.recreation-leisure-rewardpath.com^
@@ -125969,7 +125839,6 @@
 ||www.redbnoptions.com^
 ||www.redcash.net^
 ||www.redcourtside.com^
-||www.redditcdn.xyz^
 ||www.redditparliament.com^
 ||www.redditpussy.com^
 ||www.reddogzone.com^
@@ -126504,7 +126373,6 @@
 ||www.run-germany.com^
 ||www.runaddict.pl^
 ||www.runative.com^
-||www.runbiri.info^
 ||www.rungrinh.vn^
 ||www.running-bike.com^
 ||www.ruralagricola.com.br^
@@ -126963,7 +126831,6 @@
 ||www.secure-pge.eu^
 ||www.secure-processingcenter.com^
 ||www.secure-softwaremanager.com^
-||www.secure-updateaccountbilling.com^
 ||www.secure-upgrade.com^
 ||www.secure.bankofamreica-online.helpsuite.kamilogistics.com^
 ||www.secureapplesupport.com^
@@ -126973,9 +126840,7 @@
 ||www.securecloud-dt.com^
 ||www.securecloud-smart.com^
 ||www.securecloudtrusted.com^
-||www.secureconnect-wellsfargoverified.com^
 ||www.securecontactinfo.com^
-||www.securedapple.tk^
 ||www.securemypc.co.uk^
 ||www.securepaths.com^
 ||www.secureriches.com^
@@ -127395,7 +127260,6 @@
 ||www.shreveportreporter.com^
 ||www.shrihariindia.com^
 ||www.shrihariindia.in^
-||www.shrinkads.com^
 ||www.shrinkearn.com^
 ||www.shrugartisticelder.com^
 ||www.shterngroup.com^
@@ -128195,7 +128059,6 @@
 ||www.spywarespy.com^
 ||www.spzadabrowie.pl^
 ||www.sq2trk2.com^
-||www.squawcubesfry.com^
 ||www.squeeder.com^
 ||www.squirtvidz.com^
 ||www.sr69.de^
@@ -128513,7 +128376,6 @@
 ||www.sugasoul.pl^
 ||www.suggestvideos.xyz^
 ||www.sugrrgabalanceaaj.us^
-||www.suhadanokisetsu-amazon.website^
 ||www.suicide-vintage.blogspot.com^
 ||www.suifco.com^
 ||www.suisseoption.com^
@@ -128612,7 +128474,6 @@
 ||www.supplementum.pl^
 ||www.supply-id9481.net^
 ||www.support-4-free.com^
-||www.support-accamazon.servehttp.com^
 ||www.support-konto.pl^
 ||www.support.apple.com-notice.info^
 ||www.supportcorner.co^
@@ -128780,7 +128641,6 @@
 ||www.system-backup.biz^
 ||www.system-live-media.cz^
 ||www.system-team-online.site^
-||www.system24paypal.info^
 ||www.system4.nl^
 ||www.systemchlodzeniamglapl.com^
 ||www.systemcode.org^
@@ -130892,7 +130752,6 @@
 ||www.verfer.com^
 ||www.verification.libertrust.com^
 ||www.verified-extensions.com^
-||www.verified-instagram.asia^
 ||www.verifier.live^
 ||www.verify-0008-response-manage-dynamic.tk^
 ||www.verifybadges-help-support.ml^
@@ -131592,7 +131451,6 @@
 ||www.wellmov.com^
 ||www.wellphyto.com^
 ||www.wellsfarg0-onllne.net^
-||www.wellsfargooonlinee.gq^
 ||www.wellstar-company.com^
 ||www.wellyss.pl^
 ||www.welshstructures.com^
@@ -131689,7 +131547,6 @@
 ||www.whamukoji.pro^
 ||www.whateyeweight8.live^
 ||www.whatpornsite.com^
-||www.whatsapp-invit.my.id^
 ||www.whatsappbulkmessage.com^
 ||www.whatsappdaregame.com^
 ||www.whatsappgrupsohbeti.cf^
@@ -132099,7 +131956,6 @@
 ||www.wwm24.de^
 ||www.wwppc.com^
 ||www.wws.ero-advertising.com^
-||www.www-facebook.net^
 ||www.www-google.nl^
 ||www.www-myetherwallet.com^
 ||www.www-protection.com^
@@ -132777,7 +132633,6 @@
 ||www.youtuhe.com^
 ||www.youyong.gq^
 ||www.yovoads.com^
-||www.yowlcapkegs.com^
 ||www.yowwinnerprize.com^
 ||www.yoyo-zdjecia.bo.pl^
 ||www.yoyoykamphora.com^

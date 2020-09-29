@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# UPDATED: 2020-09-29 09:03:36.116988278 +0000
-# ENTRIES: 136358
+# UPDATED: 2020-09-29 21:13:46.437996413 +0000
+# ENTRIES: 136213
 
 0.0.0.0 0--e.info
 0.0.0.0 0-24bpautomentes.hu
@@ -15077,7 +15077,6 @@
 0.0.0.0 aircanad.com
 0.0.0.0 aircanadaca.com
 0.0.0.0 aircananda.com
-0.0.0.0 aircotop.nl
 0.0.0.0 aircovid19virus.com
 0.0.0.0 aircraft.evote.cl
 0.0.0.0 airdauks.net
@@ -15612,7 +15611,6 @@
 0.0.0.0 aliexpress-acc-sup-up-sec.srivara.com
 0.0.0.0 aliexpress-summer.cityads.com
 0.0.0.0 aliexpressbot.ru
-0.0.0.0 aliexpresscoupon.nl
 0.0.0.0 aliexpresswincoupons.club
 0.0.0.0 alif-ba-ta.com
 0.0.0.0 alifruitjuice.biz
@@ -16252,7 +16250,6 @@
 0.0.0.0 amazon-emailf.info
 0.0.0.0 amazon-hotline.com
 0.0.0.0 amazon-jp-co.today
-0.0.0.0 amazon-jp-copro.xyz
 0.0.0.0 amazon-mail.photos
 0.0.0.0 amazon-mail.plus
 0.0.0.0 amazon-mail.win
@@ -16268,7 +16265,6 @@
 0.0.0.0 amazon-updateas-co-jpcenter.xyz
 0.0.0.0 amazon-updateas-co-jponline.xyz
 0.0.0.0 amazon-validationa.buzz
-0.0.0.0 amazon-validationa.xyz
 0.0.0.0 amazon.co.jp.b2fdetto-s4f-fq5e6y14vqg.run
 0.0.0.0 amazon.co.uk.security-check.ga
 0.0.0.0 amazon.de.0-vwixn-amazon-qu0y1.ru
@@ -16311,8 +16307,6 @@
 0.0.0.0 amazoncc.top
 0.0.0.0 amazonco.uk
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
-0.0.0.0 amazoncuuo.xyz
-0.0.0.0 amazoncuus.xyz
 0.0.0.0 amazoncuuw.xyz
 0.0.0.0 amazoncuuz.xyz
 0.0.0.0 amazondorce.com
@@ -16356,7 +16350,6 @@
 0.0.0.0 amazonsignin.lechertshuber.b00ryv9r20.de
 0.0.0.0 amazonsnno.xyz
 0.0.0.0 amazontips.net
-0.0.0.0 amazonupdate-security.com
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 amazonwebstore.122.2o7.net
@@ -20418,7 +20411,6 @@
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
 0.0.0.0 authenticate-confirm.xyz
-0.0.0.0 authenticate.authorize-suspicious-activity.xyz
 0.0.0.0 authenticate.device.sms-confirmation-wfb.xyz
 0.0.0.0 authentication-sms-bank.authorizations-wfb.xyz
 0.0.0.0 authentication-text-message-bank.confirm-wells.xyz
@@ -22437,7 +22429,6 @@
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdb.oewabox.at
 0.0.0.0 bdbdhdd.000webhostapp.com
-0.0.0.0 bdbdqkdkfb.xyz
 0.0.0.0 bdbebq.jik.thetreecentre.com
 0.0.0.0 bdbrandsale.com
 0.0.0.0 bdcelectricalservices.com
@@ -23479,7 +23470,6 @@
 0.0.0.0 billing-problems.com
 0.0.0.0 billing.netflix.user.solution.id2.client-redirection.com
 0.0.0.0 billing.speedboink.com
-0.0.0.0 billingnetflixupdateinfo.com
 0.0.0.0 billingproblem-cl-appid.itsmepuput.id
 0.0.0.0 billingsupportcenter.com
 0.0.0.0 billowybead.com
@@ -27882,7 +27872,6 @@
 0.0.0.0 cascope.today
 0.0.0.0 cascos.fimego.cl
 0.0.0.0 case-4051.pw
-0.0.0.0 case-appleid.com
 0.0.0.0 case.edu.nayakgroup.co.in
 0.0.0.0 casefileng.com
 0.0.0.0 cases.app-revieworder.com
@@ -30895,7 +30884,6 @@
 0.0.0.0 clientaa.beget.tech
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 cliente-friday2015.co
-0.0.0.0 cliente-santander-acceso.es.lore.co.za
 0.0.0.0 clientegestaoempresarial.com
 0.0.0.0 clienteltau.com
 0.0.0.0 clientes-app.ml
@@ -42650,7 +42638,6 @@
 0.0.0.0 facebook-fb-terms.com
 0.0.0.0 facebook-group-lookalike.com
 0.0.0.0 facebook-group-pics.com
-0.0.0.0 facebook-itm.3481928458266491286583.site
 0.0.0.0 facebook-login-secured.online
 0.0.0.0 facebook-login.5v.pl
 0.0.0.0 facebook-marketplace-ca.top
@@ -44924,7 +44911,6 @@
 0.0.0.0 forme.com.ua
 0.0.0.0 formessengers.com
 0.0.0.0 formigadoce.com.br
-0.0.0.0 forms-google.xyz
 0.0.0.0 forms.earnmydegree.com
 0.0.0.0 forms.net.in
 0.0.0.0 formulaire-remboursement-ameli.com
@@ -48189,7 +48175,6 @@
 0.0.0.0 google-tour.com
 0.0.0.0 google.drive.out.pesanfiforlif.com
 0.0.0.0 google.maniyakat.cn
-0.0.0.0 google.ritsch.co
 0.0.0.0 google.ryantoddrose.com
 0.0.0.0 google.tucows.com
 0.0.0.0 google20.net
@@ -51475,7 +51460,6 @@
 0.0.0.0 hsadspixel.net
 0.0.0.0 hsb-canada.com
 0.0.0.0 hsbarbershop.co.uk
-0.0.0.0 hsbc-security-online.com
 0.0.0.0 hsbc-security.co.uk
 0.0.0.0 hsbc.accountsecurity-page.com
 0.0.0.0 hsbc.co.uk.payee-authorisation-3894.info
@@ -54214,7 +54198,6 @@
 0.0.0.0 instagram-checker-log.com
 0.0.0.0 instagram-community.gq
 0.0.0.0 instagram-community.tk
-0.0.0.0 instagram-copyrightteams.com
 0.0.0.0 instagram-formcopyright.com
 0.0.0.0 instagram-girisi-tr.com
 0.0.0.0 instagram-log-user.com
@@ -54229,7 +54212,6 @@
 0.0.0.0 instagram.jolims.tk
 0.0.0.0 instagram.myago.tk
 0.0.0.0 instagram.serulom.tk
-0.0.0.0 instagramailab.com
 0.0.0.0 instagrambigdata.com
 0.0.0.0 instagrambigdatalab.com
 0.0.0.0 instagrambreakthrough.com
@@ -54261,7 +54243,6 @@
 0.0.0.0 instagramverifingaccounts.ml
 0.0.0.0 instagramverify-support.ml
 0.0.0.0 instagramvipanel.com
-0.0.0.0 instagramyardim.cf
 0.0.0.0 instakipcim.xyz
 0.0.0.0 instakipi.club
 0.0.0.0 instalacioneselectricas.co
@@ -60437,7 +60418,6 @@
 0.0.0.0 livestats.atlanta-airport.com
 0.0.0.0 livestreamhd24.com
 0.0.0.0 livestrong.us.intellitxt.com
-0.0.0.0 livesupportinsta.ga
 0.0.0.0 liveteach.fr
 0.0.0.0 livetex.ru
 0.0.0.0 livetotry.com
@@ -61080,7 +61060,6 @@
 0.0.0.0 loginsbobetclick.com
 0.0.0.0 loginsdata.net
 0.0.0.0 loginsecured104.online
-0.0.0.0 loginsigupfacebook.my.id
 0.0.0.0 loginslf.beget.tech
 0.0.0.0 loginslimited.net
 0.0.0.0 loginsonline.org
@@ -69231,15 +69210,11 @@
 0.0.0.0 netflix.pl.murataydeniz.com.tr
 0.0.0.0 netflix.pl.springday.com.tr
 0.0.0.0 netflix50k.com
-0.0.0.0 netflixaccount-suspend.com
-0.0.0.0 netflixaccountbillingarea.com
-0.0.0.0 netflixaccountinformationservice.com
 0.0.0.0 netflixdz.me
 0.0.0.0 netflixfullhd.com
 0.0.0.0 netflixgiveaways.com
 0.0.0.0 netflixmemberships.com
 0.0.0.0 netflixseriestv.com
-0.0.0.0 netflixserviceaccountbilling.com
 0.0.0.0 netflixtrial.net
 0.0.0.0 netflixuser-support.validate-user.activation.safeguard.key.1uh3.verify-netflix0.com
 0.0.0.0 netflixuser-support.validate-user.activation.safeguard.key.1uh3.verify-netflix1.com
@@ -74927,7 +74902,6 @@
 0.0.0.0 paypal-updateco.com
 0.0.0.0 paypal-user-resolve171.com
 0.0.0.0 paypal-user-resolve172.com
-0.0.0.0 paypal-user-resolve173.com
 0.0.0.0 paypal-user-resolve174.com
 0.0.0.0 paypal-verification-account.com
 0.0.0.0 paypal-verification-comptes.backup.fluctis.com
@@ -75025,7 +74999,6 @@
 0.0.0.0 paypal.de.sicherer-login.com
 0.0.0.0 paypal.eu.uk.verification.com.bihartechnical.com
 0.0.0.0 paypal.fitwelpharma.com
-0.0.0.0 paypal.girlsdating.xyz
 0.0.0.0 paypal.homepplsgroup.com
 0.0.0.0 paypal.information.birdmen.website
 0.0.0.0 paypal.it.msg32.co.uk
@@ -75120,11 +75093,9 @@
 0.0.0.0 paypalmegiuseppe.altervista.org
 0.0.0.0 paypalonlineverificationpage.printechsolutions.net
 0.0.0.0 paypalpentolkorekasem.com
-0.0.0.0 paypalrecoveryservice.com
 0.0.0.0 paypalresolu.myjino.ru
 0.0.0.0 paypalsecure-2016.sucurecode524154241.arita.ac.tz
 0.0.0.0 paypalservice.payment-reviewed.com
-0.0.0.0 paypalsevices.com
 0.0.0.0 paypalsservice.com
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 paypaltetewewew.com
@@ -75170,9 +75141,7 @@
 0.0.0.0 payu-secure.services
 0.0.0.0 payu20-paczka24.com
 0.0.0.0 payuk.automotiveeventregistration.com
-0.0.0.0 payupal.co.uk
 0.0.0.0 payusatax.com
-0.0.0.0 paywithpaypal.co
 0.0.0.0 paywu.net
 0.0.0.0 payyaal.com
 0.0.0.0 payyanbngbepaypalekrt.com
@@ -85548,7 +85517,6 @@
 0.0.0.0 secure-uat2.imrworldwide.com
 0.0.0.0 secure-uk.imrworldwide.com
 0.0.0.0 secure-update.techmines.cl
-0.0.0.0 secure-updateaccountbilling.com
 0.0.0.0 secure-upgrade.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure-validaton.com.sicconingenieros.com
@@ -85854,7 +85822,6 @@
 0.0.0.0 securecloud-smart.com
 0.0.0.0 securecloudtrusted.com
 0.0.0.0 secureconnctauth.000webhostapp.com
-0.0.0.0 secureconnect-wellsfargoverified.com
 0.0.0.0 securecontactinfo.com
 0.0.0.0 securecust-verifuserid-session35362101849re.rdt-uidd.com
 0.0.0.0 secured-document.bbvvsanluiscapital.org.ar
@@ -85868,7 +85835,6 @@
 0.0.0.0 secured.netflix.com.find.userinfo.n87g3hh91.netuseractive.com
 0.0.0.0 secured.sahajcare.org
 0.0.0.0 secured.tiffanyamberhenson.com
-0.0.0.0 securedapple.tk
 0.0.0.0 securedfilesign.com
 0.0.0.0 securedgames.cf
 0.0.0.0 securedliveuploads.com
@@ -87564,7 +87530,6 @@
 0.0.0.0 shrigpmcollegevileparle.org
 0.0.0.0 shrihariindia.com
 0.0.0.0 shrihariindia.in
-0.0.0.0 shrinkads.com
 0.0.0.0 shrinkearn.com
 0.0.0.0 shrug-increase304.ru
 0.0.0.0 shrugartisticelder.com
@@ -88415,7 +88380,6 @@
 0.0.0.0 skypehotologin.com
 0.0.0.0 skyperec.com
 0.0.0.0 skypeupdate.com
-0.0.0.0 skypeweb.uth.tmc.edu
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 skyscan.com
 0.0.0.0 skyscraperdb.com
@@ -92060,7 +92024,6 @@
 0.0.0.0 sugiatun.co.id
 0.0.0.0 sugoicounter.com
 0.0.0.0 sugrrgabalanceaaj.us
-0.0.0.0 suhadanokisetsu-amazon.website
 0.0.0.0 suhaifah.psychictx.com
 0.0.0.0 suhlenpynqqblmhq.4x4corps.com
 0.0.0.0 suhprdfb.bid
@@ -103069,7 +103032,6 @@
 0.0.0.0 wellsfargoonlineaceeebeb.marcelinochampagnat.edu.pe
 0.0.0.0 wellsfargoonlineadituscom112.000webhostapp.com
 0.0.0.0 wellsfargoonlinee.000webhostapp.com
-0.0.0.0 wellsfargooonlinee.gq
 0.0.0.0 wellsfargosecure.coachbringthapayne.com
 0.0.0.0 wellsfargosucrity.000webhostapp.com
 0.0.0.0 wellsfargousacustomerservice.report.com.ticketid.8f5d41fd4545df.dgf45fg4545fd45dfg4.dfg87d45fg54fdg45f.dg87df4g5f4dg5d7f8g.dfg57df4g5fgf57g.d8gf454g5df4g54f.dfgdf4g5f4g5f.d5g4.indfe.com.br
@@ -103322,7 +103284,6 @@
 0.0.0.0 whatsap-groupvideose18-invite.2waky.com
 0.0.0.0 whatsap-invite-groupberbagi8.2waky.com
 0.0.0.0 whatsapbokep.dns04.com
-0.0.0.0 whatsapp-invit.my.id
 0.0.0.0 whatsapp-videocalls.co
 0.0.0.0 whatsapp.chatsex01.my.id
 0.0.0.0 whatsapp.com.confirm-online.today
@@ -104589,7 +104550,6 @@
 0.0.0.0 www-confusion-melisa-chaos-lame.blogspot.com
 0.0.0.0 www-ctr.businessconsults.net
 0.0.0.0 www-dailymotion-video.blogspot.com
-0.0.0.0 www-facebook.net
 0.0.0.0 www-gemini.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-google.nl
@@ -104875,7 +104835,6 @@
 0.0.0.0 www.202.co.za
 0.0.0.0 www.20200709071631.restflko.giize.com
 0.0.0.0 www.2020search.com
-0.0.0.0 www.203fb7a4cb1.com
 0.0.0.0 www.206ads.com
 0.0.0.0 www.20a840a14a0ef7d6.com
 0.0.0.0 www.20afcc1f257.com
@@ -105535,7 +105494,6 @@
 0.0.0.0 www.9ata.ero-advertising.com
 0.0.0.0 www.9b13c1c151f9664a73.com
 0.0.0.0 www.9c690ac2bcb.com
-0.0.0.0 www.9dc93a7c1dd.com
 0.0.0.0 www.9e5420f6be48ccc.com
 0.0.0.0 www.9eb10b7a3d04a.com
 0.0.0.0 www.9egiyiyt1o18.com
@@ -105659,7 +105617,6 @@
 0.0.0.0 www.abcmlm.com
 0.0.0.0 www.abcommunication.it
 0.0.0.0 www.abdal.com.ua
-0.0.0.0 www.aberrings.club
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.abevc.club
 0.0.0.0 www.abfcfxfkzmiqht.com
@@ -106797,7 +106754,6 @@
 0.0.0.0 www.afcyhf.com
 0.0.0.0 www.afeuvqrsswz.com
 0.0.0.0 www.aff.biz
-0.0.0.0 www.aff1xstavka.com
 0.0.0.0 www.aff201868865.com
 0.0.0.0 www.affbot3.com
 0.0.0.0 www.affbuzzads.com
@@ -106948,7 +106904,6 @@
 0.0.0.0 www.ahsqbeospcdrngfv.info
 0.0.0.0 www.ahstrelgnh.com
 0.0.0.0 www.ahtrk.com
-0.0.0.0 www.ahumourned.club
 0.0.0.0 www.ahxldgy.com
 0.0.0.0 www.ahzh-pv.com
 0.0.0.0 www.ahzxy.com
@@ -106961,7 +106916,6 @@
 0.0.0.0 www.ailamtrieuphu.com
 0.0.0.0 www.ailawlani.club
 0.0.0.0 www.ailegro.pl.ua
-0.0.0.0 www.ailingtonwh.club
 0.0.0.0 www.ailiyou1999.com
 0.0.0.0 www.ailvgo.com
 0.0.0.0 www.aim4media.com
@@ -106980,7 +106934,6 @@
 0.0.0.0 www.air-token.com
 0.0.0.0 www.airadmins.com
 0.0.0.0 www.airbornehydrography.com
-0.0.0.0 www.aircotop.nl
 0.0.0.0 www.airfrance.life
 0.0.0.0 www.airit.pl
 0.0.0.0 www.airmaxonlinesklep.pl
@@ -107130,12 +107083,10 @@
 0.0.0.0 www.algocashmaster.net
 0.0.0.0 www.alhosn-u.com
 0.0.0.0 www.alhudaqom.com
-0.0.0.0 www.alibabaflavorindustry.com
 0.0.0.0 www.alibbbv.nl
 0.0.0.0 www.alibestru.ru
 0.0.0.0 www.alicjapaczka.org
 0.0.0.0 www.alieokazje.pl
-0.0.0.0 www.aliexpresscoupon.nl
 0.0.0.0 www.aliexpresswincoupons.club
 0.0.0.0 www.alimentechnician.com
 0.0.0.0 www.aliorbank.io
@@ -107364,7 +107315,6 @@
 0.0.0.0 www.amazinglesbos.com
 0.0.0.0 www.amazingvacationhotels.com
 0.0.0.0 www.amazon-1cojp.monster
-0.0.0.0 www.amazon-1cojp.pw
 0.0.0.0 www.amazon-co-jp-i2fd.top
 0.0.0.0 www.amazon-creatorscourt.com
 0.0.0.0 www.amazon-emaila.info
@@ -107374,25 +107324,19 @@
 0.0.0.0 www.amazon-emaile.info
 0.0.0.0 www.amazon-emailf.info
 0.0.0.0 www.amazon-jp-co.today
-0.0.0.0 www.amazon-jp-copro.xyz
 0.0.0.0 www.amazon-mail.photos
 0.0.0.0 www.amazon-mail.win
 0.0.0.0 www.amazon-mail.ws
 0.0.0.0 www.amazon-mail.wtf
 0.0.0.0 www.amazon-maill.club
-0.0.0.0 www.amazon-petstore.com
 0.0.0.0 www.amazon-pharmacy.de
-0.0.0.0 www.amazon-securlty.myvnc.com
 0.0.0.0 www.amazon-updateas-co-jpcenter.xyz
 0.0.0.0 www.amazon-updateas-co-jponline.xyz
 0.0.0.0 www.amazon-validationa.buzz
-0.0.0.0 www.amazon-validationa.xyz
 0.0.0.0 www.amazona.top
 0.0.0.0 www.amazonboulevard.com.br
 0.0.0.0 www.amazoncc.top
 0.0.0.0 www.amazonco.uk
-0.0.0.0 www.amazoncuuo.xyz
-0.0.0.0 www.amazoncuus.xyz
 0.0.0.0 www.amazoncuuw.xyz
 0.0.0.0 www.amazoncuuz.xyz
 0.0.0.0 www.amazondorce.com
@@ -107404,31 +107348,24 @@
 0.0.0.0 www.amazonf0rce.com
 0.0.0.0 www.amazonfocre.com
 0.0.0.0 www.amazonforcee.com
-0.0.0.0 www.amazongameinfo.com
 0.0.0.0 www.amazongreenstore.com
 0.0.0.0 www.amazonjo.xyz
-0.0.0.0 www.amazonjpnet-card.buzz
-0.0.0.0 www.amazonjpp.xyz
-0.0.0.0 www.amazonlunachina.com
 0.0.0.0 www.amazonm-cojpa.shop
 0.0.0.0 www.amazonm-cojpb.shop
 0.0.0.0 www.amazonm-cojpc.shop
 0.0.0.0 www.amazonm-cojpd.shop
 0.0.0.0 www.amazonm-cojpe.shop
 0.0.0.0 www.amazonma.top
-0.0.0.0 www.amazonmallcard.xyz
 0.0.0.0 www.amazonmassivetraffic.com
 0.0.0.0 www.amazonmusicpodcast.us
 0.0.0.0 www.amazonmusicpodcasts.us
 0.0.0.0 www.amazonofrce.com
-0.0.0.0 www.amazonpayglobal.com
 0.0.0.0 www.amazonpetsindia.co.in
 0.0.0.0 www.amazonq.top
 0.0.0.0 www.amazonresponder.com
 0.0.0.0 www.amazonselller.com
 0.0.0.0 www.amazonshopup.com
 0.0.0.0 www.amazonsnno.xyz
-0.0.0.0 www.amazonupdate-security.com
 0.0.0.0 www.amazonwonderz.com
 0.0.0.0 www.amazonxxz.buzz
 0.0.0.0 www.amazoonn.buzz
@@ -107820,7 +107757,6 @@
 0.0.0.0 www.apps.co.pl
 0.0.0.0 www.apps.id.net
 0.0.0.0 www.appsdorado.com
-0.0.0.0 www.appssecureverifyinformationaccounts.com
 0.0.0.0 www.appstorepost.com
 0.0.0.0 www.apptap.com
 0.0.0.0 www.apptornado.com
@@ -108591,7 +108527,6 @@
 0.0.0.0 www.bavlcentral.org
 0.0.0.0 www.bavners2.ero-advertising.com
 0.0.0.0 www.baways.com
-0.0.0.0 www.baweicloud.cn
 0.0.0.0 www.bax.com.ua
 0.0.0.0 www.bayctrk.com
 0.0.0.0 www.bayhousehotel.com
@@ -108630,7 +108565,6 @@
 0.0.0.0 www.bcservice.it
 0.0.0.0 www.bcsgleba.pl
 0.0.0.0 www.bcvrczvqlm.com
-0.0.0.0 www.bdbdqkdkfb.xyz
 0.0.0.0 www.bde.be
 0.0.0.0 www.bde3d.com
 0.0.0.0 www.bdozkocgkljj.com
@@ -108986,12 +108920,10 @@
 0.0.0.0 www.bikerouteshop.com
 0.0.0.0 www.bilaltastan.com.tr
 0.0.0.0 www.bilbob.com
-0.0.0.0 www.bilbosaquet.ug
 0.0.0.0 www.bildeboks.no
 0.0.0.0 www.bility.top
 0.0.0.0 www.billigeflybillettertiltyrkiet.dk
 0.0.0.0 www.billing-amazon.co
-0.0.0.0 www.billingnetflixupdateinfo.com
 0.0.0.0 www.billycheerful.com
 0.0.0.0 www.billyd.com.au
 0.0.0.0 www.bilsyndication.com
@@ -109203,7 +109135,6 @@
 0.0.0.0 www.blnance.org
 0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.blockchain-drive.com
-0.0.0.0 www.blockchain-support.live
 0.0.0.0 www.blockchainjoblist.com
 0.0.0.0 www.blockchaintop.nl
 0.0.0.0 www.blockschain.club
@@ -110072,7 +110003,6 @@
 0.0.0.0 www.casamama.nl
 0.0.0.0 www.cascadehunterelton.com
 0.0.0.0 www.cascope.today
-0.0.0.0 www.case-appleid.com
 0.0.0.0 www.casestore.xyz
 0.0.0.0 www.cash-ads.com
 0.0.0.0 www.cash-duck.com
@@ -110158,7 +110088,6 @@
 0.0.0.0 www.ccc.sys.intl.xiaomi.com
 0.0.0.0 www.ccc.sys.miui.com
 0.0.0.0 www.ccch.xyz
-0.0.0.0 www.ccd8450321.com
 0.0.0.0 www.ccdthrissuracademy.com
 0.0.0.0 www.ccheckout.com
 0.0.0.0 www.ccp14.ac.uk
@@ -111144,7 +111073,6 @@
 0.0.0.0 www.consumerproductsusa.com
 0.0.0.0 www.contabse.us
 0.0.0.0 www.contactesolutions.com
-0.0.0.0 www.contactinstagram.info
 0.0.0.0 www.contactorplus.com
 0.0.0.0 www.contadd.com
 0.0.0.0 www.contambeat16.live
@@ -111447,7 +111375,6 @@
 0.0.0.0 www.cowpolsce.xyz
 0.0.0.0 www.cozumeltoday.com
 0.0.0.0 www.cozvhotizbepi.com
-0.0.0.0 www.cp-netfilx.us
 0.0.0.0 www.cp.masiodls.com
 0.0.0.0 www.cp08192.tmweb.ru
 0.0.0.0 www.cp7gyw5w94c7.com
@@ -111859,7 +111786,6 @@
 0.0.0.0 www.d34zjr0p5kjx3b.cloudfront.net
 0.0.0.0 www.d3b75cfc88a9.com
 0.0.0.0 www.d3cknv5e7a99jg.cloudfront.net
-0.0.0.0 www.d3dq1nh1l1pzqy.cloudfront.net
 0.0.0.0 www.d3e44a82c2df88.com
 0.0.0.0 www.d3oxtn1x3b8d7i.cloudfront.net
 0.0.0.0 www.d3r6awv9ysiyn4.cloudfront.net
@@ -113323,7 +113249,6 @@
 0.0.0.0 www.edelmann-belschner.de
 0.0.0.0 www.eden21.net
 0.0.0.0 www.edenslask.pl
-0.0.0.0 www.edestrathergo.club
 0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.edgedalefinance.com
 0.0.0.0 www.edgevertise.com
@@ -113512,10 +113437,6 @@
 0.0.0.0 www.eluaccesorios.com
 0.0.0.0 www.elvox.pl
 0.0.0.0 www.elwirakurier.com
-0.0.0.0 www.email-authentication-service.cf
-0.0.0.0 www.email-authentication-service.ga
-0.0.0.0 www.email-authentication-service.gq
-0.0.0.0 www.email-authentication-service.tk
 0.0.0.0 www.email-login-support.com
 0.0.0.0 www.emailaccout.com
 0.0.0.0 www.emailadvantagegroup.com
@@ -114103,14 +114024,12 @@
 0.0.0.0 www.facebook.realtorarcf.com
 0.0.0.0 www.facebook.twoje-foty.eu
 0.0.0.0 www.facebook20.cf
-0.0.0.0 www.facebookabouts.com
 0.0.0.0 www.facebookaplikacje.blogspot.com
 0.0.0.0 www.facebookapp-login.ga
 0.0.0.0 www.facebookapp-login.ml
 0.0.0.0 www.facebookcolors24.blogspot.com
 0.0.0.0 www.facebookcrawl.co.cc
 0.0.0.0 www.facebookdrive-in.com
-0.0.0.0 www.facebookfromhelp.com
 0.0.0.0 www.facebookkoloruj.blogspot.com
 0.0.0.0 www.facebookktr.com
 0.0.0.0 www.facebookkviewer.blogspot.com
@@ -114972,7 +114891,6 @@
 0.0.0.0 www.formanaplus.pl
 0.0.0.0 www.forme.com.ua
 0.0.0.0 www.formessengers.com
-0.0.0.0 www.forms-google.xyz
 0.0.0.0 www.forms.net.in
 0.0.0.0 www.forntlinebdibetesi.us
 0.0.0.0 www.forppp.net
@@ -114981,7 +114899,6 @@
 0.0.0.0 www.forstriko.com
 0.0.0.0 www.fortesband.pl
 0.0.0.0 www.fortnite-vbuck.com
-0.0.0.0 www.fortsexpres.club
 0.0.0.0 www.fortsmithtimes.com
 0.0.0.0 www.fortunatefellow.xyz
 0.0.0.0 www.fortunatetime.xyz
@@ -115103,7 +115020,6 @@
 0.0.0.0 www.free.mymapsexpress.com
 0.0.0.0 www.free.propdfconverter.com
 0.0.0.0 www.free3weekdiet.com
-0.0.0.0 www.freeaccountsnetflix.cf
 0.0.0.0 www.freeadguru.com
 0.0.0.0 www.freeadult.games
 0.0.0.0 www.freeartist.name
@@ -115775,7 +115691,6 @@
 0.0.0.0 www.getcouponsfast.com
 0.0.0.0 www.getcydiapro.com
 0.0.0.0 www.getdataback.pl
-0.0.0.0 www.getdonspeg.work
 0.0.0.0 www.getelectra.com
 0.0.0.0 www.getfashionmania.com
 0.0.0.0 www.getfidgetspinner.net
@@ -116811,8 +116726,6 @@
 0.0.0.0 www.helltraffic.com
 0.0.0.0 www.help-covid19.ru
 0.0.0.0 www.help-instagram-fb.ml
-0.0.0.0 www.help-instagram-verified-badge-support.cf
-0.0.0.0 www.help-instagram-verifiedbadge-centers.tk
 0.0.0.0 www.help-verifyaccount.ml
 0.0.0.0 www.helpcoronacare.com
 0.0.0.0 www.helpcube.net
@@ -117203,7 +117116,6 @@
 0.0.0.0 www.hruner.com
 0.0.0.0 www.hryspap.cn
 0.0.0.0 www.hsbarbershop.co.uk
-0.0.0.0 www.hsbc-security-online.com
 0.0.0.0 www.hsbcholding.ml
 0.0.0.0 www.hseda.com
 0.0.0.0 www.hsfactory.pl
@@ -117900,36 +117812,27 @@
 0.0.0.0 www.instagram-2020.com
 0.0.0.0 www.instagram-community.gq
 0.0.0.0 www.instagram-community.tk
-0.0.0.0 www.instagram-copyrightteams.com
 0.0.0.0 www.instagram-formcopyright.com
 0.0.0.0 www.instagram-girisi-tr.com
 0.0.0.0 www.instagram-privacy-help.com
 0.0.0.0 www.instagram-support-help-fb.cf
 0.0.0.0 www.instagramailab.com
-0.0.0.0 www.instagrambigdata.com
-0.0.0.0 www.instagrambigdatalab.com
 0.0.0.0 www.instagrambreakthrough.com
 0.0.0.0 www.instagrambussineshelp.ml
 0.0.0.0 www.instagrambussineshelpcenter.com
 0.0.0.0 www.instagramcopyright-rules.ml
-0.0.0.0 www.instagramdatalab.com
 0.0.0.0 www.instagramfollowtrain.com
 0.0.0.0 www.instagramfolowers.com
 0.0.0.0 www.instagramhelpteam.org
-0.0.0.0 www.instagrammarketinglab.com
 0.0.0.0 www.instagrammer.com.ar
-0.0.0.0 www.instagrammodelfashionsales.net
 0.0.0.0 www.instagrammoodboard.com
 0.0.0.0 www.instagrampatentservicenmedia.ml
 0.0.0.0 www.instagramrule.com
 0.0.0.0 www.instagrams--bluebadge.com
 0.0.0.0 www.instagrams-bluebadge.com
 0.0.0.0 www.instagramsecruty.tk
-0.0.0.0 www.instagramserviceforms.com
-0.0.0.0 www.instagramtrendlab.com
 0.0.0.0 www.instagramverifingaccounts.ml
 0.0.0.0 www.instagramverify-support.ml
-0.0.0.0 www.instagramyardim.cf
 0.0.0.0 www.instalikes7.appspot.com
 0.0.0.0 www.install.pdfconverterhd.com
 0.0.0.0 www.installads.net
@@ -118471,7 +118374,6 @@
 0.0.0.0 www.jiawen88.com
 0.0.0.0 www.jibertytciako.pl
 0.0.0.0 www.jibrilrajoub.ps
-0.0.0.0 www.jicherincom.club
 0.0.0.0 www.jichi.ga
 0.0.0.0 www.jidekanwang.com
 0.0.0.0 www.jiduan.cc
@@ -119597,7 +119499,6 @@
 0.0.0.0 www.ldkisaw.gq
 0.0.0.0 www.ldmeetings.com
 0.0.0.0 www.ldrcp.pl
-0.0.0.0 www.ldrummaroise.club
 0.0.0.0 www.ldt1duixoe.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.ldxrb.com
@@ -119969,7 +119870,6 @@
 0.0.0.0 www.liveshopdealz.com
 0.0.0.0 www.livesmarter.com
 0.0.0.0 www.livestat.com
-0.0.0.0 www.livesupportinsta.ga
 0.0.0.0 www.livetex.ru
 0.0.0.0 www.livetrack.in
 0.0.0.0 www.livetraf.com
@@ -119991,7 +119891,6 @@
 0.0.0.0 www.lkorb.com
 0.0.0.0 www.lkpwmhjfvpctw.com
 0.0.0.0 www.lkqd.net
-0.0.0.0 www.lkse-amazonservic9k.servebeer.com
 0.0.0.0 www.lkskkssuoa.com
 0.0.0.0 www.lkyuoybczr.com
 0.0.0.0 www.lkzrb.com
@@ -120088,7 +119987,6 @@
 0.0.0.0 www.login-verifypaypalaccount-and-provide-information-idefnb11.cf
 0.0.0.0 www.login-verifypaypalaccount-and-provide-information-idefnb16.cf
 0.0.0.0 www.login.unlimited.serials.movies.tv.shows.ganjrss.ir
-0.0.0.0 www.loginsigupfacebook.my.id
 0.0.0.0 www.logintofb.tcp4.me
 0.0.0.0 www.logisticusa.biz
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
@@ -120112,8 +120010,6 @@
 0.0.0.0 www.lolaandgrace.com
 0.0.0.0 www.lolalynch.pl
 0.0.0.0 www.lolhello.com
-0.0.0.0 www.lolicloud.cf
-0.0.0.0 www.lolicloud.gq
 0.0.0.0 www.lolicmw.org
 0.0.0.0 www.lolitateen.com
 0.0.0.0 www.lollastuff.blogspot.com
@@ -120574,12 +120470,10 @@
 0.0.0.0 www.malikshabas.com
 0.0.0.0 www.malinkakurier.org
 0.0.0.0 www.malkm.com
-0.0.0.0 www.mallamazonto.xyz
 0.0.0.0 www.mallamazontosee.xyz
 0.0.0.0 www.mallcen.com
 0.0.0.0 www.mallestore.com
 0.0.0.0 www.mallowsmother.com
-0.0.0.0 www.mallrakutento.xyz
 0.0.0.0 www.mallrakutentosee.xyz
 0.0.0.0 www.malluhacks.com
 0.0.0.0 www.malneo44.com
@@ -121020,7 +120914,6 @@
 0.0.0.0 www.megatut.com
 0.0.0.0 www.megawealthbiz.com
 0.0.0.0 www.megazakupy.net
-0.0.0.0 www.megmeallab.com
 0.0.0.0 www.megpacokjce.bid
 0.0.0.0 www.meinlist.com
 0.0.0.0 www.meinlnim.com
@@ -121088,8 +120981,6 @@
 0.0.0.0 www.metareward.com
 0.0.0.0 www.metavertising.com
 0.0.0.0 www.metavertizer.com
-0.0.0.0 www.metflix.one
-0.0.0.0 www.metflix.rocks
 0.0.0.0 www.metherwallet.com
 0.0.0.0 www.methinkinge.com
 0.0.0.0 www.method21.net
@@ -121176,7 +121067,6 @@
 0.0.0.0 www.microsoft-secure-online.oa.r.appspot.com
 0.0.0.0 www.microsoft-update.name
 0.0.0.0 www.microsoft2010.com
-0.0.0.0 www.microsoft365online.cn
 0.0.0.0 www.microsoftaffiliates.net
 0.0.0.0 www.mictxtwtjigs.com
 0.0.0.0 www.midaddle.com
@@ -121334,7 +121224,6 @@
 0.0.0.0 www.mixturehopeful.com
 0.0.0.0 www.mizahturk.com
 0.0.0.0 www.mjbuuxt7l18r.com
-0.0.0.0 www.mjekimiyahoodiyon.fun
 0.0.0.0 www.mjkvwpabdce.com
 0.0.0.0 www.mjw.or.kr
 0.0.0.0 www.mk.am
@@ -122387,14 +122276,8 @@
 0.0.0.0 www.netflix.pl.lightersidepodcast.com
 0.0.0.0 www.netflix.pl.murataydeniz.com.tr
 0.0.0.0 www.netflix.pl.springday.com.tr
-0.0.0.0 www.netflix50k.com
-0.0.0.0 www.netflixaccount-suspend.com
-0.0.0.0 www.netflixaccountbillingarea.com
-0.0.0.0 www.netflixaccountinformationservice.com
-0.0.0.0 www.netflixdz.me
 0.0.0.0 www.netflixgiveaways.com
 0.0.0.0 www.netflixseriestv.com
-0.0.0.0 www.netflixserviceaccountbilling.com
 0.0.0.0 www.netflixtrial.net
 0.0.0.0 www.nethacker.de
 0.0.0.0 www.netherum.com
@@ -122900,7 +122783,6 @@
 0.0.0.0 www.novaonx.com
 0.0.0.0 www.novastarled.com
 0.0.0.0 www.novatio-masaze.pl
-0.0.0.0 www.novatrck.icu
 0.0.0.0 www.novaturegroup.com
 0.0.0.0 www.novaxdesign.com
 0.0.0.0 www.novelalittleme.blogspot.com
@@ -124114,14 +123996,11 @@
 0.0.0.0 www.paypal-com-pl.cf
 0.0.0.0 www.paypal-exchange.com
 0.0.0.0 www.paypal-insurance.support
-0.0.0.0 www.paypal-support10.serveirc.com
 0.0.0.0 www.paypal-user-resolve171.com
 0.0.0.0 www.paypal-user-resolve172.com
-0.0.0.0 www.paypal-user-resolve173.com
 0.0.0.0 www.paypal-user-resolve174.com
 0.0.0.0 www.paypal-verification.3utilities.com
 0.0.0.0 www.paypal4bitcoin.com
-0.0.0.0 www.paypalrecoveryservice.com
 0.0.0.0 www.paypalsevices.com
 0.0.0.0 www.paypalsservice.com
 0.0.0.0 www.paypau.io
@@ -124130,16 +124009,12 @@
 0.0.0.0 www.payperpost.com
 0.0.0.0 www.payperranking.com
 0.0.0.0 www.paypie.net
-0.0.0.0 www.payplticket4161287194.info
-0.0.0.0 www.payplticket4161287195.info
 0.0.0.0 www.paypop.org
 0.0.0.0 www.paypopup.com
 0.0.0.0 www.paypublicity.it
 0.0.0.0 www.payu-secure.services
 0.0.0.0 www.payu20-paczka24.com
-0.0.0.0 www.payupal.co.uk
 0.0.0.0 www.payusatax.com
-0.0.0.0 www.paywithpaypal.co
 0.0.0.0 www.paywu.net
 0.0.0.0 www.payyanbngbepaypalekrt.com
 0.0.0.0 www.pazelpop.com
@@ -124386,7 +124261,6 @@
 0.0.0.0 www.pikolinoses.com
 0.0.0.0 www.pila-dziedzictwo-2017-online.5v.pl
 0.0.0.0 www.pilabu.ru
-0.0.0.0 www.pilgrimary.club
 0.0.0.0 www.pilkanozna.yolasite.com
 0.0.0.0 www.pillheat.cyou
 0.0.0.0 www.pillowagecredulous.com
@@ -125079,7 +124953,6 @@
 0.0.0.0 www.premiumbesucher.de
 0.0.0.0 www.premiumdownloaden.de
 0.0.0.0 www.premiumholidayoffers.com
-0.0.0.0 www.premiumhotmail.com
 0.0.0.0 www.premiumlink.7tools.eu
 0.0.0.0 www.premiumlinkgenerator.online
 0.0.0.0 www.premiumpedia.com
@@ -125281,7 +125154,6 @@
 0.0.0.0 www.protectdedication.com
 0.0.0.0 www.protection-cellphone.fun
 0.0.0.0 www.protectmobiletechieai.club
-0.0.0.0 www.protectoramazones.com
 0.0.0.0 www.protesttaxi.pl
 0.0.0.0 www.protovid.com
 0.0.0.0 www.provanto.pl
@@ -125777,7 +125649,6 @@
 0.0.0.0 www.rakuten-emaild.info
 0.0.0.0 www.rakuten-emaile.info
 0.0.0.0 www.rakuten-emailf.info
-0.0.0.0 www.rakutenas.xyz
 0.0.0.0 www.ralister.co.uk
 0.0.0.0 www.ralphlaurenkolekta.pl
 0.0.0.0 www.ralplauran.com
@@ -125953,7 +125824,6 @@
 0.0.0.0 www.recommendedlab.com
 0.0.0.0 www.recommendservices.com
 0.0.0.0 www.recordingroadsidezoo.com
-0.0.0.0 www.recovery-paypal.org
 0.0.0.0 www.recoveryinformremorse.com
 0.0.0.0 www.recoverypaypal.com.ng
 0.0.0.0 www.recreation-leisure-rewardpath.com
@@ -125969,7 +125839,6 @@
 0.0.0.0 www.redbnoptions.com
 0.0.0.0 www.redcash.net
 0.0.0.0 www.redcourtside.com
-0.0.0.0 www.redditcdn.xyz
 0.0.0.0 www.redditparliament.com
 0.0.0.0 www.redditpussy.com
 0.0.0.0 www.reddogzone.com
@@ -126504,7 +126373,6 @@
 0.0.0.0 www.run-germany.com
 0.0.0.0 www.runaddict.pl
 0.0.0.0 www.runative.com
-0.0.0.0 www.runbiri.info
 0.0.0.0 www.rungrinh.vn
 0.0.0.0 www.running-bike.com
 0.0.0.0 www.ruralagricola.com.br
@@ -126963,7 +126831,6 @@
 0.0.0.0 www.secure-pge.eu
 0.0.0.0 www.secure-processingcenter.com
 0.0.0.0 www.secure-softwaremanager.com
-0.0.0.0 www.secure-updateaccountbilling.com
 0.0.0.0 www.secure-upgrade.com
 0.0.0.0 www.secure.bankofamreica-online.helpsuite.kamilogistics.com
 0.0.0.0 www.secureapplesupport.com
@@ -126973,9 +126840,7 @@
 0.0.0.0 www.securecloud-dt.com
 0.0.0.0 www.securecloud-smart.com
 0.0.0.0 www.securecloudtrusted.com
-0.0.0.0 www.secureconnect-wellsfargoverified.com
 0.0.0.0 www.securecontactinfo.com
-0.0.0.0 www.securedapple.tk
 0.0.0.0 www.securemypc.co.uk
 0.0.0.0 www.securepaths.com
 0.0.0.0 www.secureriches.com
@@ -127395,7 +127260,6 @@
 0.0.0.0 www.shreveportreporter.com
 0.0.0.0 www.shrihariindia.com
 0.0.0.0 www.shrihariindia.in
-0.0.0.0 www.shrinkads.com
 0.0.0.0 www.shrinkearn.com
 0.0.0.0 www.shrugartisticelder.com
 0.0.0.0 www.shterngroup.com
@@ -128195,7 +128059,6 @@
 0.0.0.0 www.spywarespy.com
 0.0.0.0 www.spzadabrowie.pl
 0.0.0.0 www.sq2trk2.com
-0.0.0.0 www.squawcubesfry.com
 0.0.0.0 www.squeeder.com
 0.0.0.0 www.squirtvidz.com
 0.0.0.0 www.sr69.de
@@ -128513,7 +128376,6 @@
 0.0.0.0 www.sugasoul.pl
 0.0.0.0 www.suggestvideos.xyz
 0.0.0.0 www.sugrrgabalanceaaj.us
-0.0.0.0 www.suhadanokisetsu-amazon.website
 0.0.0.0 www.suicide-vintage.blogspot.com
 0.0.0.0 www.suifco.com
 0.0.0.0 www.suisseoption.com
@@ -128612,7 +128474,6 @@
 0.0.0.0 www.supplementum.pl
 0.0.0.0 www.supply-id9481.net
 0.0.0.0 www.support-4-free.com
-0.0.0.0 www.support-accamazon.servehttp.com
 0.0.0.0 www.support-konto.pl
 0.0.0.0 www.support.apple.com-notice.info
 0.0.0.0 www.supportcorner.co
@@ -128780,7 +128641,6 @@
 0.0.0.0 www.system-backup.biz
 0.0.0.0 www.system-live-media.cz
 0.0.0.0 www.system-team-online.site
-0.0.0.0 www.system24paypal.info
 0.0.0.0 www.system4.nl
 0.0.0.0 www.systemchlodzeniamglapl.com
 0.0.0.0 www.systemcode.org
@@ -130892,7 +130752,6 @@
 0.0.0.0 www.verfer.com
 0.0.0.0 www.verification.libertrust.com
 0.0.0.0 www.verified-extensions.com
-0.0.0.0 www.verified-instagram.asia
 0.0.0.0 www.verifier.live
 0.0.0.0 www.verify-0008-response-manage-dynamic.tk
 0.0.0.0 www.verifybadges-help-support.ml
@@ -131592,7 +131451,6 @@
 0.0.0.0 www.wellmov.com
 0.0.0.0 www.wellphyto.com
 0.0.0.0 www.wellsfarg0-onllne.net
-0.0.0.0 www.wellsfargooonlinee.gq
 0.0.0.0 www.wellstar-company.com
 0.0.0.0 www.wellyss.pl
 0.0.0.0 www.welshstructures.com
@@ -131689,7 +131547,6 @@
 0.0.0.0 www.whamukoji.pro
 0.0.0.0 www.whateyeweight8.live
 0.0.0.0 www.whatpornsite.com
-0.0.0.0 www.whatsapp-invit.my.id
 0.0.0.0 www.whatsappbulkmessage.com
 0.0.0.0 www.whatsappdaregame.com
 0.0.0.0 www.whatsappgrupsohbeti.cf
@@ -132099,7 +131956,6 @@
 0.0.0.0 www.wwm24.de
 0.0.0.0 www.wwppc.com
 0.0.0.0 www.wws.ero-advertising.com
-0.0.0.0 www.www-facebook.net
 0.0.0.0 www.www-google.nl
 0.0.0.0 www.www-myetherwallet.com
 0.0.0.0 www.www-protection.com
@@ -132777,7 +132633,6 @@
 0.0.0.0 www.youtuhe.com
 0.0.0.0 www.youyong.gq
 0.0.0.0 www.yovoads.com
-0.0.0.0 www.yowlcapkegs.com
 0.0.0.0 www.yowwinnerprize.com
 0.0.0.0 www.yoyo-zdjecia.bo.pl
 0.0.0.0 www.yoyoykamphora.com
