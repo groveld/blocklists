@@ -9,12 +9,21 @@ function parseFile() {
   cat $1 | sed 's/[[:space:]]*#.*//; s/^[[:space:]]*//; s/[[:space:]]*$//; s/.*[[:blank:]]//; /^[[:space:]]*$/d' | sort | uniq
 }
 
-function jsonMeta() {
+function metaCalc() {
   FILESIZE=$(stat -c '%s' ./lists/${LIST}/${TYPE}.txt | numfmt --to iec)
   FILEHASH=$(sha1sum ./lists/${LIST}/${TYPE}.txt | cut -d' ' -f1)
+}
+
+function formatJson() {
   echo "\"file\":\"${LISTURL}/${TYPE}.txt\",\"entries\":\"${ENTRIES}\",\"size\":\"${FILESIZE}\",\"date\":\"${UPDATED}\",\"hash\":\"${FILEHASH}\""
 }
 
+function formatReadme() {
+  echo "|[${TYPE}](${LISTURL}/${TYPE}.txt)|${ENTRIES}|${FILESIZE}|${UPDATED}|${FILEHASH}|"
+}
+
+[ ! -d ./lists ] && mkdir -p ./lists
+printf "# blocklists\n" > ./lists/README.md
 JSON=()
 
 for dir in ./data/*/; do
@@ -41,13 +50,17 @@ for dir in ./data/*/; do
 
   [ ! -d ./lists/${LIST} ] && mkdir -p ./lists/${LIST}
 
+  printf "\n## ${LIST}\n|type|entries|size|updated|hash (sha1)|\n|-|-|-|-|-|\n" >> ./lists/README.md
+
   # GENERATE DOMAINS LIST
   TYPE="domains"
   printf "# LISTURL: ${LISTURL}/${TYPE}.txt\n" > ./lists/${LIST}/${TYPE}.txt
   printf "# UPDATED: ${UPDATED}\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "# ENTRIES: ${ENTRIES}\n\n" >> ./lists/${LIST}/${TYPE}.txt
   cat ./temp/${LIST}/${LIST}.list >> ./lists/${LIST}/${TYPE}.txt
-  TYPEJSON+=(\"${TYPE}\":{$(jsonMeta)})
+  metaCalc
+  TYPEJSON+=(\"${TYPE}\":{$(formatJson)})
+  printf "$(formatReadme)\n" >> ./lists/README.md
 
   # GENERATE WILDCARD DOMAINS LIST
   TYPE="wildcard"
@@ -55,7 +68,9 @@ for dir in ./data/*/; do
   printf "# UPDATED: ${UPDATED}\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "# ENTRIES: ${ENTRIES}\n\n" >> ./lists/${LIST}/${TYPE}.txt
   sed 's/^/\*./' ./temp/${LIST}/${LIST}.list >> ./lists/${LIST}/${TYPE}.txt
-  TYPEJSON+=(\"${TYPE}\":{$(jsonMeta)})
+  metaCalc
+  TYPEJSON+=(\"${TYPE}\":{$(formatJson)})
+  printf "$(formatReadme)\n" >> ./lists/README.md
 
   # GENERATE ADBLOCKER-SYNTAX DOMAINS LIST
   TYPE="adblocker"
@@ -63,7 +78,9 @@ for dir in ./data/*/; do
   printf "# UPDATED: ${UPDATED}\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "# ENTRIES: ${ENTRIES}\n\n" >> ./lists/${LIST}/${TYPE}.txt
   sed 's/^/||/; s/$/\^/' ./temp/${LIST}/${LIST}.list >> ./lists/${LIST}/${TYPE}.txt
-  TYPEJSON+=(\"${TYPE}\":{$(jsonMeta)})
+  metaCalc
+  TYPEJSON+=(\"${TYPE}\":{$(formatJson)})
+  printf "$(formatReadme)\n" >> ./lists/README.md
 
   # GENERATE HOSTS LIST
   TYPE="hosts"
@@ -71,7 +88,9 @@ for dir in ./data/*/; do
   printf "# UPDATED: ${UPDATED}\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "# ENTRIES: ${ENTRIES}\n\n" >> ./lists/${LIST}/${TYPE}.txt
   sed 's/^/0.0.0.0 /' ./temp/${LIST}/${LIST}.list >> ./lists/${LIST}/${TYPE}.txt
-  TYPEJSON+=(\"${TYPE}\":{$(jsonMeta)})
+  metaCalc
+  TYPEJSON+=(\"${TYPE}\":{$(formatJson)})
+  printf "$(formatReadme)\n" >> ./lists/README.md
 
   # GENERATE DNSMASQ LIST
   TYPE="dnsmasq"
@@ -79,7 +98,9 @@ for dir in ./data/*/; do
   printf "# UPDATED: ${UPDATED}\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "# ENTRIES: ${ENTRIES}\n\n" >> ./lists/${LIST}/${TYPE}.txt
   sed 's/^/address=\//; s/$/\/0.0.0.0/' ./temp/${LIST}/${LIST}.list >> ./lists/${LIST}/${TYPE}.txt
-  TYPEJSON+=(\"${TYPE}\":{$(jsonMeta)})
+  metaCalc
+  TYPEJSON+=(\"${TYPE}\":{$(formatJson)})
+  printf "$(formatReadme)\n" >> ./lists/README.md
 
   # GENERATE PAC (PROXY AUTO-CONFIGURATION) LIST
   TYPE="pac"
@@ -99,7 +120,9 @@ for dir in ./data/*/; do
   printf " }\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "  return "DIRECT";\n" >> ./lists/${LIST}/${TYPE}.txt
   printf "}\n" >> ./lists/${LIST}/${TYPE}.txt
-  TYPEJSON+=(\"${TYPE}\":{$(jsonMeta)})
+  metaCalc
+  TYPEJSON+=(\"${TYPE}\":{$(formatJson)})
+  printf "$(formatReadme)\n" >> ./lists/README.md
 
   JSON+=($(echo \"${LIST}\":{${TYPEJSON[@]}} | sed 's/ /,/g'))
   [ -d ./temp/${LIST} ] && rm -rf ./temp/${LIST}
