@@ -1,8 +1,6 @@
 name: Generate new lists
 
 on:
-  push:
-    branches: [ master ]
   schedule:
     - cron:  '0 0 * * *'
 
@@ -28,12 +26,12 @@ jobs:
           chmod +x ./generate.sh
           ./generate.sh
 
-      - name: Copy to lists branch
+      - name: Update lists branch
         run: |
           cd ${GITHUB_WORKSPACE}/
           rsync -vrth --delete --exclude ".git*" ./master/lists/ ./lists/
 
-      - name: Push to GitHub
+      - name: Push changes to GitHub
         run: |
           cd ${GITHUB_WORKSPACE}/lists/
           git config --global user.name "${GITHUB_ACTOR}"
