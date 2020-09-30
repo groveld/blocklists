@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt
-# UPDATED: 2020-09-29 21:13:41.129507456 +0000
-# ENTRIES: 48998
+# UPDATED: 2020-09-30 00:55:06.227117342 +0000
+# ENTRIES: 48937
 
 ||0--e.info^
 ||0-24bpautomentes.hu^
@@ -4449,12 +4449,6 @@
 ||amazon-co-jp-i2fd.top^
 ||amazon-cornerstone.com^
 ||amazon-creatorscourt.com^
-||amazon-emaila.info^
-||amazon-emailb.info^
-||amazon-emailc.info^
-||amazon-emaild.info^
-||amazon-emaile.info^
-||amazon-emailf.info^
 ||amazon-jp-co.today^
 ||amazon-mail.photos^
 ||amazon-mail.plus^
@@ -4490,11 +4484,6 @@
 ||amazonjpnet-card.buzz^
 ||amazonjpp.xyz^
 ||amazonlunachina.com^
-||amazonm-cojpa.shop^
-||amazonm-cojpb.shop^
-||amazonm-cojpc.shop^
-||amazonm-cojpd.shop^
-||amazonm-cojpe.shop^
 ||amazonma.top^
 ||amazonmallcard.xyz^
 ||amazonmassivetraffic.com^
@@ -5852,7 +5841,6 @@
 ||barca.md^
 ||barclays.payee-auth-secure-area.com^
 ||barclaysghana.org^
-||barclaysofficer.com^
 ||barelyteenz.com^
 ||baresion.top^
 ||barfsmiaowpit.com^
@@ -11999,7 +11987,6 @@
 ||facebook-domain-verificationzwbfg6szg3e3jbx2zjka6uvomgof3d.com^
 ||facebook-verified-badges.cf^
 ||facebook.flaneur.one^
-||facebook20.cf^
 ||facebookabouts.com^
 ||facebookapp-login.ga^
 ||facebookapp-login.ml^
@@ -12838,7 +12825,6 @@
 ||fresenius.com^
 ||freseniusmedicalcare.com^
 ||fresh8.co^
-||freshair.nl^
 ||freshcherries.com^
 ||freshmpegs.com^
 ||fresnoleader.com^
@@ -15473,18 +15459,14 @@
 ||instagram-privacy-help.com^
 ||instagram-support-help-fb.cf^
 ||instagram.flaneur.one^
-||instagrambigdata.com^
-||instagrambigdatalab.com^
 ||instagrambreakthrough.com^
 ||instagrambussineshelp.ml^
 ||instagrambussineshelpcenter.com^
 ||instagramcopyright-rules.ml^
-||instagramdatalab.com^
 ||instagramfollowtrain.com^
 ||instagramfolowers.com^
 ||instagramfreefollowers.org^
 ||instagramhelpteam.org^
-||instagrammarketinglab.com^
 ||instagrammer.com.ar^
 ||instagrammodelfashionsales.net^
 ||instagrammoodboard.com^
@@ -15493,7 +15475,6 @@
 ||instagrams-bluebadge.com^
 ||instagramsecruty.tk^
 ||instagramserviceforms.com^
-||instagramtrendlab.com^
 ||instagramverifingaccounts.ml^
 ||instagramverify-support.ml^
 ||instalikes7.appspot.com^
@@ -18497,7 +18478,6 @@
 ||media-b.jp^
 ||media-general.com^
 ||media-guides.de^
-||media-instagrambadges.com^
 ||media-rep.com^
 ||media-sapiens.com^
 ||media-toolbar.com^
@@ -20010,7 +19990,6 @@
 ||netcitycab.com^
 ||netfeed.club^
 ||netfilia.com^
-||netflix-accounts.net^
 ||netflix-addon.com^
 ||netflix-myplan.com^
 ||netflix-proccesserror.com^
@@ -21781,9 +21760,7 @@
 ||paypal-insurance.support^
 ||paypal-login235.com^
 ||paypal-support10.serveirc.com^
-||paypal-user-resolve171.com^
 ||paypal-user-resolve172.com^
-||paypal-user-resolve174.com^
 ||paypal-verification.3utilities.com^
 ||paypal.automotivewebsitedesigns.com^
 ||paypal.com-resolution.center-ujpmq2vvcy7.l06v.com^
@@ -23376,12 +23353,6 @@
 ||rakuten-card-co-jp.vip^
 ||rakuten-co-jp-intelligence.top^
 ||rakuten-co-jp-update.com^
-||rakuten-emaila.info^
-||rakuten-emailb.info^
-||rakuten-emailc.info^
-||rakuten-emaild.info^
-||rakuten-emaile.info^
-||rakuten-emailf.info^
 ||rakuten.nfzy5.com^
 ||rakutenas.xyz^
 ||ralister.co.uk^
@@ -32370,12 +32341,6 @@
 ||www.amazon-1cojp.monster^
 ||www.amazon-co-jp-i2fd.top^
 ||www.amazon-creatorscourt.com^
-||www.amazon-emaila.info^
-||www.amazon-emailb.info^
-||www.amazon-emailc.info^
-||www.amazon-emaild.info^
-||www.amazon-emaile.info^
-||www.amazon-emailf.info^
 ||www.amazon-jp-co.today^
 ||www.amazon-mail.photos^
 ||www.amazon-mail.win^
@@ -32402,11 +32367,6 @@
 ||www.amazonforcee.com^
 ||www.amazongreenstore.com^
 ||www.amazonjo.xyz^
-||www.amazonm-cojpa.shop^
-||www.amazonm-cojpb.shop^
-||www.amazonm-cojpc.shop^
-||www.amazonm-cojpd.shop^
-||www.amazonm-cojpe.shop^
 ||www.amazonma.top^
 ||www.amazonmassivetraffic.com^
 ||www.amazonmusicpodcast.us^
@@ -33133,7 +33093,6 @@
 ||www.barbaros.com^
 ||www.barca.md^
 ||www.barclaysghana.org^
-||www.barclaysofficer.com^
 ||www.baresion.top^
 ||www.bargain-buddy.net^
 ||www.bargainingrip.com^
@@ -36630,7 +36589,6 @@
 ||www.faccomputer.com^
 ||www.facebook-domain-verificationzwbfg6szg3e3jbx2zjka6uvomgof3d.com^
 ||www.facebook-verified-badges.cf^
-||www.facebook20.cf^
 ||www.facebookapp-login.ga^
 ||www.facebookapp-login.ml^
 ||www.facebookdrive-in.com^
@@ -37176,7 +37134,6 @@
 ||www.fresenius.com^
 ||www.freseniusmedicalcare.com^
 ||www.fresh8.co^
-||www.freshair.nl^
 ||www.freshcherries.com^
 ||www.freshmpegs.com^
 ||www.fresnoleader.com^
@@ -37719,7 +37676,6 @@
 ||www.google98.ir^
 ||www.googlefoad.top^
 ||www.googleperuvian.com^
-||www.googlevip.cf^
 ||www.goonwithmazerqq.com^
 ||www.goooogleadsence.biz^
 ||www.gooqleadvstat.com^
@@ -38784,13 +38740,10 @@
 ||www.insta-cash.net^
 ||www.instaboom-hello.site^
 ||www.instagram-2020.com^
-||www.instagram-community.gq^
-||www.instagram-community.tk^
 ||www.instagram-formcopyright.com^
 ||www.instagram-girisi-tr.com^
 ||www.instagram-privacy-help.com^
 ||www.instagram-support-help-fb.cf^
-||www.instagramailab.com^
 ||www.instagrambreakthrough.com^
 ||www.instagrambussineshelp.ml^
 ||www.instagrambussineshelpcenter.com^
@@ -40116,7 +40069,6 @@
 ||www.logicalskj.work^
 ||www.logicaltrading.ru^
 ||www.login-verifypaypalaccount-and-provide-information-idefnb11.cf^
-||www.login-verifypaypalaccount-and-provide-information-idefnb16.cf^
 ||www.logisticusa.biz^
 ||www.logly.co.jp^
 ||www.logo-net.co.uk^
@@ -40306,7 +40258,6 @@
 ||www.m-naaien.com^
 ||www.m-rtb.com^
 ||www.m-shes.ru^
-||www.m-yandex.ga^
 ||www.m0hcppadsnq8.com^
 ||www.m328ii38yg76vw.com^
 ||www.m3bnqqqw.com^
@@ -40650,7 +40601,6 @@
 ||www.media-b.jp^
 ||www.media-general.com^
 ||www.media-guides.de^
-||www.media-instagrambadges.com^
 ||www.media-sapiens.com^
 ||www.media-toolbar.com^
 ||www.media2d.net^
@@ -41602,7 +41552,6 @@
 ||www.netcitycab.com^
 ||www.netfeed.club^
 ||www.netfilia.com^
-||www.netflix-accounts.net^
 ||www.netflix-addon.com^
 ||www.netflix-myplan.com^
 ||www.netflix-proccesserror.com^
@@ -42674,12 +42623,9 @@
 ||www.paypai-pt.com^
 ||www.paypal-account.fr^
 ||www.paypal-insurance.support^
-||www.paypal-user-resolve171.com^
 ||www.paypal-user-resolve172.com^
-||www.paypal-user-resolve174.com^
 ||www.paypal-verification.3utilities.com^
 ||www.paypal4bitcoin.com^
-||www.paypalsevices.com^
 ||www.paypalsservice.com^
 ||www.paypau.io^
 ||www.payperclick.co.il^
@@ -43515,12 +43461,6 @@
 ||www.rakuten-card-co-jp.vip^
 ||www.rakuten-co-jp-intelligence.top^
 ||www.rakuten-co-jp-update.com^
-||www.rakuten-emaila.info^
-||www.rakuten-emailb.info^
-||www.rakuten-emailc.info^
-||www.rakuten-emaild.info^
-||www.rakuten-emaile.info^
-||www.rakuten-emailf.info^
 ||www.ralister.co.uk^
 ||www.ramainfotech.in^
 ||www.ramlimsy.net^
@@ -44339,7 +44279,6 @@
 ||www.serv1swork.com^
 ||www.servehub.info^
 ||www.servemeads.com^
-||www.server-outlook.tk^
 ||www.serverads.net^
 ||www.serverbid.com^
 ||www.servertraffic.de^

@@ -1,6 +1,6 @@
 # LISTURL: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# UPDATED: 2020-09-29 21:13:46.437996413 +0000
-# ENTRIES: 136213
+# UPDATED: 2020-09-30 00:55:12.111476682 +0000
+# ENTRIES: 136152
 
 0.0.0.0 0--e.info
 0.0.0.0 0-24bpautomentes.hu
@@ -16242,12 +16242,6 @@
 0.0.0.0 amazon-cornerstone.com
 0.0.0.0 amazon-creatorscourt.com
 0.0.0.0 amazon-deineeinkaufswelt.com
-0.0.0.0 amazon-emaila.info
-0.0.0.0 amazon-emailb.info
-0.0.0.0 amazon-emailc.info
-0.0.0.0 amazon-emaild.info
-0.0.0.0 amazon-emaile.info
-0.0.0.0 amazon-emailf.info
 0.0.0.0 amazon-hotline.com
 0.0.0.0 amazon-jp-co.today
 0.0.0.0 amazon-mail.photos
@@ -16326,11 +16320,6 @@
 0.0.0.0 amazonjpnet-card.buzz
 0.0.0.0 amazonjpp.xyz
 0.0.0.0 amazonlunachina.com
-0.0.0.0 amazonm-cojpa.shop
-0.0.0.0 amazonm-cojpb.shop
-0.0.0.0 amazonm-cojpc.shop
-0.0.0.0 amazonm-cojpd.shop
-0.0.0.0 amazonm-cojpe.shop
 0.0.0.0 amazonma.top
 0.0.0.0 amazonmallcard.xyz
 0.0.0.0 amazonmassivetraffic.com
@@ -22080,7 +22069,6 @@
 0.0.0.0 barclays.co.uk.personalbanking.p1242557947640.p1242557947640.p1242557947640.093030023030230230002300239.hptrading.co
 0.0.0.0 barclays.payee-auth-secure-area.com
 0.0.0.0 barclaysghana.org
-0.0.0.0 barclaysofficer.com
 0.0.0.0 barcodesaya.000webhostapp.com
 0.0.0.0 bardanet.com.br
 0.0.0.0 bardiscover.com
@@ -42711,7 +42699,6 @@
 0.0.0.0 facebook0067.webnode.com
 0.0.0.0 facebook1749.webnode.com
 0.0.0.0 facebook1996.webcindario.com
-0.0.0.0 facebook20.cf
 0.0.0.0 facebook22.com
 0.0.0.0 facebook3d.com.br
 0.0.0.0 facebookabouts.com
@@ -45490,7 +45477,6 @@
 0.0.0.0 fresh-tv.biz
 0.0.0.0 fresh.ygto.com
 0.0.0.0 fresh8.co
-0.0.0.0 freshair.nl
 0.0.0.0 freshbike.de
 0.0.0.0 freshchat.info
 0.0.0.0 freshcherries.com
@@ -54212,20 +54198,16 @@
 0.0.0.0 instagram.jolims.tk
 0.0.0.0 instagram.myago.tk
 0.0.0.0 instagram.serulom.tk
-0.0.0.0 instagrambigdata.com
-0.0.0.0 instagrambigdatalab.com
 0.0.0.0 instagrambreakthrough.com
 0.0.0.0 instagrambussineshelp.ml
 0.0.0.0 instagrambussineshelpcenter.com
 0.0.0.0 instagramcopyright-rules.ml
-0.0.0.0 instagramdatalab.com
 0.0.0.0 instagramfollowers1.com
 0.0.0.0 instagramfollowtrain.com
 0.0.0.0 instagramfolowers.com
 0.0.0.0 instagramfreefollowers.org
 0.0.0.0 instagramgaleri.com
 0.0.0.0 instagramhelpteam.org
-0.0.0.0 instagrammarketinglab.com
 0.0.0.0 instagrammer.com.ar
 0.0.0.0 instagrammodelfashionsales.net
 0.0.0.0 instagrammoodboard.com
@@ -54239,7 +54221,6 @@
 0.0.0.0 instagramsecruty.tk
 0.0.0.0 instagramserviceforms.com
 0.0.0.0 instagramtakipcihavuzu.com
-0.0.0.0 instagramtrendlab.com
 0.0.0.0 instagramverifingaccounts.ml
 0.0.0.0 instagramverify-support.ml
 0.0.0.0 instagramvipanel.com
@@ -64059,7 +64040,6 @@
 0.0.0.0 media-fire.org
 0.0.0.0 media-general.com
 0.0.0.0 media-guides.de
-0.0.0.0 media-instagrambadges.com
 0.0.0.0 media-match.com
 0.0.0.0 media-playerz.com
 0.0.0.0 media-rep.com
@@ -69180,7 +69160,6 @@
 0.0.0.0 netfilx-uk-connect.com
 0.0.0.0 netfilxca.com
 0.0.0.0 netflame.cc
-0.0.0.0 netflix-accounts.net
 0.0.0.0 netflix-addon.com
 0.0.0.0 netflix-authpayment.com
 0.0.0.0 netflix-billingpayments.com
@@ -74900,9 +74879,7 @@
 0.0.0.0 paypal-update-services.us
 0.0.0.0 paypal-update.surge365bolivia.com
 0.0.0.0 paypal-updateco.com
-0.0.0.0 paypal-user-resolve171.com
 0.0.0.0 paypal-user-resolve172.com
-0.0.0.0 paypal-user-resolve174.com
 0.0.0.0 paypal-verification-account.com
 0.0.0.0 paypal-verification-comptes.backup.fluctis.com
 0.0.0.0 paypal-verification.3utilities.com
@@ -80336,12 +80313,6 @@
 0.0.0.0 rakuten-cards-secuitys.com
 0.0.0.0 rakuten-co-jp-intelligence.top
 0.0.0.0 rakuten-co-jp-update.com
-0.0.0.0 rakuten-emaila.info
-0.0.0.0 rakuten-emailb.info
-0.0.0.0 rakuten-emailc.info
-0.0.0.0 rakuten-emaild.info
-0.0.0.0 rakuten-emaile.info
-0.0.0.0 rakuten-emailf.info
 0.0.0.0 rakuten.112.2o7.net
 0.0.0.0 rakuten.jp-bankq.com
 0.0.0.0 rakuten.nfzy5.com
@@ -107317,12 +107288,6 @@
 0.0.0.0 www.amazon-1cojp.monster
 0.0.0.0 www.amazon-co-jp-i2fd.top
 0.0.0.0 www.amazon-creatorscourt.com
-0.0.0.0 www.amazon-emaila.info
-0.0.0.0 www.amazon-emailb.info
-0.0.0.0 www.amazon-emailc.info
-0.0.0.0 www.amazon-emaild.info
-0.0.0.0 www.amazon-emaile.info
-0.0.0.0 www.amazon-emailf.info
 0.0.0.0 www.amazon-jp-co.today
 0.0.0.0 www.amazon-mail.photos
 0.0.0.0 www.amazon-mail.win
@@ -107350,11 +107315,6 @@
 0.0.0.0 www.amazonforcee.com
 0.0.0.0 www.amazongreenstore.com
 0.0.0.0 www.amazonjo.xyz
-0.0.0.0 www.amazonm-cojpa.shop
-0.0.0.0 www.amazonm-cojpb.shop
-0.0.0.0 www.amazonm-cojpc.shop
-0.0.0.0 www.amazonm-cojpd.shop
-0.0.0.0 www.amazonm-cojpe.shop
 0.0.0.0 www.amazonma.top
 0.0.0.0 www.amazonmassivetraffic.com
 0.0.0.0 www.amazonmusicpodcast.us
@@ -108477,7 +108437,6 @@
 0.0.0.0 www.barca.md
 0.0.0.0 www.barcaacademyistanbul.com
 0.0.0.0 www.barclaysghana.org
-0.0.0.0 www.barclaysofficer.com
 0.0.0.0 www.baresion.top
 0.0.0.0 www.bargain-buddy.net
 0.0.0.0 www.bargainbeautybuys.com
@@ -114023,7 +113982,6 @@
 0.0.0.0 www.facebook.cm
 0.0.0.0 www.facebook.realtorarcf.com
 0.0.0.0 www.facebook.twoje-foty.eu
-0.0.0.0 www.facebook20.cf
 0.0.0.0 www.facebookaplikacje.blogspot.com
 0.0.0.0 www.facebookapp-login.ga
 0.0.0.0 www.facebookapp-login.ml
@@ -115157,7 +115115,6 @@
 0.0.0.0 www.fresh-finance.pl
 0.0.0.0 www.fresh-weather.com
 0.0.0.0 www.fresh8.co
-0.0.0.0 www.freshair.nl
 0.0.0.0 www.freshcherries.com
 0.0.0.0 www.freshcoffeenetwork.com
 0.0.0.0 www.freshestate.com.pl
@@ -116102,7 +116059,6 @@
 0.0.0.0 www.googleperuvian.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 www.googlevip.cf
 0.0.0.0 www.googlew.com
 0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.googlre.com
@@ -117810,13 +117766,10 @@
 0.0.0.0 www.insta-cash.net
 0.0.0.0 www.instaboom-hello.site
 0.0.0.0 www.instagram-2020.com
-0.0.0.0 www.instagram-community.gq
-0.0.0.0 www.instagram-community.tk
 0.0.0.0 www.instagram-formcopyright.com
 0.0.0.0 www.instagram-girisi-tr.com
 0.0.0.0 www.instagram-privacy-help.com
 0.0.0.0 www.instagram-support-help-fb.cf
-0.0.0.0 www.instagramailab.com
 0.0.0.0 www.instagrambreakthrough.com
 0.0.0.0 www.instagrambussineshelp.ml
 0.0.0.0 www.instagrambussineshelpcenter.com
@@ -119985,7 +119938,6 @@
 0.0.0.0 www.login-paribas.info
 0.0.0.0 www.login-planet-paribas.info
 0.0.0.0 www.login-verifypaypalaccount-and-provide-information-idefnb11.cf
-0.0.0.0 www.login-verifypaypalaccount-and-provide-information-idefnb16.cf
 0.0.0.0 www.login.unlimited.serials.movies.tv.shows.ganjrss.ir
 0.0.0.0 www.logintofb.tcp4.me
 0.0.0.0 www.logisticusa.biz
@@ -120283,7 +120235,6 @@
 0.0.0.0 www.m-rtb.com
 0.0.0.0 www.m-shes.ru
 0.0.0.0 www.m-wielkopolskie.pl
-0.0.0.0 www.m-yandex.ga
 0.0.0.0 www.m.pl.failmobile.net
 0.0.0.0 www.m0hcppadsnq8.com
 0.0.0.0 www.m1crosoft.com
@@ -120797,7 +120748,6 @@
 0.0.0.0 www.media-b.jp
 0.0.0.0 www.media-general.com
 0.0.0.0 www.media-guides.de
-0.0.0.0 www.media-instagrambadges.com
 0.0.0.0 www.media-motor.com
 0.0.0.0 www.media-sapiens.com
 0.0.0.0 www.media-toolbar.com
@@ -122263,7 +122213,6 @@
 0.0.0.0 www.netfeed.club
 0.0.0.0 www.netfilia.com
 0.0.0.0 www.netfilmy.pl
-0.0.0.0 www.netflix-accounts.net
 0.0.0.0 www.netflix-addon.com
 0.0.0.0 www.netflix-mail.info
 0.0.0.0 www.netflix-movies-and-series-unlimited-login.kozow.com
@@ -123996,12 +123945,9 @@
 0.0.0.0 www.paypal-com-pl.cf
 0.0.0.0 www.paypal-exchange.com
 0.0.0.0 www.paypal-insurance.support
-0.0.0.0 www.paypal-user-resolve171.com
 0.0.0.0 www.paypal-user-resolve172.com
-0.0.0.0 www.paypal-user-resolve174.com
 0.0.0.0 www.paypal-verification.3utilities.com
 0.0.0.0 www.paypal4bitcoin.com
-0.0.0.0 www.paypalsevices.com
 0.0.0.0 www.paypalsservice.com
 0.0.0.0 www.paypau.io
 0.0.0.0 www.payperclick.co.il
@@ -125643,12 +125589,6 @@
 0.0.0.0 www.rakuten-co-jp-intelligence.top
 0.0.0.0 www.rakuten-co-jp-update.com
 0.0.0.0 www.rakuten-contect-japan-servicc.com
-0.0.0.0 www.rakuten-emaila.info
-0.0.0.0 www.rakuten-emailb.info
-0.0.0.0 www.rakuten-emailc.info
-0.0.0.0 www.rakuten-emaild.info
-0.0.0.0 www.rakuten-emaile.info
-0.0.0.0 www.rakuten-emailf.info
 0.0.0.0 www.ralister.co.uk
 0.0.0.0 www.ralphlaurenkolekta.pl
 0.0.0.0 www.ralplauran.com
@@ -126989,7 +126929,6 @@
 0.0.0.0 www.servedby.blamads.com
 0.0.0.0 www.servehub.info
 0.0.0.0 www.servemeads.com
-0.0.0.0 www.server-outlook.tk
 0.0.0.0 www.server-payuser1.com
 0.0.0.0 www.server292369.nazwa.pl
 0.0.0.0 www.server32456789098765.s3.us-east-2.amazonaws.com
