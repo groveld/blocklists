@@ -1,0 +1,420 @@
+## Google Maps and other Google services
+
+clients4.google.com
+clients2.google.com
+
+## YouTube history
+
+s.youtube.com
+video-stats.l.google.com
+
+## Google Play
+
+android.clients.google.com
+
+## Google Keep
+## The Google Keep Chrome App requires these domains to be whitelisted in order to sync.
+
+reminders-pa.googleapis.com
+firestore.googleapis.com
+
+## Gmail (Google Mail)
+## iOS app requires this to be whitelisted for the app to connect.
+
+googleapis.l.google.com
+
+## Google Chrome (to update on ubuntu)
+
+dl.google.com
+
+## Microsoft (Windows, Office, Skype, etc)
+## Windows uses this to verify connectivity to Internet
+
+www.msftncsi.com
+
+## Microsoft Web Pages (Outlook, Office365, Live, Microsoft.com, etc)
+
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+
+## Backup bitlocker recovery key to Microsoft account
+
+g.live.com
+
+## Microsoft Store (Windows Store)
+
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+
+## Windows 10 Update
+
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+
+## Xbox Live
+## This domain is used for sign-ins, creating new accounts, and recovering existing Microsoft accounts on your (confirmed by Microsoft)
+
+clientconfig.passport.net
+
+## These domains are used for Xbox Live Achievements (confirmed by Microsoft)
+
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+## Used for Xbox Live Messaging
+
+client-s.gateway.messenger.live.com
+
+## There are several domains discovered initially on Reddit and /r/xboxone, which were also confirmed by Microsoft as being required by Xbox Live for full functionality.
+
+xbox.ipv6.microsoft.com
+device.auth.xboxlive.com
+www.msftncsi.com
+title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+title.auth.xboxlive.com
+ctldl.windowsupdate.com
+attestation.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+cert.mgt.xboxlive.com
+xkms.xboxlive.com
+def-vef.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+
+## Skype
+## See the GitHub Topic on these domains.
+
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+sa.symcb.com
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
+
+## Microsoft Office
+## Reddit link - r/pihole - MS Office issues 420
+
+officeclient.microsoft.com
+
+## Jackbox.tv
+## Jackbox.tv 1.1k will not load unless you whitelist google-analytics
+
+www.google-analytics.com
+ssl.google-analytics.com
+
+## Spotify
+## The Spotify app for iOS will stop functioning unless it's web service counterpart is whitelisted.
+
+spclient.wg.spotify.com
+apresolve.spotify.com
+
+## Target's Weekly Ads
+
+# weeklyad.target.com
+# m.weeklyad.target.com
+# weeklyad.target.com.edgesuite.net
+
+## Facebook, Facebook Messenger
+
+upload.facebook.com
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+scontent-lhr3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+graph.facebook.com
+b-graph.facebook.com
+connect.facebook.com
+cdn.fbsbx.com
+api.facebook.com
+edge-mqtt.facebook.com
+mqtt.c10r.facebook.com
+portal.fb.com
+star.c10r.facebook.com
+star-mini.c10r.facebook.com
+b-api.facebook.com
+fb.me bigzipfiles.facebook.com
+l.facebook.com
+
+## DirectTV
+## Sourced from here 271.
+
+directvnow.com
+directvapplications.hb.omtrdc.net
+s.zkcdn.net
+js.maxmind.com
+
+## Bild DE
+
+www.asadcdn.com
+code.bildstatic.de
+de.ioam.de
+json.bild.de
+script.ioam.de
+tags.tiqcdn.com
+
+## Plex Domains
+
+plex.tv
+tvdb2.plex.tv
+pubsub.plex.bz
+proxy.plex.bz
+proxy02.pop.ord.plex.bz
+cpms.spop10.ams.plex.bz
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+tvthemes.plexapp.com.cdn.cloudflare.net
+tvthemes.plexapp.com
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+meta.plex.tv
+cpms35.spop10.ams.plex.bz
+proxy.plex.tv
+metrics.plex.tv
+pubsub.plex.tv
+status.plex.tv
+www.plex.tv
+node.plexapp.com
+nine.plugins.plexapp.com
+staging.plex.tv
+app.plex.tv
+o1.email.plex.tv
+o2.sg0.plex.tv
+dashboard.plex.tv
+
+## Domains used by Plex
+
+gravatar.com
+thetvdb.com
+themoviedb.com
+
+## Sonarr
+
+services.sonarr.tv
+skyhook.sonarr.tv
+download.sonarr.tv
+apt.sonarr.tv
+forums.sonarr.tv
+
+## Placehold.it
+## Image placeholders often used during web design. Not sure why this is even blocked in the first place.
+
+placehold.it
+placeholdit.imgix.net
+
+## Dropbox
+## As described here 1.0k:
+
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
+## Fox News
+## as described here 532.
+
+widget-cdn.rpxnow.com
+
+## Images on Marketwatch.com 246
+
+s.marketwatch.com
+
+## Apple Music
+
+itunes.apple.com
+s.mzstatic.com
+
+## GoDaddy webmail buttons
+
+imagesak.secureserver.net
+
+## Apple ID
+
+appleid.apple.com
+
+## SnapChat
+## Does anyone have a source on this? I am blocking the first two and the Android app seems to work just fine.
+
+app-analytics.snapchat.com
+sc-analytics.appspot.com
+cf-st.sc-cdn.net
+
+## WatchESPN
+## as described here.
+
+fpdownload.adobe.com
+entitlement.auth.adobe.com
+livepassdl.conviva.com
+
+## NVIDIA GeForce Experience
+## GFE requires this to download driver updates (or events.gfe.nvidia.com, but that is also used for telemetry).
+
+gfwsl.geforce.com
+
+## Videos not playing in times.com and nydailynews.com.
+
+delivery.vidible.tv
+img.vidible.tv
+videos.vidible.tv
+edge.api.brightcove.com
+cdn.vidible.tv
+
+## Bing Maps Platform
+## as described here.
+
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+
+## Google Play Android updates
+
+android.clients.google.com
+
+## Moto phones OS updates
+
+appspot-preview.l.google.com
+
+## Captive-portal tests
+## These domains are checked by the operating systems when connecting via wifi, and if they don't get the response they expect, they may try to open a wifi login page or similar as they believe they are located behind a captive portal.
+
+## Android/Chrome
+
+connectivitycheck.android.com
+android.clients.google.com
+clients3.google.com
+connectivitycheck.gstatic.com
+
+## Windows/Microsoft
+
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
+
+## iOS/Apple
+## (note that this does not cover all domains used older iOS versions)
+
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+
+## Grand Theft Auto V Online PC
+## Since March blocking Rockstar telemetry seems to crash GTAOnline.
+## Unblocking the domain fixed crashing for people at GTA Forums 86.
+
+prod.telemetry.ros.rockstargames.com
+
+## Amazon Web Services
+
+s3.amazonaws.com
+
+## Google Content
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+
+## Link Shortners
+
+www.bit.ly
+bit.ly
+ow.ly
+tinyurl.com
+j.mp
+goo.gl
+
+## Microsoft Connectivity Checker
+
+msftncsi.com
+www.msftncsi.com
+
+## Chevrolet
+## Couldn't browse inventory w/o whitelisting
+
+chevrolet.com
+
+## Epic Games Store
+## The tracking domain is required to make a purchase on the website, otherwise the order modal will appear to be loading forever.
+## It is also required when logging into the Epic Launcher when using two-factor authentication.
+
+tracking.epicgames.com
+
+## Red Hat Online Learning (subscription required)
+## embedded video player
+## When blocked, video would play; however, not show progress (continually showing it was loading) and thus not record your progression through the video in the course progress tracker.
+
+79423.analytics.edgekey.net
+
+## Lowe's Checkout
+## Clicking "Start Secure Checkout" from the Shopping Cart on Lowe's website does not load anything.
+
+# assets.adobedtm.com
+
+## Home Depot Checkout
+## Clicking "Checkout" from the Shopping Cart on Home Depot's website takes you to a page to check out as guest, login, or create account. Entering login credentials does not ungray the "Sign In" option. "Checkout as a Guest" and "Create an Account" options do not load anything.
+
+# nexus.ensighten.com
+
+## Mozilla Firefox Tracking Protection
+## Firefox updates the black- and whitelists for Tracking Protection daily using a domain that might not only occur on some Blocklists, but also can be blocked as the result of regex blacklists for starting with "tracking". The domain should be whitelisted to ensure the Tracking Protection can be updated (when used at all), or it might render some websites useless on the Firefox Webbrowser in the long run.
+
+tracking-protection.cdn.mozilla.net
+
+
+
+googleadservices.com
+www.googleadservices.com
+analytics.google.com
+s3.amazonaws.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+www.bit.ly
+bit.ly
+ow.ly
+j.mp
+goo.gl
+msftncsi.com
+www.msftncsi.com
+ea.com
+cdn.optimizely.com
+res.cloudinary.com
+gravatar.com
+rover.ebay.com
+imgs.xkcd.com
+netflix.com
+alluremedia.com.au
+tomshardware.com
+s.shopify.com
+keystone.mwbsys.com
+dl.dropbox.com
+api.ipify.org
+rapidvideo.com

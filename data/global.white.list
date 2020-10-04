@@ -1,14 +1,12 @@
+0.0.0.0
+local
 localhost
 localhost.localdomain
-local
 broadcasthost
-localhost
 ip6-localhost
 ip6-loopback
-localhost
 ip6-localnet
 ip6-mcastprefix
 ip6-allnodes
 ip6-allrouters
 ip6-allhosts
-0.0.0.0

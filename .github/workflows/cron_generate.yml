@@ -11,25 +11,36 @@ jobs:
       - name: Checkout master branch
         uses: actions/checkout@v2
         with:
-          ref: 'master'
-          path: 'master'
+          ref: master
+          path: master
 
       - name: Checkout lists branch
         uses: actions/checkout@v2
         with:
-          ref: 'lists'
-          path: 'lists'
+          ref: lists
+          path: lists
 
-      - name: Generate new lists
+      - name: Generate lists
         run: |
           cd ${GITHUB_WORKSPACE}/master/
-          chmod +x ./generate.sh
-          ./generate.sh
+          chmod +x ./generate-lists.sh
+          ./generate-lists.sh
+
+      - name: Generate lists.json
+        run: |
+          cd ${GITHUB_WORKSPACE}/master/
+          chmod +x ./generate-json.sh
+          ./generate-json.sh
+
+      - name: Generate README.md
+        run: |
+          cd ${GITHUB_WORKSPACE}/master/
+          chmod +x ./generate-readme.sh
+          ./generate-readme.sh
 
       - name: Update lists branch
         run: |
-          cd ${GITHUB_WORKSPACE}/
-          rsync -vrth --delete --exclude ".git*" ./master/lists/ ./lists/
+          rsync -vrth --delete --exclude ".git*" ${GITHUB_WORKSPACE}/master/lists/ ${GITHUB_WORKSPACE}/lists/
 
       - name: Push changes to GitHub
         run: |

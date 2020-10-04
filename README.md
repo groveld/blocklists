@@ -1,4 +1,6 @@
-### EdgeRouter Update Script
+# blocklists
+
+## EdgeRouter Update Script
 
 ```sh
 #!/bin/vbash
