@@ -4,12 +4,12 @@
 
 printf "# blocklists\n\n" > ./lists/README.md
 
-printf "# Syntax\n\n" >> ./lists/README.md
+printf "## Syntax\n\n" >> ./lists/README.md
 
-printf "**adblocker.txt**\n" >> ./lists/README.md
-printf "**dnsmasq.txt**\n" >> ./lists/README.md
-printf "**domains.txt**\n" >> ./lists/README.md
-printf "**hosts.txt**\n" >> ./lists/README.md
+printf "**adblocker.txt**\n\n" >> ./lists/README.md
+printf "**dnsmasq.txt**\n\n" >> ./lists/README.md
+printf "**domains.txt**\n\n" >> ./lists/README.md
+printf "**hosts.txt**\n\n" >> ./lists/README.md
 printf "**pac.txt**\n\n" >> ./lists/README.md
 
 printf "## Lists\n" >> ./lists/README.md
