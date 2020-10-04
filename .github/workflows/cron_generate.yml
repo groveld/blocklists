@@ -1,6 +1,9 @@
 name: Generate new lists
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron:  '0 0 * * *'
 
