@@ -1,6 +1,6 @@
 https://winhelp2002.mvps.org/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
