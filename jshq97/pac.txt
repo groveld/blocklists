@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/pac.txt
-// Entries: 146254
-// Updated: 2020-11-26 22:14:03 UTC
+// Entries: 146250
+// Updated: 2020-11-27 00:34:42 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -62701,7 +62701,6 @@ var BLOCKLIST = {
 "lepodownload.mediatek.com":null,
 "lepq.club":null,
 "leprixspecial.fr":null,
-"leqeraya.com":null,
 "lerarabidinc.ru":null,
 "lereforeightc.site":null,
 "lereveresidence.com.br":null,
@@ -77169,7 +77168,6 @@ var BLOCKLIST = {
 "oughwa.com":null,
 "ouh3igaeb.com":null,
 "ouhegapy.net":null,
-"ouideno.com":null,
 "oujouniw.com":null,
 "oukreesy.net":null,
 "oukrocky.com":null,
@@ -127636,7 +127634,6 @@ var BLOCKLIST = {
 "www.leorecrea.com":null,
 "www.leoyard.com":null,
 "www.leprixspecial.fr":null,
-"www.leqeraya.com":null,
 "www.lericettedifrancy74.com":null,
 "www.les-jardins-de-bali.com":null,
 "www.lesantivirus.net":null,
@@ -132166,7 +132163,6 @@ var BLOCKLIST = {
 "www.oughaoxixcfe.com":null,
 "www.oughtbuilding.com":null,
 "www.oughwa.com":null,
-"www.ouideno.com":null,
 "www.oujlnbyavjhy.com":null,
 "www.oukruque.com":null,
 "www.oultuwee.net":null,
