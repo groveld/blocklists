@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 114358
-# Updated: 2021-01-13 01:10:13 UTC
+# Entries: 114354
+# Updated: 2021-01-14 01:18:39 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -15046,6 +15046,7 @@
 0.0.0.0 albumgirl.com
 0.0.0.0 alcaido.com
 0.0.0.0 alcanceadnetwork.com
+0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 alchemy-staging.conversantmedia.com
 0.0.0.0 alchemy.andbeyond.media
 0.0.0.0 alchemy.breaktime.com.tw
@@ -31941,6 +31942,7 @@
 0.0.0.0 deoi3kwqhv0d5.cloudfront.net
 0.0.0.0 deostr.com
 0.0.0.0 deparabides.club
+0.0.0.0 departmentunsuccessful.com
 0.0.0.0 dephantomz.duckdns.org
 0.0.0.0 depictlicencegrandmother.com
 0.0.0.0 depicturalki.club
@@ -49502,6 +49504,7 @@
 0.0.0.0 liveupdate.feednowforbrandnewcontestdistributor.win
 0.0.0.0 livewell.net
 0.0.0.0 livewidget.net
+0.0.0.0 livezombymil.com
 0.0.0.0 liviaoptions.com
 0.0.0.0 living2winning.com
 0.0.0.0 livingnet.adtech.de
@@ -60156,6 +60159,7 @@
 0.0.0.0 partner-ts.groupon.net
 0.0.0.0 partner-ts.groupon.nl
 0.0.0.0 partner-ts.groupon.pl
+0.0.0.0 partner-versicherung.de
 0.0.0.0 partner.ads.placeiq.com
 0.0.0.0 partner.ah-ha.com
 0.0.0.0 partner.alerts.aol.com
@@ -81610,7 +81614,6 @@
 0.0.0.0 w.ladicdn.com
 0.0.0.0 w.m.taobao.com
 0.0.0.0 w.oix.net
-0.0.0.0 w.online-verlag-freiburg.de
 0.0.0.0 w.p.mybuys.com
 0.0.0.0 w.prize44.com
 0.0.0.0 w.sharethis.com
@@ -86030,7 +86033,6 @@
 0.0.0.0 www.ads234.com
 0.0.0.0 www.ads24h.net
 0.0.0.0 www.ads280dummy.com
-0.0.0.0 www.ads280dummy2.com
 0.0.0.0 www.ads2live.com
 0.0.0.0 www.ads2srv.com
 0.0.0.0 www.ads345.com
@@ -91469,6 +91471,7 @@
 0.0.0.0 www.dentystarzeszow.com.pl
 0.0.0.0 www.deobp.com
 0.0.0.0 www.deoi3kwqhv0d5.cloudfront.net
+0.0.0.0 www.departmentunsuccessful.com
 0.0.0.0 www.dephantomz.duckdns.org
 0.0.0.0 www.depictlicencegrandmother.com
 0.0.0.0 www.deployads.com
@@ -95113,11 +95116,9 @@
 0.0.0.0 www.gov-24.com
 0.0.0.0 www.gov-warszawa.pl
 0.0.0.0 www.govazd.am
-0.0.0.0 www.govbeijing.cn
 0.0.0.0 www.govbusi.info
 0.0.0.0 www.governmentpoultry.com
 0.0.0.0 www.govgift.com
-0.0.0.0 www.govjiangsu.cn
 0.0.0.0 www.govnogames.com
 0.0.0.0 www.govrefund-uk.com
 0.0.0.0 www.gowin01.com
@@ -98093,8 +98094,6 @@
 0.0.0.0 www.kyad88.com
 0.0.0.0 www.kymirasite.pro
 0.0.0.0 www.kyouad.com
-0.0.0.0 www.kypersab36.top
-0.0.0.0 www.kypersai26.top
 0.0.0.0 www.kypersak06.top
 0.0.0.0 www.kypersan16.top
 0.0.0.0 www.kyreyweczxj.com
@@ -98664,6 +98663,7 @@
 0.0.0.0 www.livewebstats.dk
 0.0.0.0 www.livewell.net
 0.0.0.0 www.livewidget.net
+0.0.0.0 www.livezombymil.com
 0.0.0.0 www.liviaoptions.com
 0.0.0.0 www.living2winning.com
 0.0.0.0 www.livingy.com
@@ -101939,7 +101939,6 @@
 0.0.0.0 www.omclick.com
 0.0.0.0 www.omega.az
 0.0.0.0 www.omega.best
-0.0.0.0 www.omescortcargo.com
 0.0.0.0 www.omgpm.com
 0.0.0.0 www.omilen.cl
 0.0.0.0 www.omitbailey.com
@@ -102605,6 +102604,7 @@
 0.0.0.0 www.partiesrelyfoliage.com
 0.0.0.0 www.partitiondetergenttumor.com
 0.0.0.0 www.partner-ads.com
+0.0.0.0 www.partner-versicherung.de
 0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.partneralior.pl
 0.0.0.0 www.partnercash.de
@@ -105068,8 +105068,6 @@
 0.0.0.0 www.rhythmnewmedia.com
 0.0.0.0 www.riahungardedig.info
 0.0.0.0 www.ribcagebags.com
-0.0.0.0 www.ric1.ru
-0.0.0.0 www.ric2.ru
 0.0.0.0 www.riccardochinnici.it
 0.0.0.0 www.ricead.com
 0.0.0.0 www.richardkellogg.com
@@ -106112,7 +106110,6 @@
 0.0.0.0 www.shrimpsqueezed.com
 0.0.0.0 www.shrinkearn.com
 0.0.0.0 www.shrugartisticelder.com
-0.0.0.0 www.shsnjj.top
 0.0.0.0 www.shuangshiyihightgo.top
 0.0.0.0 www.shucaihangjia.com
 0.0.0.0 www.shuffele.com
@@ -112291,7 +112288,6 @@
 0.0.0.0 x.mochiads.com
 0.0.0.0 x.o-s.io
 0.0.0.0 x.skimresources.com
-0.0.0.0 x.technic3d.biz
 0.0.0.0 x.walla.co.il
 0.0.0.0 x.zeroredirect.com
 0.0.0.0 x0.nl
