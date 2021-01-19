@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 114437
-# Updated: 2021-01-18 01:15:04 UTC
+# Entries: 114454
+# Updated: 2021-01-19 01:17:21 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -825,6 +825,7 @@
 0.0.0.0 199002.engine.mobileapptracking.com
 0.0.0.0 199109.engine.mobileapptracking.com
 0.0.0.0 1999019.com
+0.0.0.0 199zw.com
 0.0.0.0 19a782bc982.com
 0.0.0.0 19b45a16170729.com
 0.0.0.0 19beda38dc2ce42.com
@@ -26258,6 +26259,7 @@
 0.0.0.0 chatbotthoitrang.novaonx.com
 0.0.0.0 chatbottudong.novaonx.com
 0.0.0.0 chatbox.urekamedia.com
+0.0.0.0 chatintegrationastonishing.com
 0.0.0.0 chatloveonline.com
 0.0.0.0 chaufoox.net
 0.0.0.0 chauksoa.net
@@ -29524,6 +29526,7 @@
 0.0.0.0 crimentasaju.site
 0.0.0.0 crimg.sv.publicus.com
 0.0.0.0 criminglynuk.pro
+0.0.0.0 crisistuesdayartillery.com
 0.0.0.0 crispads.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 crispmedia.com
@@ -31723,6 +31726,7 @@
 0.0.0.0 delightfulold.com
 0.0.0.0 delights.store
 0.0.0.0 deligrassdull.com
+0.0.0.0 deline-sunction.com
 0.0.0.0 deliv.lexpress.fr
 0.0.0.0 deliver-post.com
 0.0.0.0 deliver.ads2.iid.jp
@@ -36697,6 +36701,7 @@
 0.0.0.0 f35c5dba3b0b5b017.com
 0.0.0.0 f35ec1cf813.com
 0.0.0.0 f3a2dc11dfb33.com
+0.0.0.0 f3rs4np1c5.site
 0.0.0.0 f4.p0y.com
 0.0.0.0 f40f89d54b8.com
 0.0.0.0 f45ff72fec5426ae.com
@@ -43170,6 +43175,7 @@
 0.0.0.0 huirnbrfj.com
 0.0.0.0 huis.istats.nl
 0.0.0.0 huisvrouwen.be
+0.0.0.0 huitiankuaiji.com
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 huixingcheng.cn
 0.0.0.0 huiyutz.cn
@@ -50329,6 +50335,7 @@
 0.0.0.0 lprshcsmijfovp.com
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 lq.booktxt.net
+0.0.0.0 lq0s3c.cn
 0.0.0.0 lqcdn.com
 0.0.0.0 lqhto.com
 0.0.0.0 lqpkjasgqjve.com
@@ -60748,6 +60755,7 @@
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 pei-ads.thesmokingjacket.com
 0.0.0.0 peiceline.com
+0.0.0.0 peiliao-china.com
 0.0.0.0 peipey.net
 0.0.0.0 pejqoq4cafo3bg9yqqqtk5e6s6.com
 0.0.0.0 pekaao.cam
@@ -73484,6 +73492,7 @@
 0.0.0.0 stats.nascar.com
 0.0.0.0 stats.netsolads.com
 0.0.0.0 stats.nextcloud.com
+0.0.0.0 stats.nextgen-email.com
 0.0.0.0 stats.nowpublic.com
 0.0.0.0 stats.nutritiondata.com
 0.0.0.0 stats.nymag.com
@@ -83367,6 +83376,7 @@
 0.0.0.0 wp-stat.s3.amazonasw.com
 0.0.0.0 wp-static.publift.com
 0.0.0.0 wp-stats.com
+0.0.0.0 wp.24smi.org
 0.0.0.0 wp.6645478.top
 0.0.0.0 wp.alcmpn.com
 0.0.0.0 wp.hit.gemius.pl
@@ -83973,6 +83983,7 @@
 0.0.0.0 www.1933611911.findprofile.net.pl
 0.0.0.0 www.198-58-119-23.cprapid.com
 0.0.0.0 www.1999019.com
+0.0.0.0 www.199zw.com
 0.0.0.0 www.19b45a16170729.com
 0.0.0.0 www.19beda38dc2ce42.com
 0.0.0.0 www.19bk5lo5q2.com
@@ -89765,6 +89776,7 @@
 0.0.0.0 www.chat.adspaces.ero-advertising.com
 0.0.0.0 www.chat.ero-advertising.com
 0.0.0.0 www.chatasalino.com.pl
+0.0.0.0 www.chatintegrationastonishing.com
 0.0.0.0 www.chaufoox.net
 0.0.0.0 www.chauksoa.net
 0.0.0.0 www.chaxinyong.net
@@ -90253,7 +90265,6 @@
 0.0.0.0 www.cnliken.com
 0.0.0.0 www.cnn.cm
 0.0.0.0 www.cnnnew.com
-0.0.0.0 www.cnnywz.cn
 0.0.0.0 www.cnomy.com
 0.0.0.0 www.cnpinzhuo.com
 0.0.0.0 www.cnscdj.com
@@ -90793,6 +90804,7 @@
 0.0.0.0 www.credulityseashoreemployed.com
 0.0.0.0 www.credy.pl
 0.0.0.0 www.crewita.co
+0.0.0.0 www.crisistuesdayartillery.com
 0.0.0.0 www.crispads.com
 0.0.0.0 www.crispadvertising.com
 0.0.0.0 www.crispmedia.com
@@ -90831,7 +90843,6 @@
 0.0.0.0 www.crypto-genius.privatecatalog.pro
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.cryptoads.space
-0.0.0.0 www.cryptobubble.store
 0.0.0.0 www.cryptocoinsad.com
 0.0.0.0 www.cryptolegacypro.com
 0.0.0.0 www.cryptolimited.net
@@ -91455,6 +91466,7 @@
 0.0.0.0 www.delibrium.pl
 0.0.0.0 www.delightfulold.com
 0.0.0.0 www.delights.store
+0.0.0.0 www.deline-sunction.com
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.delivery-olx-pl.info
 0.0.0.0 www.delivery-olx.ml
@@ -93219,6 +93231,7 @@
 0.0.0.0 www.f2lk93ibe1.buzz
 0.0.0.0 www.f35c5dba3b0b5b017.com
 0.0.0.0 www.f3a2dc11dfb33.com
+0.0.0.0 www.f3rs4np1c5.site
 0.0.0.0 www.f45ff72fec5426ae.com
 0.0.0.0 www.f4906b7c15ba.com
 0.0.0.0 www.f4u.pl
@@ -96119,6 +96132,7 @@
 0.0.0.0 www.huimee.net
 0.0.0.0 www.huirnbrfj.com
 0.0.0.0 www.huisvrouwen.be
+0.0.0.0 www.huitiankuaiji.com
 0.0.0.0 www.huixingcheng.cn
 0.0.0.0 www.huiyutz.cn
 0.0.0.0 www.hukbo.com
@@ -98935,6 +98949,7 @@
 0.0.0.0 www.lpmxp2026.com
 0.0.0.0 www.lpmxp2027.com
 0.0.0.0 www.lprshcsmijfovp.com
+0.0.0.0 www.lq0s3c.cn
 0.0.0.0 www.lqhto.com
 0.0.0.0 www.lqpkjasgqjve.com
 0.0.0.0 www.lqw.me
@@ -102355,7 +102370,6 @@
 0.0.0.0 www.oudtshoornpharmacies.co.za
 0.0.0.0 www.oughgoalityabo.info
 0.0.0.0 www.oughtbuilding.com
-0.0.0.0 www.ouhwjdv.cn
 0.0.0.0 www.oukruque.com
 0.0.0.0 www.oultuwee.net
 0.0.0.0 www.oumazg.com
@@ -102860,6 +102874,7 @@
 0.0.0.0 www.pegasuswebco.com
 0.0.0.0 www.pehchaanlivefoundation.org
 0.0.0.0 www.peiceline.com
+0.0.0.0 www.peiliao-china.com
 0.0.0.0 www.peipey.net
 0.0.0.0 www.pejqoq4cafo3bg9yqqqtk5e6s6.com
 0.0.0.0 www.pekaao.cam
@@ -111036,6 +111051,7 @@
 0.0.0.0 www.yaia.com
 0.0.0.0 www.yalongrope.cn
 0.0.0.0 www.yamaidei.cn
+0.0.0.0 www.yangtzeev.com
 0.0.0.0 www.yangzhenpeng.top
 0.0.0.0 www.yanjunbo.com
 0.0.0.0 www.yantairuide.com
@@ -113052,6 +113068,7 @@
 0.0.0.0 yandex-account-security.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yang.hitbox.com
+0.0.0.0 yangtzeev.com
 0.0.0.0 yangzhenpeng.top
 0.0.0.0 yanjunbo.com
 0.0.0.0 yankszapfop.com
