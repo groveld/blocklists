@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/pac.txt
-// Entries: 115144
-// Updated: 2021-01-22 01:17:03 UTC
+// Entries: 115131
+// Updated: 2021-01-23 01:16:56 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -28720,7 +28720,6 @@ var BLOCKLIST = {
 "convertro.com":null,
 "convertwordtoexcel.com":null,
 "convhkmp.taboola.com":null,
-"convictionfitness.webdmcsolutions.com":null,
 "convlatbmp.taboola.com":null,
 "convnjmp.basebanner.com":null,
 "convnjmp.taboola.com":null,
@@ -88562,7 +88561,6 @@ var BLOCKLIST = {
 "www.bajieyy.cc":null,
 "www.bajkowedekoracje.pl":null,
 "www.bajkowestokrotki.cba.pl":null,
-"www.balanceathlete.com":null,
 "www.balancedingrent.com":null,
 "www.balaton-trzebinia.pl":null,
 "www.baldehydesupe.info":null,
@@ -90307,7 +90305,6 @@ var BLOCKLIST = {
 "www.chenghangtech.com":null,
 "www.chengsolution.com":null,
 "www.chengzilte.top":null,
-"www.chenqiaorong007.com":null,
 "www.chenyanjiao.cn":null,
 "www.cherriesobituary.com":null,
 "www.chestnut-hill-farm.com":null,
@@ -94080,7 +94077,6 @@ var BLOCKLIST = {
 "www.feedjit.com":null,
 "www.feedstermedia.com":null,
 "www.feegozoa.com":null,
-"www.feelingfit-always.com":null,
 "www.feelinginspectorathlete.com":null,
 "www.feelingsreekpleasantly.com":null,
 "www.feernews.biz":null,
@@ -99098,9 +99094,6 @@ var BLOCKLIST = {
 "www.lindnerelektroanlagen.de":null,
 "www.lindtkurier.org":null,
 "www.lineavabit.it":null,
-"www.linestats.bar":null,
-"www.linestats.casa":null,
-"www.linestats.cyou":null,
 "www.lingeriebarren.com":null,
 "www.linicom.co.il":null,
 "www.linicom.co.uk":null,
@@ -101833,7 +101826,6 @@ var BLOCKLIST = {
 "www.ntzfly.cn":null,
 "www.nu26.com":null,
 "www.nu7.pl":null,
-"www.nuanyanghb.com":null,
 "www.nubijlage.nl":null,
 "www.nuclearads.com":null,
 "www.nuclearpurposely.com":null,
@@ -103561,7 +103553,6 @@ var BLOCKLIST = {
 "www.peyeros.net":null,
 "www.peyeye.net":null,
 "www.peyfey24.net":null,
-"www.peyk.online":null,
 "www.peylop.net":null,
 "www.peyopey.net":null,
 "www.peyou24.net":null,
@@ -107153,7 +107144,6 @@ var BLOCKLIST = {
 "www.smrtgs.com":null,
 "www.sms-z-internetu.pl":null,
 "www.sms-za-darmo.pl":null,
-"www.smsh.care":null,
 "www.smsiak.pl":null,
 "www.smsiaki.eu":null,
 "www.smsmovies.net":null,
@@ -107672,8 +107662,6 @@ var BLOCKLIST = {
 "www.statsforads.com":null,
 "www.statsforever.com":null,
 "www.statsie.com":null,
-"www.statsline.bar":null,
-"www.statsline.cyou":null,
 "www.statsmachine.com":null,
 "www.statsmobi.com":null,
 "www.statsrc.cool":null,
@@ -112646,7 +112634,6 @@ var BLOCKLIST = {
 "www2.kliks.nl":null,
 "www2.leadingedgecash.com":null,
 "www2.liveads.jp":null,
-"www2.lotesbrisamar.es":null,
 "www2.mainstreamdollars.com":null,
 "www2.mousestats.com":null,
 "www2.multipops.com":null,

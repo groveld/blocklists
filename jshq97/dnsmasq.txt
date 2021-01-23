@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/dnsmasq.txt
-# Entries: 115146
-# Updated: 2021-01-22 01:16:58 UTC
+# Entries: 115133
+# Updated: 2021-01-23 01:16:51 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -28719,7 +28719,6 @@ address=/convertiser.com/0.0.0.0
 address=/convertro.com/0.0.0.0
 address=/convertwordtoexcel.com/0.0.0.0
 address=/convhkmp.taboola.com/0.0.0.0
-address=/convictionfitness.webdmcsolutions.com/0.0.0.0
 address=/convlatbmp.taboola.com/0.0.0.0
 address=/convnjmp.basebanner.com/0.0.0.0
 address=/convnjmp.taboola.com/0.0.0.0
@@ -88562,7 +88561,6 @@ address=/www.baitaoidc.com/0.0.0.0
 address=/www.bajieyy.cc/0.0.0.0
 address=/www.bajkowedekoracje.pl/0.0.0.0
 address=/www.bajkowestokrotki.cba.pl/0.0.0.0
-address=/www.balanceathlete.com/0.0.0.0
 address=/www.balancedingrent.com/0.0.0.0
 address=/www.balaton-trzebinia.pl/0.0.0.0
 address=/www.baldehydesupe.info/0.0.0.0
@@ -90307,7 +90305,6 @@ address=/www.chengdahdf.cn/0.0.0.0
 address=/www.chenghangtech.com/0.0.0.0
 address=/www.chengsolution.com/0.0.0.0
 address=/www.chengzilte.top/0.0.0.0
-address=/www.chenqiaorong007.com/0.0.0.0
 address=/www.chenyanjiao.cn/0.0.0.0
 address=/www.cherriesobituary.com/0.0.0.0
 address=/www.chestnut-hill-farm.com/0.0.0.0
@@ -94080,7 +94077,6 @@ address=/www.feedgist.com/0.0.0.0
 address=/www.feedjit.com/0.0.0.0
 address=/www.feedstermedia.com/0.0.0.0
 address=/www.feegozoa.com/0.0.0.0
-address=/www.feelingfit-always.com/0.0.0.0
 address=/www.feelinginspectorathlete.com/0.0.0.0
 address=/www.feelingsreekpleasantly.com/0.0.0.0
 address=/www.feernews.biz/0.0.0.0
@@ -99099,9 +99095,6 @@ address=/www.lindenlaugh.pro/0.0.0.0
 address=/www.lindnerelektroanlagen.de/0.0.0.0
 address=/www.lindtkurier.org/0.0.0.0
 address=/www.lineavabit.it/0.0.0.0
-address=/www.linestats.bar/0.0.0.0
-address=/www.linestats.casa/0.0.0.0
-address=/www.linestats.cyou/0.0.0.0
 address=/www.lingeriebarren.com/0.0.0.0
 address=/www.linicom.co.il/0.0.0.0
 address=/www.linicom.co.uk/0.0.0.0
@@ -101834,7 +101827,6 @@ address=/www.ntxiangtai.com/0.0.0.0
 address=/www.ntzfly.cn/0.0.0.0
 address=/www.nu26.com/0.0.0.0
 address=/www.nu7.pl/0.0.0.0
-address=/www.nuanyanghb.com/0.0.0.0
 address=/www.nubijlage.nl/0.0.0.0
 address=/www.nuclearads.com/0.0.0.0
 address=/www.nuclearpurposely.com/0.0.0.0
@@ -103562,7 +103554,6 @@ address=/www.pey24pey.net/0.0.0.0
 address=/www.peyeros.net/0.0.0.0
 address=/www.peyeye.net/0.0.0.0
 address=/www.peyfey24.net/0.0.0.0
-address=/www.peyk.online/0.0.0.0
 address=/www.peylop.net/0.0.0.0
 address=/www.peyopey.net/0.0.0.0
 address=/www.peyou24.net/0.0.0.0
@@ -107154,7 +107145,6 @@ address=/www.smrtbnr.space/0.0.0.0
 address=/www.smrtgs.com/0.0.0.0
 address=/www.sms-z-internetu.pl/0.0.0.0
 address=/www.sms-za-darmo.pl/0.0.0.0
-address=/www.smsh.care/0.0.0.0
 address=/www.smsiak.pl/0.0.0.0
 address=/www.smsiaki.eu/0.0.0.0
 address=/www.smsmovies.net/0.0.0.0
@@ -107673,8 +107663,6 @@ address=/www.statsession.com/0.0.0.0
 address=/www.statsforads.com/0.0.0.0
 address=/www.statsforever.com/0.0.0.0
 address=/www.statsie.com/0.0.0.0
-address=/www.statsline.bar/0.0.0.0
-address=/www.statsline.cyou/0.0.0.0
 address=/www.statsmachine.com/0.0.0.0
 address=/www.statsmobi.com/0.0.0.0
 address=/www.statsrc.cool/0.0.0.0
@@ -112647,7 +112635,6 @@ address=/www2.kiehls.com/0.0.0.0
 address=/www2.kliks.nl/0.0.0.0
 address=/www2.leadingedgecash.com/0.0.0.0
 address=/www2.liveads.jp/0.0.0.0
-address=/www2.lotesbrisamar.es/0.0.0.0
 address=/www2.mainstreamdollars.com/0.0.0.0
 address=/www2.mousestats.com/0.0.0.0
 address=/www2.multipops.com/0.0.0.0
