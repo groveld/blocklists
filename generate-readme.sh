@@ -14,7 +14,7 @@ for folder in ./lists/*/; do
   printf "|-|-|-|-|-|\n" >> ./lists/README.md
 
   for file in ${folder}/*; do
-    filename=$(${file##*/} | cut -d. -f1)
+    filename=$(${file##*/})
     fileurl=$(head -5 ${file} | sed -n 's/^.*File: //p')
     entries=$(head -5 ${file} | sed -n 's/^.*Entries: //p')
     filesize=$(stat -c '%s' ${file} | numfmt --to iec)
