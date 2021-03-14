@@ -15,7 +15,7 @@ for folder in ./lists/*/; do
     entries=$(head -5 ${file} | sed -n 's/^.*Entries: //p')
     filesize=$(stat -c '%s' ${file} | numfmt --to iec)
     filedate=$(head -5 ${file} | sed -n 's/^.*Updated: //p')
-    filehash=$(sha1sum ${file} | cut -d' ' -f1)
+    filehash=$(sha256sum ${file} | head -c 64)
     filejson+=("\"${filename}\":{\"file\":\"${fileurl}\",\"entries\":\"${entries}\",\"size\":\"${filesize}\",\"updated\":\"${filedate}\",\"hash\":\"${filehash}\"}")
   done
 
