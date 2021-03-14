@@ -1,5 +1,6 @@
 # 20180719
 # https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+# merge into mail list
 
 # Google (Maps, Youtube, etc)
 pihole -w clients4.google.com
