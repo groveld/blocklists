@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 123762
-# Updated: 2021-03-15 01:14:47 UTC
+# Entries: 123771
+# Updated: 2021-03-16 00:55:22 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -21331,10 +21331,12 @@
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
 0.0.0.0 beacons.extremereach.io
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.helium.com
 0.0.0.0 beacons.hottraffic.nl
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacons2.extremereach.io
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons6.gvt3.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
@@ -31024,6 +31026,7 @@
 0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 custom.allistracking.com
+0.0.0.0 custom.plausible.io
 0.0.0.0 custom.supersonicads.com
 0.0.0.0 custom.yieldify.com
 0.0.0.0 custom1.hurricanedigitalmedia.com
@@ -35884,6 +35887,7 @@
 0.0.0.0 eddd6b75.api.splkmobile.com
 0.0.0.0 eddy.noneto.com
 0.0.0.0 edestrathergo.club
+0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
 0.0.0.0 edge-west.customer.io
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.analytics.brightedge.com
@@ -41331,6 +41335,7 @@
 0.0.0.0 geo.jetpackdigital.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.nbcsports.com
+0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.offermatica.com
 0.0.0.0 geo.precisionclick.com
 0.0.0.0 geo.qualaroo.com
@@ -46710,6 +46715,7 @@
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.clevertap.com
 0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 in.appcenter.ms
 0.0.0.0 in.brilliant.org
 0.0.0.0 in.bubblestat.com
 0.0.0.0 in.c.appier.net
@@ -56139,6 +56145,7 @@
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobile.djaxadserver.com
 0.0.0.0 mobile.eum-appdynamics.com
+0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.faktor.io
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
@@ -60002,6 +60009,7 @@
 0.0.0.0 o2news.you2.pl
 0.0.0.0 o333o.com
 0.0.0.0 o3sndvzo25.com
+0.0.0.0 o430870.ingest.sentry.io
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o5ikm6.cn
 0.0.0.0 o5team.com
@@ -64402,6 +64410,7 @@
 0.0.0.0 personalcare-offer.com
 0.0.0.0 personalcashbailout.com
 0.0.0.0 personalization-production.us-east-1.elasticbeanstalk.com
+0.0.0.0 personalization.bloomberg.com
 0.0.0.0 personalization.centech.glulive.com
 0.0.0.0 personalization.demandbase.com
 0.0.0.0 personaly.click
@@ -66986,6 +66995,7 @@
 0.0.0.0 prod-ads.aerserv.com
 0.0.0.0 prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
 0.0.0.0 prod-bid.applovin.com
+0.0.0.0 prod-collecticon.outlookmobile.com
 0.0.0.0 prod-customfeeds.flashtalking.com
 0.0.0.0 prod-d.openx.com
 0.0.0.0 prod-dcs-eventlog.decagames.com
@@ -73415,6 +73425,7 @@
 0.0.0.0 self-service-pay.adxxx.com
 0.0.0.0 self-service.adxxx.com
 0.0.0.0 self-service.uberads.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 selfbiological.com
 0.0.0.0 selfcampaign.com
 0.0.0.0 selfevidentpotsfertility.com
@@ -85431,6 +85442,8 @@
 0.0.0.0 video-aws-stg.fyber.com
 0.0.0.0 video-bazis.com
 0.0.0.0 video-converter.gumgum.com
+0.0.0.0 video-dfw5-1.xx.fbcdn.net
+0.0.0.0 video-dfw5-2.xx.fbcdn.net
 0.0.0.0 video-dsa.fyber.com
 0.0.0.0 video-game-rewards-central.com
 0.0.0.0 video-interstitial-assets-cdn.fyber.com
@@ -85967,6 +85980,7 @@
 0.0.0.0 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
 0.0.0.0 voradu.com
 0.0.0.0 voredi.com
+0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vosmas.icu
 0.0.0.0 vospendence.club
 0.0.0.0 vote.admicro.vn
@@ -92448,7 +92462,6 @@
 0.0.0.0 www.appsnack.com
 0.0.0.0 www.appstoore.online
 0.0.0.0 www.appstorepost.com
-0.0.0.0 www.appstreets.com
 0.0.0.0 www.appswiss.ch
 0.0.0.0 www.apptap.com
 0.0.0.0 www.apptera.com
@@ -93545,7 +93558,6 @@
 0.0.0.0 www.betpartners.it
 0.0.0.0 www.betpromo247.com
 0.0.0.0 www.betrayedregretdeadline.com
-0.0.0.0 www.betshucklean.com
 0.0.0.0 www.betsonsport.ru
 0.0.0.0 www.better-hotingmen.com
 0.0.0.0 www.betteradsystem.com
@@ -102170,7 +102182,6 @@
 0.0.0.0 www.hotwords.com
 0.0.0.0 www.hotwords.com.br
 0.0.0.0 www.houchosi.net
-0.0.0.0 www.houfang8.com
 0.0.0.0 www.hourselflosu.site
 0.0.0.0 www.housandady.site
 0.0.0.0 www.housedropdeals.com
@@ -103400,7 +103411,6 @@
 0.0.0.0 www.iqu-operation.com
 0.0.0.0 www.iqyxvcqns.com
 0.0.0.0 www.iqzone.com
-0.0.0.0 www.ir2aok.com
 0.0.0.0 www.irbf.com
 0.0.0.0 www.irdcdrpzs.com
 0.0.0.0 www.iredirr.com
@@ -103540,7 +103550,6 @@
 0.0.0.0 www.izuis.com
 0.0.0.0 www.j1ybkf.cn
 0.0.0.0 www.j4a73n7v5k.com
-0.0.0.0 www.j5sq8.com
 0.0.0.0 www.j6xl1kzht9pk5zw.asanrahvisa.ir
 0.0.0.0 www.j7rzxe098g5m.com
 0.0.0.0 www.j9j6l.top

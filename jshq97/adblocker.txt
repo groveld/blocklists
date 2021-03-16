@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt
-! Entries: 123764
-! Updated: 2021-03-15 01:12:14 UTC
+! Entries: 123773
+! Updated: 2021-03-16 00:55:17 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -21331,10 +21331,12 @@
 ||beacons-wxm0dh1cst4.stackpathdns.com^
 ||beacons.extremereach.io^
 ||beacons.gcp.gvt2.com^
+||beacons.gvt2.com^
 ||beacons.helium.com^
 ||beacons.hottraffic.nl^
 ||beacons.mediamelon.com^
 ||beacons2.extremereach.io^
+||beacons5.gvt3.com^
 ||beacons6.gvt3.com^
 ||beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com^
 ||beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com^
@@ -31024,6 +31026,7 @@
 ||custom-blacklisted-tracking-example.com^
 ||custom-wrs.api.responsys.net^
 ||custom.allistracking.com^
+||custom.plausible.io^
 ||custom.supersonicads.com^
 ||custom.yieldify.com^
 ||custom1.hurricanedigitalmedia.com^
@@ -35884,6 +35887,7 @@
 ||eddd6b75.api.splkmobile.com^
 ||eddy.noneto.com^
 ||edestrathergo.club^
+||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-west.customer.io^
 ||edge.addthis.com^
 ||edge.analytics.brightedge.com^
@@ -41331,6 +41335,7 @@
 ||geo.jetpackdigital.com^
 ||geo.moatads.com^
 ||geo.nbcsports.com^
+||geo.ngtv.io^
 ||geo.offermatica.com^
 ||geo.precisionclick.com^
 ||geo.qualaroo.com^
@@ -46711,6 +46716,7 @@
 ||in.analytics.glance.inmobi.com^
 ||in.api.clevertap.com^
 ||in.api.glance.inmobi.com^
+||in.appcenter.ms^
 ||in.brilliant.org^
 ||in.bubblestat.com^
 ||in.c.appier.net^
@@ -56140,6 +56146,7 @@
 ||mobile.controller.duokanbox.com^
 ||mobile.djaxadserver.com^
 ||mobile.eum-appdynamics.com^
+||mobile.events.data.microsoft.com^
 ||mobile.faktor.io^
 ||mobile.game-insight.com^
 ||mobile.ib.sin1.geoadnxs.com^
@@ -60003,6 +60010,7 @@
 ||o2news.you2.pl^
 ||o333o.com^
 ||o3sndvzo25.com^
+||o430870.ingest.sentry.io^
 ||o4uxrk33.com^
 ||o5ikm6.cn^
 ||o5team.com^
@@ -64403,6 +64411,7 @@
 ||personalcare-offer.com^
 ||personalcashbailout.com^
 ||personalization-production.us-east-1.elasticbeanstalk.com^
+||personalization.bloomberg.com^
 ||personalization.centech.glulive.com^
 ||personalization.demandbase.com^
 ||personaly.click^
@@ -66987,6 +66996,7 @@
 ||prod-ads.aerserv.com^
 ||prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com^
 ||prod-bid.applovin.com^
+||prod-collecticon.outlookmobile.com^
 ||prod-customfeeds.flashtalking.com^
 ||prod-d.openx.com^
 ||prod-dcs-eventlog.decagames.com^
@@ -73416,6 +73426,7 @@
 ||self-service-pay.adxxx.com^
 ||self-service.adxxx.com^
 ||self-service.uberads.com^
+||self.events.data.microsoft.com^
 ||selfbiological.com^
 ||selfcampaign.com^
 ||selfevidentpotsfertility.com^
@@ -85432,6 +85443,8 @@
 ||video-aws-stg.fyber.com^
 ||video-bazis.com^
 ||video-converter.gumgum.com^
+||video-dfw5-1.xx.fbcdn.net^
+||video-dfw5-2.xx.fbcdn.net^
 ||video-dsa.fyber.com^
 ||video-game-rewards-central.com^
 ||video-interstitial-assets-cdn.fyber.com^
@@ -85968,6 +85981,7 @@
 ||vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com^
 ||voradu.com^
 ||voredi.com^
+||vortex.data.microsoft.com^
 ||vosmas.icu^
 ||vospendence.club^
 ||vote.admicro.vn^
@@ -92449,7 +92463,6 @@
 ||www.appsnack.com^
 ||www.appstoore.online^
 ||www.appstorepost.com^
-||www.appstreets.com^
 ||www.appswiss.ch^
 ||www.apptap.com^
 ||www.apptera.com^
@@ -93546,7 +93559,6 @@
 ||www.betpartners.it^
 ||www.betpromo247.com^
 ||www.betrayedregretdeadline.com^
-||www.betshucklean.com^
 ||www.betsonsport.ru^
 ||www.better-hotingmen.com^
 ||www.betteradsystem.com^
@@ -102172,7 +102184,6 @@
 ||www.hotwords.com^
 ||www.hotwords.com.br^
 ||www.houchosi.net^
-||www.houfang8.com^
 ||www.hourselflosu.site^
 ||www.housandady.site^
 ||www.housedropdeals.com^
@@ -103402,7 +103413,6 @@
 ||www.iqu-operation.com^
 ||www.iqyxvcqns.com^
 ||www.iqzone.com^
-||www.ir2aok.com^
 ||www.irbf.com^
 ||www.irdcdrpzs.com^
 ||www.iredirr.com^
@@ -103542,7 +103552,6 @@
 ||www.izuis.com^
 ||www.j1ybkf.cn^
 ||www.j4a73n7v5k.com^
-||www.j5sq8.com^
 ||www.j6xl1kzht9pk5zw.asanrahvisa.ir^
 ||www.j7rzxe098g5m.com^
 ||www.j9j6l.top^
