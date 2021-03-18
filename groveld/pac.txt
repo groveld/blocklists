@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/pac.txt
-// Entries: 123541
-// Updated: 2021-03-17 00:56:45 UTC
+// Entries: 123547
+// Updated: 2021-03-18 00:56:29 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -21173,6 +21173,7 @@ var BLOCKLIST = {
 "beaconads.com":null,
 "beaconhub.iadmob.com":null,
 "beaconin2.notinote.me":null,
+"beacons-handoff.gcp.gvt2.com":null,
 "beacons-wxm0dh1cst4.stackpathdns.com":null,
 "beacons.extremereach.io":null,
 "beacons.gcp.gvt2.com":null,
@@ -21181,7 +21182,12 @@ var BLOCKLIST = {
 "beacons.hottraffic.nl":null,
 "beacons.mediamelon.com":null,
 "beacons2.extremereach.io":null,
+"beacons2.gvt2.com":null,
+"beacons3.gvt2.com":null,
+"beacons4.gvt2.com":null,
+"beacons5.gvt2.com":null,
 "beacons5.gvt3.com":null,
+"beacons6.gvt2.com":null,
 "beacons6.gvt3.com":null,
 "beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com":null,
 "beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com":null,

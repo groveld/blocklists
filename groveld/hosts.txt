@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt
-# Entries: 123541
-# Updated: 2021-03-17 00:56:45 UTC
+# Entries: 123547
+# Updated: 2021-03-18 00:56:29 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -21172,6 +21172,7 @@
 0.0.0.0 beaconads.com
 0.0.0.0 beaconhub.iadmob.com
 0.0.0.0 beaconin2.notinote.me
+0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
 0.0.0.0 beacons.extremereach.io
 0.0.0.0 beacons.gcp.gvt2.com
@@ -21180,7 +21181,12 @@
 0.0.0.0 beacons.hottraffic.nl
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacons2.extremereach.io
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons6.gvt2.com
 0.0.0.0 beacons6.gvt3.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
