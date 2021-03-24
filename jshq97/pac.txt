@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/pac.txt
-// Entries: 123506
-// Updated: 2021-03-23 00:57:08 UTC
+// Entries: 123498
+// Updated: 2021-03-24 00:58:08 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -1690,7 +1690,6 @@ var BLOCKLIST = {
 "2cpa.com":null,
 "2d52156c065481.com":null,
 "2d7bd9e6eb370143.com":null,
-"2d86920f51.com":null,
 "2daytrendingnews.com":null,
 "2dbd87c7a091b.com":null,
 "2df7e.v.fwmrm.net":null,
@@ -15946,7 +15945,6 @@ var BLOCKLIST = {
 "alltereg0.ru":null,
 "allthatdesign.pl":null,
 "alltheinternet.com":null,
-"alltheway.travel":null,
 "alltheweb.ru":null,
 "alltizer.ru":null,
 "alltraff.info":null,
@@ -31791,6 +31789,7 @@ var BLOCKLIST = {
 "daccroi.com":null,
 "daccroit.com":null,
 "dacdn.pushcrew.com":null,
+"dacdn.visualwebsiteoptimizer.com":null,
 "dacedsfa.cn":null,
 "dachadu.cn":null,
 "dachbud.slask.pl":null,
@@ -88343,7 +88342,6 @@ var BLOCKLIST = {
 "www.2c6bcbbb82ce911.com":null,
 "www.2d52156c065481.com":null,
 "www.2d7bd9e6eb370143.com":null,
-"www.2d86920f51.com":null,
 "www.2daytrendingnews.com":null,
 "www.2dpt.com":null,
 "www.2ds.ero-advertising.com":null,
@@ -88900,7 +88898,6 @@ var BLOCKLIST = {
 "www.6eez7ouig7gwguf6.pro":null,
 "www.6f2tjr26.top":null,
 "www.6f363e072e82206b.com":null,
-"www.6f793cc9999.com":null,
 "www.6f7mh6hfro.buzz":null,
 "www.6ftlady.com":null,
 "www.6fxtpu64lxyt.com":null,
@@ -99899,7 +99896,6 @@ var BLOCKLIST = {
 "www.gaietyejection.com":null,
 "www.gaietyswamp.com":null,
 "www.gaindemeanourimprovise.com":null,
-"www.gainme.xyz":null,
 "www.gainmoneyfast.com":null,
 "www.gainoverprotective.com":null,
 "www.gaitdrummerauto.com":null,
@@ -105485,7 +105481,6 @@ var BLOCKLIST = {
 "www.malgraf.pl":null,
 "www.malharpossible.pro":null,
 "www.malharvoice.pro":null,
-"www.malinesmanses.com":null,
 "www.malinkakurier.org":null,
 "www.malkm.com":null,
 "www.mall043.com":null,
@@ -108166,7 +108161,6 @@ var BLOCKLIST = {
 "www.offshoretolerantbenignity.com":null,
 "www.offside2.000webhostapp.com":null,
 "www.oficinadafesta.com":null,
-"www.ofreadingand.biz":null,
 "www.ofsoft.com":null,
 "www.ofy3m0gp.com":null,
 "www.ogarniaj-ludzi.eu":null,
@@ -112766,7 +112760,6 @@ var BLOCKLIST = {
 "www.removearrest.com":null,
 "www.remox.com":null,
 "www.remtoaku.net":null,
-"www.remusclerait.xyz":null,
 "www.rencai56.com":null,
 "www.rendersaveron.com":null,
 "www.renehavis.com.ua":null,
@@ -115920,7 +115913,6 @@ var BLOCKLIST = {
 "www.teenrevenue.com":null,
 "www.teesheel.net":null,
 "www.teespoon.co":null,
-"www.tegiccurlish.fun":null,
 "www.tegoroczne-glosowanko.eu":null,
 "www.tekeffect.com":null,
 "www.tekerstreet10.live":null,
