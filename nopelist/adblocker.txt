@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt
-! Entries: 134231
-! Updated: 2021-04-11 00:24:01 UTC
+! Entries: 134192
+! Updated: 2021-04-12 00:22:59 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -73,7 +73,6 @@
 ||000tristanprod.free.fr^
 ||0024aaaa.com^
 ||003store.com^
-||005.0x1f4b0.com^
 ||005.free-counter.co.uk^
 ||006.free-counter.co.uk^
 ||006.freecounters.co.uk^
@@ -375,7 +374,6 @@
 ||0azx1.com^
 ||0b19222804.com^
 ||0b2qv7.cn^
-||0b5a4ab9a6.com^
 ||0b8cc331813049912.temporary.link^
 ||0b9d84d93f1b.com^
 ||0bc.top^
@@ -432,7 +430,6 @@
 ||0w1rqq69fi0e.com^
 ||0x-project.com^
 ||0x01n2ptpuz3.com^
-||0x1f4b0.com^
 ||0x4fc271.tk^
 ||0xf4a5.tk^
 ||0xf4a54cf56.tk^
@@ -1028,7 +1025,6 @@
 ||1pt.cqcounter.com^
 ||1pzskg.cn^
 ||1q0bjj4d39.top^
-||1q2w3.website^
 ||1q8h.cn^
 ||1qingdao.com^
 ||1r8435gsqldr.com^
@@ -3488,7 +3484,6 @@
 ||9.wwserch43.biz^
 ||900quickcash.com^
 ||9053fe03868ab.com^
-||906cccf2c19.com^
 ||90pictures.com^
 ||90plan.ovh.net^
 ||910weixin.com^
@@ -4799,7 +4794,6 @@
 ||acasys88.cn^
 ||acbick.com^
 ||acbnews.com^
-||acbp0020171456.page.tl^
 ||acbras.com^
 ||acbsearch.com^
 ||acc.adintelligence.net^
@@ -7798,7 +7792,6 @@
 ||adailymovie.com^
 ||adalizer.com^
 ||adalliance.io^
-||adalso.com^
 ||adalyser.com^
 ||adamatic.co^
 ||adament.c0.pl^
@@ -7941,7 +7934,6 @@
 ||adbro.rtbid.me^
 ||adbroker.de^
 ||adbroker.mp.dse.microsoft.com^
-||adbrook.com^
 ||adbsc.flyermobi.com^
 ||adbsdk.flyermobi.com^
 ||adbserver.doceree.com^
@@ -15820,7 +15812,6 @@
 ||alfatraffic.com^
 ||alfik-fik.com^
 ||alfikurier.org^
-||alflying.win^
 ||alfreethought.org^
 ||alfy.com^
 ||algat.intergoles.me^
@@ -16710,7 +16701,6 @@
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
 ||analytics.bleacherreport.com^
-||analytics.blue^
 ||analytics.bluekai.com^
 ||analytics.breakingnews.com^
 ||analytics.brightedge.com^
@@ -17017,7 +17007,6 @@
 ||andbeyond.media^
 ||andekkurier.org^
 ||andersondiamonds.com^
-||andlache.com^
 ||andmlb.kshwtj.com^
 ||andohs.net^
 ||andomedia.com^
@@ -17351,7 +17340,6 @@
 ||any-load.com^
 ||any-log.videe.tv^
 ||any-porn.com^
-||anybest.site^
 ||anycast.adnxs.com^
 ||anycast.api.adsafeprotected.com^
 ||anycast.bapi.adsafeprotected.com^
@@ -19775,7 +19763,6 @@
 ||auth.trafficstars.com^
 ||auth2.cityads.com^
 ||authbe.sec.intl.miui.com^
-||authcaptcha.com^
 ||authedmine.com^
 ||authenticate.localhost.net.daraz.com^
 ||authorization.a.ns.emailvision.net.daraz.com^
@@ -22500,6 +22487,8 @@
 ||bitcoin-trader-app.com^
 ||bitcoin-upappl.com^
 ||bitcoin-wallet.net^
+||bitcoin.growadvertising.com^
+||bitcoinads.growadvertising.com^
 ||bitcoinadvertisers.com^
 ||bitcoinaussiesystemsoft.com^
 ||bitcoinchampion.io^
@@ -39871,7 +39860,6 @@
 ||fb.podpisz-petycje.eu^
 ||fb0c32d2f28c.com^
 ||fb202022.tcp4.me^
-||fb66096fdff.com^
 ||fbads-manager.net^
 ||fbapi.dxsvr.com^
 ||fbapi.sd.duapps.com^
@@ -41396,7 +41384,6 @@
 ||freecnetdownload.com^
 ||freecodecs.us.intellitxt.com^
 ||freecontent.bid^
-||freecontent.date^
 ||freecontent.download^
 ||freecontent.stream^
 ||freecoolgift.com^
@@ -45301,6 +45288,7 @@
 ||grow.bridgepointconsulting.com^
 ||grow.rtk.io^
 ||grow.urbanairship.com^
+||growadvertising.com^
 ||growahead.neosystemscorp.com^
 ||growingio.com^
 ||growlr.adsbynimbus.com^
@@ -65142,7 +65130,6 @@
 ||officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^
 ||officehelptogo.com^
 ||officer.us.intellitxt.com^
-||officesharefile.online^
 ||officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^
 ||offickiekizashi.site^
 ||officultpolicit.pro^
@@ -84848,6 +84835,7 @@
 ||static.googleadsserving.cn^
 ||static.gridsumdissector.com^
 ||static.groupy.co.nz^
+||static.growadvertising.com^
 ||static.hadarone.com^
 ||static.hatid.com^
 ||static.hbplatform.com^
@@ -87578,6 +87566,7 @@
 ||targeting.influencemobile.com^
 ||targeting.nzme.arcpublishing.com^
 ||targeting.unrulymedia.com^
+||targeting.voxus.tv^
 ||targeting.washpost.nile.works^
 ||targetingnow.com^
 ||targetnet.com^
@@ -88766,6 +88755,7 @@
 ||ticker.api.prd.innopage.com^
 ||ticker.conduit.com^
 ||ticket20.tripod.com^
+||ticketaunt.com^
 ||tickets.fyber.com^
 ||tickfoods.tickme.lk^
 ||ticklesign.com^
@@ -97093,7 +97083,6 @@
 ||www.09zyy.com^
 ||www.0a0qetx8et.com^
 ||www.0azx1.com^
-||www.0b5a4ab9a6.com^
 ||www.0b8cc331813049912.temporary.link^
 ||www.0b9d84d93f1b.com^
 ||www.0bc.top^
@@ -97126,7 +97115,6 @@
 ||www.0vsgqxbxk66w.com^
 ||www.0w1rqq69fi0e.com^
 ||www.0x01n2ptpuz3.com^
-||www.0x1f4b0.com^
 ||www.0xi.eu^
 ||www.0xxd.com^
 ||www.1-1ads.com^
@@ -97326,7 +97314,6 @@
 ||www.1priest1nun.com^
 ||www.1priest1nun.net^
 ||www.1pzskg.cn^
-||www.1q2w3.website^
 ||www.1q8h.cn^
 ||www.1qingdao.com^
 ||www.1quickclickrx.com^
@@ -98275,7 +98262,6 @@
 ||www.9-12-3a.fun^
 ||www.9-12-4a.fun^
 ||www.9053fe03868ab.com^
-||www.906cccf2c19.com^
 ||www.910weixin.com^
 ||www.919.allegro-lokalnie.club^
 ||www.91aa46b949d20.com^
@@ -98284,7 +98270,6 @@
 ||www.91jiedai.cn^
 ||www.91jsnzw.xyz^
 ||www.91xry.com^
-||www.91yktong.com^
 ||www.91ysa.com^
 ||www.920sbo17zn88.com^
 ||www.924e60106cd9d0e.com^
@@ -98830,7 +98815,6 @@
 ||www.adagionet.com^
 ||www.adalizer.com^
 ||www.adalliance.io^
-||www.adalso.com^
 ||www.adalyser.com^
 ||www.adamatic.co^
 ||www.adament.c0.pl^
@@ -98884,7 +98868,6 @@
 ||www.adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com^
 ||www.adbrix.io^
 ||www.adbroker.de^
-||www.adbrook.com^
 ||www.adbuddiz.com^
 ||www.adbuff.com^
 ||www.adbuka.com^
@@ -99216,7 +99199,6 @@
 ||www.admin.iesnare.co.uk^
 ||www.admin.iesnare.com^
 ||www.adminder.com^
-||www.adminer.com^
 ||www.adming.net^
 ||www.adminhelpdeskunit.moonfruit.com^
 ||www.adminshop.com^
@@ -99658,7 +99640,6 @@
 ||www.adtear.com^
 ||www.adtecc.com^
 ||www.adtech.com^
-||www.adtech.de^
 ||www.adtechjp.com^
 ||www.adtechus.com^
 ||www.adtegrity.com^
@@ -100073,7 +100054,6 @@
 ||www.afgr8.com^
 ||www.afgr9.com^
 ||www.afi-b.com^
-||www.afilo.pl^
 ||www.afj0.com^
 ||www.afnan-amc.com^
 ||www.afqveoju.com^
@@ -100390,7 +100370,6 @@
 ||www.alfatraffic.com^
 ||www.alfik-fik.com^
 ||www.alfikurier.org^
-||www.alflying.win^
 ||www.alfynetwork.com^
 ||www.alga9frog.com^
 ||www.algerianembassy.co.in^
@@ -100745,7 +100724,6 @@
 ||www.analytics-digit-in.cdn.ampproject.org^
 ||www.analytics.247sports.com^
 ||www.analytics.adspaces.ero-advertising.com^
-||www.analytics.blue^
 ||www.analytics.ero-advertising.com^
 ||www.analytics.icons8.com^
 ||www.analytics.picsart.com^
@@ -100766,7 +100744,6 @@
 ||www.andbeyond.media^
 ||www.andekkurier.org^
 ||www.andersondiamonds.com^
-||www.andlache.com^
 ||www.andohs.net^
 ||www.andomedia.com^
 ||www.andr.net^
@@ -100890,7 +100867,6 @@
 ||www.anuskurier.org^
 ||www.anwan.pl^
 ||www.any-load.com^
-||www.anybest.site^
 ||www.anyclip-media.com^
 ||www.anycracks.com^
 ||www.anymad.com^
@@ -101416,7 +101392,6 @@
 ||www.australianpga.com.au^
 ||www.auteboon.net^
 ||www.authbe.sec.intl.miui.com^
-||www.authcaptcha.com^
 ||www.authorne.info^
 ||www.aution.pro^
 ||www.auto-bannertausch.de^
@@ -102229,7 +102204,6 @@
 ||www.bezprzekazu.pl^
 ||www.bezpytan.pl^
 ||www.bf-online.xaa.pl^
-||www.bf1872dae47d.com^
 ||www.bf3c1229dc6f28b2.com^
 ||www.bfb487de1f2da5c.com^
 ||www.bfc70a51929fff2d7fe.com^
@@ -104319,9 +104293,7 @@
 ||www.coincasso.io^
 ||www.coincassogroup.com^
 ||www.coindeskoption.com^
-||www.coinerra.com^
 ||www.coinhits.com^
-||www.coinhive.com^
 ||www.coinhiveproxy.com^
 ||www.coinimp.com^
 ||www.coininsider.com^
@@ -104923,7 +104895,6 @@
 ||www.cryplister.com^
 ||www.crypto-engine.pl^
 ||www.crypto-genius.privatecatalog.pro^
-||www.crypto-loot.com^
 ||www.crypto-news-world.club^
 ||www.crypto-worldinvestments.com^
 ||www.cryptoads.space^
@@ -106284,7 +106255,6 @@
 ||www.donotwatch.org^
 ||www.dont.pl^
 ||www.dontwatch.us^
-||www.dooloust.net^
 ||www.doomna.com^
 ||www.doonalermet8.live^
 ||www.doors.co.kr^
@@ -108058,7 +108028,6 @@
 ||www.fb.podpisz-petycje.eu^
 ||www.fb0c32d2f28c.com^
 ||www.fb202022.tcp4.me^
-||www.fb66096fdff.com^
 ||www.fbads-manager.net^
 ||www.fbbbx.xyz^
 ||www.fbbx.me^
@@ -108120,7 +108089,6 @@
 ||www.fecjf.cn^
 ||www.federicksofhollywood.com^
 ||www.fedup.tv^
-||www.fee515f1fa1f.com^
 ||www.feed-ads.com^
 ||www.feed.engage.im^
 ||www.feed5baby.com^
@@ -108826,7 +108794,6 @@
 ||www.freecamsexposed.com^
 ||www.freecnetdownload.com^
 ||www.freecontent.bid^
-||www.freecontent.date^
 ||www.freecontent.download^
 ||www.freecontent.stream^
 ||www.freecoolgift.com^
@@ -110207,6 +110174,7 @@
 ||www.grouphappy.com^
 ||www.groupian.io^
 ||www.groupm.com^
+||www.growadvertising.com^
 ||www.growingio.com^
 ||www.growltoe.com^
 ||www.grownuplieutenant.com^
@@ -112364,7 +112332,6 @@
 ||www.instateens.net^
 ||www.insticator.com^
 ||www.instinctiveads.com^
-||www.institto.casa^
 ||www.instorm.com^
 ||www.instraffic.com^
 ||www.instragramweb.com^
@@ -113920,7 +113887,6 @@
 ||www.laugh2changeland.live^
 ||www.laughtill.net^
 ||www.lauk.icu^
-||www.launch1.co^
 ||www.launchbit.com^
 ||www.launchbuffer.com^
 ||www.launchingsulk.com^
@@ -114834,7 +114800,6 @@
 ||www.lw2ofgc2zo.com^
 ||www.lwomens.space^
 ||www.lx2rv.com^
-||www.lxhjaq.cn^
 ||www.lxqcgj.com^
 ||www.ly5200.cn^
 ||www.lyadu.com^
@@ -115767,7 +115732,6 @@
 ||www.minero-proxy-01.now.sh^
 ||www.minero-proxy-02.now.sh^
 ||www.minero-proxy-03.now.sh^
-||www.minero.pw^
 ||www.minessetion.info^
 ||www.ming-dun.com.tw^
 ||www.mingguanwms.com^
@@ -116100,7 +116064,6 @@
 ||www.mondayblog.pl^
 ||www.mondayunauthorized.com^
 ||www.mondoecommerce.it^
-||www.monerominer.rocks^
 ||www.monetiza.co^
 ||www.monetize.com^
 ||www.monetizemore.com^
@@ -117768,7 +117731,6 @@
 ||www.office365-eu-update.com^
 ||www.office365-us-update.com^
 ||www.officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^
-||www.officesharefile.online^
 ||www.officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^
 ||www.offickiekizashi.site^
 ||www.offshorecockpit.com^
@@ -130289,7 +130251,6 @@
 ||www.zangocash.com^
 ||www.zangogames.com^
 ||www.zanox-affiliate.de^
-||www.zanox.com^
 ||www.zantainet.com^
 ||www.zantori65.com^
 ||www.zantracker.com^

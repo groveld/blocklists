@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 134231
-# Updated: 2021-04-11 00:24:01 UTC
+# Entries: 134192
+# Updated: 2021-04-12 00:22:59 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -73,7 +73,6 @@
 0.0.0.0 000tristanprod.free.fr
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
-0.0.0.0 005.0x1f4b0.com
 0.0.0.0 005.free-counter.co.uk
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
@@ -375,7 +374,6 @@
 0.0.0.0 0azx1.com
 0.0.0.0 0b19222804.com
 0.0.0.0 0b2qv7.cn
-0.0.0.0 0b5a4ab9a6.com
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0b9d84d93f1b.com
 0.0.0.0 0bc.top
@@ -432,7 +430,6 @@
 0.0.0.0 0w1rqq69fi0e.com
 0.0.0.0 0x-project.com
 0.0.0.0 0x01n2ptpuz3.com
-0.0.0.0 0x1f4b0.com
 0.0.0.0 0x4fc271.tk
 0.0.0.0 0xf4a5.tk
 0.0.0.0 0xf4a54cf56.tk
@@ -1028,7 +1025,6 @@
 0.0.0.0 1pt.cqcounter.com
 0.0.0.0 1pzskg.cn
 0.0.0.0 1q0bjj4d39.top
-0.0.0.0 1q2w3.website
 0.0.0.0 1q8h.cn
 0.0.0.0 1qingdao.com
 0.0.0.0 1r8435gsqldr.com
@@ -3488,7 +3484,6 @@
 0.0.0.0 9.wwserch43.biz
 0.0.0.0 900quickcash.com
 0.0.0.0 9053fe03868ab.com
-0.0.0.0 906cccf2c19.com
 0.0.0.0 90pictures.com
 0.0.0.0 90plan.ovh.net
 0.0.0.0 910weixin.com
@@ -4799,7 +4794,6 @@
 0.0.0.0 acasys88.cn
 0.0.0.0 acbick.com
 0.0.0.0 acbnews.com
-0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 acbras.com
 0.0.0.0 acbsearch.com
 0.0.0.0 acc.adintelligence.net
@@ -7798,7 +7792,6 @@
 0.0.0.0 adailymovie.com
 0.0.0.0 adalizer.com
 0.0.0.0 adalliance.io
-0.0.0.0 adalso.com
 0.0.0.0 adalyser.com
 0.0.0.0 adamatic.co
 0.0.0.0 adament.c0.pl
@@ -7941,7 +7934,6 @@
 0.0.0.0 adbro.rtbid.me
 0.0.0.0 adbroker.de
 0.0.0.0 adbroker.mp.dse.microsoft.com
-0.0.0.0 adbrook.com
 0.0.0.0 adbsc.flyermobi.com
 0.0.0.0 adbsdk.flyermobi.com
 0.0.0.0 adbserver.doceree.com
@@ -15820,7 +15812,6 @@
 0.0.0.0 alfatraffic.com
 0.0.0.0 alfik-fik.com
 0.0.0.0 alfikurier.org
-0.0.0.0 alflying.win
 0.0.0.0 alfreethought.org
 0.0.0.0 alfy.com
 0.0.0.0 algat.intergoles.me
@@ -16710,7 +16701,6 @@
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.bkav.com.vn
 0.0.0.0 analytics.bleacherreport.com
-0.0.0.0 analytics.blue
 0.0.0.0 analytics.bluekai.com
 0.0.0.0 analytics.breakingnews.com
 0.0.0.0 analytics.brightedge.com
@@ -17017,7 +17007,6 @@
 0.0.0.0 andbeyond.media
 0.0.0.0 andekkurier.org
 0.0.0.0 andersondiamonds.com
-0.0.0.0 andlache.com
 0.0.0.0 andmlb.kshwtj.com
 0.0.0.0 andohs.net
 0.0.0.0 andomedia.com
@@ -17351,7 +17340,6 @@
 0.0.0.0 any-load.com
 0.0.0.0 any-log.videe.tv
 0.0.0.0 any-porn.com
-0.0.0.0 anybest.site
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 anycast.api.adsafeprotected.com
 0.0.0.0 anycast.bapi.adsafeprotected.com
@@ -19775,7 +19763,6 @@
 0.0.0.0 auth.trafficstars.com
 0.0.0.0 auth2.cityads.com
 0.0.0.0 authbe.sec.intl.miui.com
-0.0.0.0 authcaptcha.com
 0.0.0.0 authedmine.com
 0.0.0.0 authenticate.localhost.net.daraz.com
 0.0.0.0 authorization.a.ns.emailvision.net.daraz.com
@@ -22500,6 +22487,8 @@
 0.0.0.0 bitcoin-trader-app.com
 0.0.0.0 bitcoin-upappl.com
 0.0.0.0 bitcoin-wallet.net
+0.0.0.0 bitcoin.growadvertising.com
+0.0.0.0 bitcoinads.growadvertising.com
 0.0.0.0 bitcoinadvertisers.com
 0.0.0.0 bitcoinaussiesystemsoft.com
 0.0.0.0 bitcoinchampion.io
@@ -39871,7 +39860,6 @@
 0.0.0.0 fb.podpisz-petycje.eu
 0.0.0.0 fb0c32d2f28c.com
 0.0.0.0 fb202022.tcp4.me
-0.0.0.0 fb66096fdff.com
 0.0.0.0 fbads-manager.net
 0.0.0.0 fbapi.dxsvr.com
 0.0.0.0 fbapi.sd.duapps.com
@@ -41396,7 +41384,6 @@
 0.0.0.0 freecnetdownload.com
 0.0.0.0 freecodecs.us.intellitxt.com
 0.0.0.0 freecontent.bid
-0.0.0.0 freecontent.date
 0.0.0.0 freecontent.download
 0.0.0.0 freecontent.stream
 0.0.0.0 freecoolgift.com
@@ -45301,6 +45288,7 @@
 0.0.0.0 grow.bridgepointconsulting.com
 0.0.0.0 grow.rtk.io
 0.0.0.0 grow.urbanairship.com
+0.0.0.0 growadvertising.com
 0.0.0.0 growahead.neosystemscorp.com
 0.0.0.0 growingio.com
 0.0.0.0 growlr.adsbynimbus.com
@@ -65142,7 +65130,6 @@
 0.0.0.0 officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
 0.0.0.0 officehelptogo.com
 0.0.0.0 officer.us.intellitxt.com
-0.0.0.0 officesharefile.online
 0.0.0.0 officexwednbbagmemzmlpepjxspud.nn.r.appspot.com
 0.0.0.0 offickiekizashi.site
 0.0.0.0 officultpolicit.pro
@@ -84848,6 +84835,7 @@
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 static.groupy.co.nz
+0.0.0.0 static.growadvertising.com
 0.0.0.0 static.hadarone.com
 0.0.0.0 static.hatid.com
 0.0.0.0 static.hbplatform.com
@@ -87578,6 +87566,7 @@
 0.0.0.0 targeting.influencemobile.com
 0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targeting.unrulymedia.com
+0.0.0.0 targeting.voxus.tv
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 targetingnow.com
 0.0.0.0 targetnet.com
@@ -88766,6 +88755,7 @@
 0.0.0.0 ticker.api.prd.innopage.com
 0.0.0.0 ticker.conduit.com
 0.0.0.0 ticket20.tripod.com
+0.0.0.0 ticketaunt.com
 0.0.0.0 tickets.fyber.com
 0.0.0.0 tickfoods.tickme.lk
 0.0.0.0 ticklesign.com
@@ -97093,7 +97083,6 @@
 0.0.0.0 www.09zyy.com
 0.0.0.0 www.0a0qetx8et.com
 0.0.0.0 www.0azx1.com
-0.0.0.0 www.0b5a4ab9a6.com
 0.0.0.0 www.0b8cc331813049912.temporary.link
 0.0.0.0 www.0b9d84d93f1b.com
 0.0.0.0 www.0bc.top
@@ -97126,7 +97115,6 @@
 0.0.0.0 www.0vsgqxbxk66w.com
 0.0.0.0 www.0w1rqq69fi0e.com
 0.0.0.0 www.0x01n2ptpuz3.com
-0.0.0.0 www.0x1f4b0.com
 0.0.0.0 www.0xi.eu
 0.0.0.0 www.0xxd.com
 0.0.0.0 www.1-1ads.com
@@ -97326,7 +97314,6 @@
 0.0.0.0 www.1priest1nun.com
 0.0.0.0 www.1priest1nun.net
 0.0.0.0 www.1pzskg.cn
-0.0.0.0 www.1q2w3.website
 0.0.0.0 www.1q8h.cn
 0.0.0.0 www.1qingdao.com
 0.0.0.0 www.1quickclickrx.com
@@ -98275,7 +98262,6 @@
 0.0.0.0 www.9-12-3a.fun
 0.0.0.0 www.9-12-4a.fun
 0.0.0.0 www.9053fe03868ab.com
-0.0.0.0 www.906cccf2c19.com
 0.0.0.0 www.910weixin.com
 0.0.0.0 www.919.allegro-lokalnie.club
 0.0.0.0 www.91aa46b949d20.com
@@ -98284,7 +98270,6 @@
 0.0.0.0 www.91jiedai.cn
 0.0.0.0 www.91jsnzw.xyz
 0.0.0.0 www.91xry.com
-0.0.0.0 www.91yktong.com
 0.0.0.0 www.91ysa.com
 0.0.0.0 www.920sbo17zn88.com
 0.0.0.0 www.924e60106cd9d0e.com
@@ -98830,7 +98815,6 @@
 0.0.0.0 www.adagionet.com
 0.0.0.0 www.adalizer.com
 0.0.0.0 www.adalliance.io
-0.0.0.0 www.adalso.com
 0.0.0.0 www.adalyser.com
 0.0.0.0 www.adamatic.co
 0.0.0.0 www.adament.c0.pl
@@ -98884,7 +98868,6 @@
 0.0.0.0 www.adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 www.adbrix.io
 0.0.0.0 www.adbroker.de
-0.0.0.0 www.adbrook.com
 0.0.0.0 www.adbuddiz.com
 0.0.0.0 www.adbuff.com
 0.0.0.0 www.adbuka.com
@@ -99216,7 +99199,6 @@
 0.0.0.0 www.admin.iesnare.co.uk
 0.0.0.0 www.admin.iesnare.com
 0.0.0.0 www.adminder.com
-0.0.0.0 www.adminer.com
 0.0.0.0 www.adming.net
 0.0.0.0 www.adminhelpdeskunit.moonfruit.com
 0.0.0.0 www.adminshop.com
@@ -99658,7 +99640,6 @@
 0.0.0.0 www.adtear.com
 0.0.0.0 www.adtecc.com
 0.0.0.0 www.adtech.com
-0.0.0.0 www.adtech.de
 0.0.0.0 www.adtechjp.com
 0.0.0.0 www.adtechus.com
 0.0.0.0 www.adtegrity.com
@@ -100073,7 +100054,6 @@
 0.0.0.0 www.afgr8.com
 0.0.0.0 www.afgr9.com
 0.0.0.0 www.afi-b.com
-0.0.0.0 www.afilo.pl
 0.0.0.0 www.afj0.com
 0.0.0.0 www.afnan-amc.com
 0.0.0.0 www.afqveoju.com
@@ -100390,7 +100370,6 @@
 0.0.0.0 www.alfatraffic.com
 0.0.0.0 www.alfik-fik.com
 0.0.0.0 www.alfikurier.org
-0.0.0.0 www.alflying.win
 0.0.0.0 www.alfynetwork.com
 0.0.0.0 www.alga9frog.com
 0.0.0.0 www.algerianembassy.co.in
@@ -100745,7 +100724,6 @@
 0.0.0.0 www.analytics-digit-in.cdn.ampproject.org
 0.0.0.0 www.analytics.247sports.com
 0.0.0.0 www.analytics.adspaces.ero-advertising.com
-0.0.0.0 www.analytics.blue
 0.0.0.0 www.analytics.ero-advertising.com
 0.0.0.0 www.analytics.icons8.com
 0.0.0.0 www.analytics.picsart.com
@@ -100766,7 +100744,6 @@
 0.0.0.0 www.andbeyond.media
 0.0.0.0 www.andekkurier.org
 0.0.0.0 www.andersondiamonds.com
-0.0.0.0 www.andlache.com
 0.0.0.0 www.andohs.net
 0.0.0.0 www.andomedia.com
 0.0.0.0 www.andr.net
@@ -100890,7 +100867,6 @@
 0.0.0.0 www.anuskurier.org
 0.0.0.0 www.anwan.pl
 0.0.0.0 www.any-load.com
-0.0.0.0 www.anybest.site
 0.0.0.0 www.anyclip-media.com
 0.0.0.0 www.anycracks.com
 0.0.0.0 www.anymad.com
@@ -101416,7 +101392,6 @@
 0.0.0.0 www.australianpga.com.au
 0.0.0.0 www.auteboon.net
 0.0.0.0 www.authbe.sec.intl.miui.com
-0.0.0.0 www.authcaptcha.com
 0.0.0.0 www.authorne.info
 0.0.0.0 www.aution.pro
 0.0.0.0 www.auto-bannertausch.de
@@ -102229,7 +102204,6 @@
 0.0.0.0 www.bezprzekazu.pl
 0.0.0.0 www.bezpytan.pl
 0.0.0.0 www.bf-online.xaa.pl
-0.0.0.0 www.bf1872dae47d.com
 0.0.0.0 www.bf3c1229dc6f28b2.com
 0.0.0.0 www.bfb487de1f2da5c.com
 0.0.0.0 www.bfc70a51929fff2d7fe.com
@@ -104319,9 +104293,7 @@
 0.0.0.0 www.coincasso.io
 0.0.0.0 www.coincassogroup.com
 0.0.0.0 www.coindeskoption.com
-0.0.0.0 www.coinerra.com
 0.0.0.0 www.coinhits.com
-0.0.0.0 www.coinhive.com
 0.0.0.0 www.coinhiveproxy.com
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coininsider.com
@@ -104923,7 +104895,6 @@
 0.0.0.0 www.cryplister.com
 0.0.0.0 www.crypto-engine.pl
 0.0.0.0 www.crypto-genius.privatecatalog.pro
-0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.crypto-news-world.club
 0.0.0.0 www.crypto-worldinvestments.com
 0.0.0.0 www.cryptoads.space
@@ -106284,7 +106255,6 @@
 0.0.0.0 www.donotwatch.org
 0.0.0.0 www.dont.pl
 0.0.0.0 www.dontwatch.us
-0.0.0.0 www.dooloust.net
 0.0.0.0 www.doomna.com
 0.0.0.0 www.doonalermet8.live
 0.0.0.0 www.doors.co.kr
@@ -108058,7 +108028,6 @@
 0.0.0.0 www.fb.podpisz-petycje.eu
 0.0.0.0 www.fb0c32d2f28c.com
 0.0.0.0 www.fb202022.tcp4.me
-0.0.0.0 www.fb66096fdff.com
 0.0.0.0 www.fbads-manager.net
 0.0.0.0 www.fbbbx.xyz
 0.0.0.0 www.fbbx.me
@@ -108120,7 +108089,6 @@
 0.0.0.0 www.fecjf.cn
 0.0.0.0 www.federicksofhollywood.com
 0.0.0.0 www.fedup.tv
-0.0.0.0 www.fee515f1fa1f.com
 0.0.0.0 www.feed-ads.com
 0.0.0.0 www.feed.engage.im
 0.0.0.0 www.feed5baby.com
@@ -108826,7 +108794,6 @@
 0.0.0.0 www.freecamsexposed.com
 0.0.0.0 www.freecnetdownload.com
 0.0.0.0 www.freecontent.bid
-0.0.0.0 www.freecontent.date
 0.0.0.0 www.freecontent.download
 0.0.0.0 www.freecontent.stream
 0.0.0.0 www.freecoolgift.com
@@ -110207,6 +110174,7 @@
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.groupian.io
 0.0.0.0 www.groupm.com
+0.0.0.0 www.growadvertising.com
 0.0.0.0 www.growingio.com
 0.0.0.0 www.growltoe.com
 0.0.0.0 www.grownuplieutenant.com
@@ -112364,7 +112332,6 @@
 0.0.0.0 www.instateens.net
 0.0.0.0 www.insticator.com
 0.0.0.0 www.instinctiveads.com
-0.0.0.0 www.institto.casa
 0.0.0.0 www.instorm.com
 0.0.0.0 www.instraffic.com
 0.0.0.0 www.instragramweb.com
@@ -113920,7 +113887,6 @@
 0.0.0.0 www.laugh2changeland.live
 0.0.0.0 www.laughtill.net
 0.0.0.0 www.lauk.icu
-0.0.0.0 www.launch1.co
 0.0.0.0 www.launchbit.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.launchingsulk.com
@@ -114834,7 +114800,6 @@
 0.0.0.0 www.lw2ofgc2zo.com
 0.0.0.0 www.lwomens.space
 0.0.0.0 www.lx2rv.com
-0.0.0.0 www.lxhjaq.cn
 0.0.0.0 www.lxqcgj.com
 0.0.0.0 www.ly5200.cn
 0.0.0.0 www.lyadu.com
@@ -115767,7 +115732,6 @@
 0.0.0.0 www.minero-proxy-01.now.sh
 0.0.0.0 www.minero-proxy-02.now.sh
 0.0.0.0 www.minero-proxy-03.now.sh
-0.0.0.0 www.minero.pw
 0.0.0.0 www.minessetion.info
 0.0.0.0 www.ming-dun.com.tw
 0.0.0.0 www.mingguanwms.com
@@ -116100,7 +116064,6 @@
 0.0.0.0 www.mondayblog.pl
 0.0.0.0 www.mondayunauthorized.com
 0.0.0.0 www.mondoecommerce.it
-0.0.0.0 www.monerominer.rocks
 0.0.0.0 www.monetiza.co
 0.0.0.0 www.monetize.com
 0.0.0.0 www.monetizemore.com
@@ -117768,7 +117731,6 @@
 0.0.0.0 www.office365-eu-update.com
 0.0.0.0 www.office365-us-update.com
 0.0.0.0 www.officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
-0.0.0.0 www.officesharefile.online
 0.0.0.0 www.officexwednbbagmemzmlpepjxspud.nn.r.appspot.com
 0.0.0.0 www.offickiekizashi.site
 0.0.0.0 www.offshorecockpit.com
@@ -130289,7 +130251,6 @@
 0.0.0.0 www.zangocash.com
 0.0.0.0 www.zangogames.com
 0.0.0.0 www.zanox-affiliate.de
-0.0.0.0 www.zanox.com
 0.0.0.0 www.zantainet.com
 0.0.0.0 www.zantori65.com
 0.0.0.0 www.zantracker.com
