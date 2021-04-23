@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/hosts.txt
-# Entries: 136167
-# Updated: 2021-04-22 00:21:49 UTC
+# Entries: 136135
+# Updated: 2021-04-23 00:21:30 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -1169,7 +1169,6 @@
 0.0.0.0 2001-007.com
 0.0.0.0 2001positions.com
 0.0.0.0 2005-search.com
-0.0.0.0 2006-ray-craft.com
 0.0.0.0 2006mindfreaklike.blogspot.com
 0.0.0.0 2007-search.com
 0.0.0.0 2009-search.com
@@ -2250,7 +2249,6 @@
 0.0.0.0 40cg.com
 0.0.0.0 40ch.com
 0.0.0.0 40debts.org
-0.0.0.0 40f386e243.com
 0.0.0.0 40hardcore.galleryprogram.com
 0.0.0.0 40shore.com
 0.0.0.0 4107269.ranking.fc2.com
@@ -3037,7 +3035,6 @@
 0.0.0.0 72d329.r.axf8.net
 0.0.0.0 72impala.com
 0.0.0.0 73091.hittail.com
-0.0.0.0 7310e12f1b0.com
 0.0.0.0 7336.deeplink.mobileapptracking.com
 0.0.0.0 7336.engine.mobileapptracking.com
 0.0.0.0 7386977377.findprofile.net.pl
@@ -3489,7 +3486,6 @@
 0.0.0.0 91ysa.com
 0.0.0.0 920sbo17zn88.com
 0.0.0.0 922.hittail.com
-0.0.0.0 9237eda19f.com
 0.0.0.0 924e60106cd9d0e.com
 0.0.0.0 925.lt
 0.0.0.0 927a8dd1afec73.com
@@ -17185,6 +17181,7 @@
 0.0.0.0 analyticssl.clickpathmedia.com
 0.0.0.0 analyticsssl.forcepoint.com
 0.0.0.0 analyticsv2.dol.gr
+0.0.0.0 analytik.xyz
 0.0.0.0 analyze.accesstrade.net
 0.0.0.0 analyze.urbanairship.com
 0.0.0.0 analyzeagg.com
@@ -37567,7 +37564,6 @@
 0.0.0.0 eddd6b75.api.splkmobile.com
 0.0.0.0 eddy.noneto.com
 0.0.0.0 edeals.rhymebiz.com
-0.0.0.0 edenleaf.hu
 0.0.0.0 edestrathergo.club
 0.0.0.0 edge-interaction.net.daraz.com
 0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
@@ -70153,7 +70149,6 @@
 0.0.0.0 payonklik.online
 0.0.0.0 payooner.club
 0.0.0.0 payorte.net
-0.0.0.0 payout-service.com
 0.0.0.0 payouts.adsparc.net
 0.0.0.0 paypai.org
 0.0.0.0 paypal-exchange.com
@@ -81866,6 +81861,7 @@
 0.0.0.0 sigil.outwar.com
 0.0.0.0 signal-beacon.s-onetag.com
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
+0.0.0.0 signalayer.com
 0.0.0.0 signalhq.com
 0.0.0.0 signals.ampiri.com
 0.0.0.0 signature.triplelift.com
@@ -99283,7 +99279,6 @@
 0.0.0.0 www.2000greetings.com
 0.0.0.0 www.2001-007.com
 0.0.0.0 www.2005-search.com
-0.0.0.0 www.2006-ray-craft.com
 0.0.0.0 www.2006mindfreaklike.blogspot.com
 0.0.0.0 www.200ps.com
 0.0.0.0 www.2013sh.com
@@ -99647,7 +99642,6 @@
 0.0.0.0 www.40ceexln7929.com
 0.0.0.0 www.40cg.com
 0.0.0.0 www.40ch.com
-0.0.0.0 www.40f386e243.com
 0.0.0.0 www.40shore.com
 0.0.0.0 www.411medias.com
 0.0.0.0 www.411playz.com
@@ -99896,7 +99890,6 @@
 0.0.0.0 www.61b50f2b935cbb6.com
 0.0.0.0 www.620c663bca9a4.com
 0.0.0.0 www.625c9289e60793.com
-0.0.0.0 www.627sf.cn
 0.0.0.0 www.62b70ac32d4614b.com
 0.0.0.0 www.62wm.com
 0.0.0.0 www.63r2vxacp0pr.com
@@ -99991,7 +99984,6 @@
 0.0.0.0 www.7228.eu
 0.0.0.0 www.727709ccb24101c8.com
 0.0.0.0 www.72b8869dfc34690.com
-0.0.0.0 www.7310e12f1b0.com
 0.0.0.0 www.7386977377.findprofile.net.pl
 0.0.0.0 www.739c49a8c68917.com
 0.0.0.0 www.73c6c063b238097.com
@@ -100203,7 +100195,6 @@
 0.0.0.0 www.91xry.com
 0.0.0.0 www.91ysa.com
 0.0.0.0 www.920sbo17zn88.com
-0.0.0.0 www.9237eda19f.com
 0.0.0.0 www.924e60106cd9d0e.com
 0.0.0.0 www.925.lt
 0.0.0.0 www.927a8dd1afec73.com
@@ -102042,7 +102033,6 @@
 0.0.0.0 www.aghchnfzt.com
 0.0.0.0 www.agikurier.org
 0.0.0.0 www.agile8studio.com
-0.0.0.0 www.agilehw.online
 0.0.0.0 www.agilemedia.jp
 0.0.0.0 www.agipasesores.com
 0.0.0.0 www.agitazio.com
@@ -102132,7 +102122,6 @@
 0.0.0.0 www.ailiyou1999.com
 0.0.0.0 www.ailnoir.com
 0.0.0.0 www.ailpielei.com
-0.0.0.0 www.ailrouno.net
 0.0.0.0 www.aim4media.com
 0.0.0.0 www.aimamparc.club
 0.0.0.0 www.aimes.com
@@ -105184,7 +105173,6 @@
 0.0.0.0 www.c9emgwai66zi.com
 0.0.0.0 www.ca4ec6874a33a13.com
 0.0.0.0 www.ca72472d7aee.com
-0.0.0.0 www.caac1761385.com
 0.0.0.0 www.caballo.com.au
 0.0.0.0 www.cabeles.com
 0.0.0.0 www.cablyshaw.com
@@ -105322,7 +105310,6 @@
 0.0.0.0 www.cardinalfx.trade
 0.0.0.0 www.cardinalholdingsltd.com
 0.0.0.0 www.cardinalimprovementscartrige.com
-0.0.0.0 www.cardiwersg.com
 0.0.0.0 www.cardmrket.com
 0.0.0.0 www.careers-rewardpath.com
 0.0.0.0 www.careersincorrectquickie.com
@@ -107047,7 +107034,6 @@
 0.0.0.0 www.cuebiq.com
 0.0.0.0 www.cuelinks.com
 0.0.0.0 www.cueyetwee.site
-0.0.0.0 www.cuilongsp.cn
 0.0.0.0 www.cuiron.de
 0.0.0.0 www.cuisineenvoyadvertise.com
 0.0.0.0 www.cukierniasowa.com.pl
@@ -108483,7 +108469,6 @@
 0.0.0.0 www.doubleviewhotel.co.tz
 0.0.0.0 www.doubtfirework.com
 0.0.0.0 www.dougmlee.com
-0.0.0.0 www.doulaihai.top
 0.0.0.0 www.douteure.com
 0.0.0.0 www.dovberger.com
 0.0.0.0 www.doveprovidingyear.com
@@ -109013,7 +108998,6 @@
 0.0.0.0 www.edaa.eu
 0.0.0.0 www.edatasales.com
 0.0.0.0 www.eden21.net
-0.0.0.0 www.edenleaf.hu
 0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.edgevertise.com
 0.0.0.0 www.edgyconnaterag.com
@@ -112667,7 +112651,6 @@
 0.0.0.0 www.hdmovies.pl
 0.0.0.0 www.hdpass.club
 0.0.0.0 www.hdporium.com
-0.0.0.0 www.hdsahfkja.top
 0.0.0.0 www.hdvcode.com
 0.0.0.0 www.hdvwm3.cn
 0.0.0.0 www.head3high.com
@@ -112875,7 +112858,6 @@
 0.0.0.0 www.highwayprinting.com
 0.0.0.0 www.hihifenxiang.com
 0.0.0.0 www.hihumi.biz
-0.0.0.0 www.hikin.online
 0.0.0.0 www.hikvar.ru
 0.0.0.0 www.hikyceti.pro
 0.0.0.0 www.hillpl.com
@@ -113780,7 +113762,6 @@
 0.0.0.0 www.imho.ru
 0.0.0.0 www.imiclk.com
 0.0.0.0 www.imiek.com
-0.0.0.0 www.imim.me
 0.0.0.0 www.imimobile.com
 0.0.0.0 www.imimtord.net
 0.0.0.0 www.imitrk.com
@@ -114944,7 +114925,6 @@
 0.0.0.0 www.jiujhzp.com
 0.0.0.0 www.jiuku.cc
 0.0.0.0 www.jiumishow.com
-0.0.0.0 www.jiuqihb.cn
 0.0.0.0 www.jivox.com
 0.0.0.0 www.jiwire.com
 0.0.0.0 www.jixiby.cn
@@ -115167,7 +115147,6 @@
 0.0.0.0 www.jutup.pl
 0.0.0.0 www.jutwrench.com
 0.0.0.0 www.jutyledu.pro
-0.0.0.0 www.juvbzle.cn
 0.0.0.0 www.juvenilebind.com
 0.0.0.0 www.juxilm.com
 0.0.0.0 www.juxtaposereelreferred.com
@@ -115848,7 +115827,6 @@
 0.0.0.0 www.kzprojekt.pl
 0.0.0.0 www.kzws02uffs.com
 0.0.0.0 www.kzzeupckj.com
-0.0.0.0 www.l07m8gu.cn
 0.0.0.0 www.l2ksixujfcg5.com
 0.0.0.0 www.l2wisd9g5d9u.com
 0.0.0.0 www.l4elb.cn
@@ -115949,7 +115927,6 @@
 0.0.0.0 www.laodongnhat.vn
 0.0.0.0 www.laojiayoufang.com
 0.0.0.0 www.laolinow.com
-0.0.0.0 www.laoliulaoliu.com
 0.0.0.0 www.laolle.com
 0.0.0.0 www.lapeduzis.org
 0.0.0.0 www.lapiden.com
@@ -117639,7 +117616,6 @@
 0.0.0.0 www.meiluziai.info
 0.0.0.0 www.meinlist.com
 0.0.0.0 www.meizhuli365.cn
-0.0.0.0 www.melacexi.xyz
 0.0.0.0 www.melahu.epionaspravka.ru
 0.0.0.0 www.melba-group.fi
 0.0.0.0 www.meldujemy.gmina.pl
@@ -121734,7 +121710,6 @@
 0.0.0.0 www.payonklik.online
 0.0.0.0 www.payooner.club
 0.0.0.0 www.payorte.net
-0.0.0.0 www.payout-service.com
 0.0.0.0 www.paypal-exchange.com
 0.0.0.0 www.paypal.activate-online.com
 0.0.0.0 www.paypal.smarthelp-115.com
@@ -122817,7 +122792,6 @@
 0.0.0.0 www.poolup.io
 0.0.0.0 www.poonstwifterspick.work
 0.0.0.0 www.poorlydig.com
-0.0.0.0 www.poosoahe.com
 0.0.0.0 www.pop-under.ru
 0.0.0.0 www.pop.bid
 0.0.0.0 www.popacs.ero-advertising.com
@@ -127636,7 +127610,6 @@
 0.0.0.0 www.tag4arm.com
 0.0.0.0 www.tagcade.com
 0.0.0.0 www.taggify.net
-0.0.0.0 www.taghaugh.com
 0.0.0.0 www.tagjunction.com
 0.0.0.0 www.tagmngrs.com
 0.0.0.0 www.tagular.com
@@ -128457,7 +128430,6 @@
 0.0.0.0 www.tonefuse.com
 0.0.0.0 www.tongdejiayuan.com
 0.0.0.0 www.toniemusibycsen.club
-0.0.0.0 www.tonmatdoanminh.com
 0.0.0.0 www.tonopole.com
 0.0.0.0 www.tons-to-see.com
 0.0.0.0 www.tonydong.com
@@ -129180,7 +129152,6 @@
 0.0.0.0 www.tvpsport.blogspot.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.tvsportmedia.blogspot.com
-0.0.0.0 www.twart.myfirewall.org
 0.0.0.0 www.tweakbit.com
 0.0.0.0 www.tweetelonmusk.ir
 0.0.0.0 www.twenty-wishes.000webhostapp.com
@@ -130023,7 +129994,6 @@
 0.0.0.0 www.vidsplay.net
 0.0.0.0 www.vidustal.com
 0.0.0.0 www.vidutils.taboola.com
-0.0.0.0 www.vidverto.io
 0.0.0.0 www.vietalle.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
@@ -131468,7 +131438,6 @@
 0.0.0.0 www.xgdhmwbgilx.com
 0.0.0.0 www.xgfugivkvkak.com
 0.0.0.0 www.xgrwjbui.top
-0.0.0.0 www.xgxq518.com
 0.0.0.0 www.xhbqczl.com
 0.0.0.0 www.xhct66.com
 0.0.0.0 www.xhera.cn
@@ -132122,7 +132091,6 @@
 0.0.0.0 www.ywasgxqzf.com
 0.0.0.0 www.ywbwsm.com
 0.0.0.0 www.ywmc.com.tw
-0.0.0.0 www.ywofuxyq.xyz
 0.0.0.0 www.ywxtmox.cn
 0.0.0.0 www.yxceermovfotgsh.su
 0.0.0.0 www.yxgfcj.com
