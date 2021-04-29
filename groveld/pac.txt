@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/pac.txt
-// Entries: 136566
-// Updated: 2021-04-28 00:21:24 UTC
+// Entries: 136562
+// Updated: 2021-04-29 00:21:13 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -59447,6 +59447,7 @@ var BLOCKLIST = {
 "matomo.ecoe.vn":null,
 "matomo.energyfacility.vn":null,
 "matomo.ethereum.org":null,
+"matomo.gals24.ru":null,
 "matomo.hdweb.ru":null,
 "matomo.kmkb.ru":null,
 "matomo.oka-zakaz.ru":null,
@@ -84772,6 +84773,7 @@ var BLOCKLIST = {
 "softwareupdaterlp.com":null,
 "softyhouse.pl":null,
 "sogecoenergy.com":null,
+"soggysponge.com":null,
 "sogov587.top":null,
 "sohh.us.intellitxt.com":null,
 "sohohealthsolutions.com":null,
@@ -93507,6 +93509,7 @@ var BLOCKLIST = {
 "trk.en.business.westernunion.ch":null,
 "trk.en.business.westernunion.it":null,
 "trk.enecto.com":null,
+"trk.enemy-adult-scared-there.xyz":null,
 "trk.eskimi.com":null,
 "trk.etrigue.com":null,
 "trk.findmanufacturingbuyers.com":null,
@@ -111189,7 +111192,6 @@ var BLOCKLIST = {
 "www.flixsport.co":null,
 "www.fljozww19f.com":null,
 "www.fll007.com":null,
-"www.flmcju.cn":null,
 "www.flodonas.com":null,
 "www.flomigo.com":null,
 "www.floordisclosewhereas.com":null,
@@ -113569,7 +113571,6 @@ var BLOCKLIST = {
 "www.hntymg.com":null,
 "www.hnwjlhg.cn":null,
 "www.hnxahz.com":null,
-"www.hnxinkejg.com":null,
 "www.hnyny.com":null,
 "www.hnzyzhy.cn":null,
 "www.hoaiig.com":null,
@@ -116627,7 +116628,6 @@ var BLOCKLIST = {
 "www.lauraboerci.com":null,
 "www.lauratomismith.com":null,
 "www.lauriegrowingdrops.com":null,
-"www.lavageethion.com":null,
 "www.lavanetwork.net":null,
 "www.lavist55.com":null,
 "www.lawforall.edu.lk":null,
@@ -116872,7 +116872,6 @@ var BLOCKLIST = {
 "www.lidicando.com":null,
 "www.lidoraggiodisole.it":null,
 "www.lie2anyone.com":null,
-"www.lie3.xyz":null,
 "www.liendans.com":null,
 "www.lieutenantsaviourtones.com":null,
 "www.lifanpower.pl":null,
@@ -121490,7 +121489,6 @@ var BLOCKLIST = {
 "www.onlinereward.site":null,
 "www.onlinerewardcenter.com":null,
 "www.onlinern.com.br":null,
-"www.onlinesgate.com":null,
 "www.onlineslotmaschine.com":null,
 "www.onlinesprzedaz.xyz":null,
 "www.onlinesweepstakes.blue":null,
@@ -127801,7 +127799,6 @@ var BLOCKLIST = {
 "www.sug.com.pl":null,
 "www.sugh8yami.com":null,
 "www.sugoicounter.com":null,
-"www.suhusushi.com":null,
 "www.suicide-vintage.blogspot.com":null,
 "www.suite6ixty6ix.com":null,
 "www.suitesmart.com":null,
@@ -131705,7 +131702,6 @@ var BLOCKLIST = {
 "www.wsjlbbqemr23.com":null,
 "www.wskazuj-wybory.eu":null,
 "www.wskazywac-wygranych.eu":null,
-"www.wsmky.com":null,
 "www.wspaniale-zalgosuj.eu":null,
 "www.wsparcie-kumpelskie.eu":null,
 "www.wsparciejezykowe.eu":null,

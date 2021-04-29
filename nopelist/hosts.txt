@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 136564
-# Updated: 2021-04-28 00:21:37 UTC
+# Entries: 136560
+# Updated: 2021-04-29 00:21:34 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -59445,6 +59445,7 @@
 0.0.0.0 matomo.ecoe.vn
 0.0.0.0 matomo.energyfacility.vn
 0.0.0.0 matomo.ethereum.org
+0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.oka-zakaz.ru
@@ -84770,6 +84771,7 @@
 0.0.0.0 softwareupdaterlp.com
 0.0.0.0 softyhouse.pl
 0.0.0.0 sogecoenergy.com
+0.0.0.0 soggysponge.com
 0.0.0.0 sogov587.top
 0.0.0.0 sohh.us.intellitxt.com
 0.0.0.0 sohohealthsolutions.com
@@ -93505,6 +93507,7 @@
 0.0.0.0 trk.en.business.westernunion.ch
 0.0.0.0 trk.en.business.westernunion.it
 0.0.0.0 trk.enecto.com
+0.0.0.0 trk.enemy-adult-scared-there.xyz
 0.0.0.0 trk.eskimi.com
 0.0.0.0 trk.etrigue.com
 0.0.0.0 trk.findmanufacturingbuyers.com
@@ -111187,7 +111190,6 @@
 0.0.0.0 www.flixsport.co
 0.0.0.0 www.fljozww19f.com
 0.0.0.0 www.fll007.com
-0.0.0.0 www.flmcju.cn
 0.0.0.0 www.flodonas.com
 0.0.0.0 www.flomigo.com
 0.0.0.0 www.floordisclosewhereas.com
@@ -113566,7 +113568,6 @@
 0.0.0.0 www.hntymg.com
 0.0.0.0 www.hnwjlhg.cn
 0.0.0.0 www.hnxahz.com
-0.0.0.0 www.hnxinkejg.com
 0.0.0.0 www.hnyny.com
 0.0.0.0 www.hnzyzhy.cn
 0.0.0.0 www.hoaiig.com
@@ -116624,7 +116625,6 @@
 0.0.0.0 www.lauraboerci.com
 0.0.0.0 www.lauratomismith.com
 0.0.0.0 www.lauriegrowingdrops.com
-0.0.0.0 www.lavageethion.com
 0.0.0.0 www.lavanetwork.net
 0.0.0.0 www.lavist55.com
 0.0.0.0 www.lawforall.edu.lk
@@ -116869,7 +116869,6 @@
 0.0.0.0 www.lidicando.com
 0.0.0.0 www.lidoraggiodisole.it
 0.0.0.0 www.lie2anyone.com
-0.0.0.0 www.lie3.xyz
 0.0.0.0 www.liendans.com
 0.0.0.0 www.lieutenantsaviourtones.com
 0.0.0.0 www.lifanpower.pl
@@ -121487,7 +121486,6 @@
 0.0.0.0 www.onlinereward.site
 0.0.0.0 www.onlinerewardcenter.com
 0.0.0.0 www.onlinern.com.br
-0.0.0.0 www.onlinesgate.com
 0.0.0.0 www.onlineslotmaschine.com
 0.0.0.0 www.onlinesprzedaz.xyz
 0.0.0.0 www.onlinesweepstakes.blue
@@ -127798,7 +127796,6 @@
 0.0.0.0 www.sug.com.pl
 0.0.0.0 www.sugh8yami.com
 0.0.0.0 www.sugoicounter.com
-0.0.0.0 www.suhusushi.com
 0.0.0.0 www.suicide-vintage.blogspot.com
 0.0.0.0 www.suite6ixty6ix.com
 0.0.0.0 www.suitesmart.com
@@ -131702,7 +131699,6 @@
 0.0.0.0 www.wsjlbbqemr23.com
 0.0.0.0 www.wskazuj-wybory.eu
 0.0.0.0 www.wskazywac-wygranych.eu
-0.0.0.0 www.wsmky.com
 0.0.0.0 www.wspaniale-zalgosuj.eu
 0.0.0.0 www.wsparcie-kumpelskie.eu
 0.0.0.0 www.wsparciejezykowe.eu
