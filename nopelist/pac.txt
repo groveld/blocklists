@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/pac.txt
-// Entries: 137096
-// Updated: 2021-05-03 00:13:15 UTC
+// Entries: 137085
+// Updated: 2021-05-04 00:08:31 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -57837,7 +57837,6 @@ var BLOCKLIST = {
 "lyztdz.com":null,
 "lz.mainentrypoint.com":null,
 "lzjl.com":null,
-"lzmm8.com":null,
 "lzrikate.com":null,
 "m-99.co.uk":null,
 "m-a.ants.vn":null,
@@ -104455,7 +104454,6 @@ var BLOCKLIST = {
 "www.bairentou.com.cn":null,
 "www.bait4role.com":null,
 "www.baitaoidc.com":null,
-"www.baiweluy.com":null,
 "www.baiyangzs.com":null,
 "www.bajieyy.cc":null,
 "www.bajkowedekoracje.pl":null,
@@ -104769,7 +104767,6 @@ var BLOCKLIST = {
 "www.bejeweled-skies-prod.elasticbeanstalk.com":null,
 "www.beka.pl":null,
 "www.bekape.co.id":null,
-"www.beklefkiom.com":null,
 "www.belamicash.com":null,
 "www.belanjalagi.com":null,
 "www.beliebtestewebseite.de":null,
@@ -108020,7 +108017,6 @@ var BLOCKLIST = {
 "www.cytcm.com":null,
 "www.cytron.com":null,
 "www.cyxos.kosmonadrova.ru":null,
-"www.cz09.com":null,
 "www.czajkowski.cba.pl":null,
 "www.czarna-lista.k99k.com.pl":null,
 "www.czarna-lista.k99k.eu":null,
@@ -108770,7 +108766,6 @@ var BLOCKLIST = {
 "www.detectnewfavorite.com":null,
 "www.detectorvenomouscutlery.com":null,
 "www.deterindependentblocked.com":null,
-"www.determine-month-upward-shoot.xyz":null,
 "www.detinrocondsand.ml":null,
 "www.detka.com.pl":null,
 "www.detorre.es":null,
@@ -110674,7 +110669,6 @@ var BLOCKLIST = {
 "www.eyebrowransom.com":null,
 "www.eyecurred.com":null,
 "www.eyefuneve.com":null,
-"www.eyemedias.com":null,
 "www.eyeota.net":null,
 "www.eyere.com":null,
 "www.eyereturn.com":null,
@@ -116894,7 +116888,6 @@ var BLOCKLIST = {
 "www.labersa.com":null,
 "www.labmedica.pl":null,
 "www.laborates.com":null,
-"www.laborergrumbling.com":null,
 "www.laborex.hu":null,
 "www.lacasadelosalebrijes.com":null,
 "www.lacasadialicedesenzano.it":null,
@@ -117919,7 +117912,6 @@ var BLOCKLIST = {
 "www.luselucky.com":null,
 "www.lushcrush.com":null,
 "www.lusrg.cn":null,
-"www.lustcash.nl":null,
 "www.lustler.com":null,
 "www.lustmanicureput.com":null,
 "www.lustresoonerrecalled.com":null,
@@ -118785,7 +118777,6 @@ var BLOCKLIST = {
 "www.metrilo.com":null,
 "www.mettaanand.org":null,
 "www.mettelindberg.dk":null,
-"www.meubonus.com":null,
 "www.meuoculosnanet.com.br":null,
 "www.mevlutacik.com.tr":null,
 "www.mezaa.com":null,
@@ -128978,7 +128969,6 @@ var BLOCKLIST = {
 "www.teenrevenue.com":null,
 "www.teesheel.net":null,
 "www.teespoon.co":null,
-"www.tefumiji.xyz":null,
 "www.tegojeszczeniepowiedziallam.website":null,
 "www.tegoroczne-glosowanko.eu":null,
 "www.tegosienikktniespodziewal.cyou":null,
@@ -129602,7 +129592,6 @@ var BLOCKLIST = {
 "www.top-rank.pl":null,
 "www.top-rutor.eu":null,
 "www.top-site-list.com":null,
-"www.top-sponsor.com":null,
 "www.top-zdorovie.ru":null,
 "www.top.naturgood.icu":null,
 "www.top1.ro":null,
