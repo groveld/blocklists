@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 136419
-# Updated: 2021-05-07 01:07:16 UTC
+# Entries: 136388
+# Updated: 2021-05-08 01:05:14 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -2722,7 +2722,6 @@
 0.0.0.0 5a60bfdc522.com
 0.0.0.0 5a8884f09e.e-kocyki.pl
 0.0.0.0 5aa8f31e2f5d.com
-0.0.0.0 5ac9af9fc8f.com
 0.0.0.0 5advertise.com
 0.0.0.0 5b008e.r.axf8.net
 0.0.0.0 5b45367340.natrasiekorzysci.pl
@@ -3179,7 +3178,6 @@
 0.0.0.0 79ucic4ss8.com
 0.0.0.0 79zgycmr.com
 0.0.0.0 7a096v.cn
-0.0.0.0 7a228575ea8f.com
 0.0.0.0 7a6421ee67fdb0f660.com
 0.0.0.0 7a8fe1c29493.com
 0.0.0.0 7adpower.com
@@ -4734,7 +4732,6 @@
 0.0.0.0 abc.logly.co.jp
 0.0.0.0 abc.prawo.link
 0.0.0.0 abc.rwpt.top
-0.0.0.0 abc226c33d.com
 0.0.0.0 abc801.cn
 0.0.0.0 abcadult.net
 0.0.0.0 abcd.bg
@@ -21806,6 +21803,7 @@
 0.0.0.0 bardzorozniacasiepolska.website
 0.0.0.0 barefootedenvy.com
 0.0.0.0 barefoottearworthy.com
+0.0.0.0 baremetrics.com
 0.0.0.0 baresi.xyz
 0.0.0.0 barfsmiaowpit.com
 0.0.0.0 bargain-buddy.net
@@ -33755,7 +33753,6 @@
 0.0.0.0 d806-us.api.decibelinsight.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d869381a42af33b.com
-0.0.0.0 d86ac31f6a.com
 0.0.0.0 d87.eu
 0.0.0.0 d8x.pl
 0.0.0.0 d9.99ddd.com
@@ -37758,7 +37755,6 @@
 0.0.0.0 e85440ec98f04725.com
 0.0.0.0 e89.friendfinder.com
 0.0.0.0 e8934fbbed0495.com
-0.0.0.0 e920300ea9783.com
 0.0.0.0 e94a941778d.com
 0.0.0.0 e9976b21f1b2775b.com
 0.0.0.0 e9c1khhwn4uf.com
@@ -77467,7 +77463,6 @@
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rlog.popin.cc
 0.0.0.0 rlomivunesqal.com
-0.0.0.0 rlu24.plmarek2
 0.0.0.0 rlylpl6k499y.ru
 0.0.0.0 rlyquantialarties.club
 0.0.0.0 rm-admin-demo.iovation.com
@@ -88901,6 +88896,7 @@
 0.0.0.0 t.eclick.vn
 0.0.0.0 t.effectivemeasure.net
 0.0.0.0 t.eloqua.com
+0.0.0.0 t.en25.com
 0.0.0.0 t.enbw.com
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.felmat.net
@@ -100048,7 +100044,6 @@
 0.0.0.0 www.59gt.cn
 0.0.0.0 www.5a8884f09e.e-kocyki.pl
 0.0.0.0 www.5aa8f31e2f5d.com
-0.0.0.0 www.5ac9af9fc8f.com
 0.0.0.0 www.5advertise.com
 0.0.0.0 www.5b45367340.natrasiekorzysci.pl
 0.0.0.0 www.5b5a93686577c13.com
@@ -100251,7 +100246,6 @@
 0.0.0.0 www.79k52baw2qa3.com
 0.0.0.0 www.79ucic4ss8.com
 0.0.0.0 www.79zgycmr.com
-0.0.0.0 www.7a228575ea8f.com
 0.0.0.0 www.7a6421ee67fdb0f660.com
 0.0.0.0 www.7adpower.com
 0.0.0.0 www.7art-screensavers.com
@@ -100458,7 +100452,6 @@
 0.0.0.0 www.94dwc.com
 0.0.0.0 www.94lm.com
 0.0.0.0 www.94nw.com
-0.0.0.0 www.951e8b9cd72.com
 0.0.0.0 www.9526s7bwd0.com
 0.0.0.0 www.95355db92d.e-kocyki.pl
 0.0.0.0 www.95558000.com
@@ -100663,7 +100656,6 @@
 0.0.0.0 www.abc-tax.jp
 0.0.0.0 www.abc.amaretto.xja.pl
 0.0.0.0 www.abc.prawo.link
-0.0.0.0 www.abc226c33d.com
 0.0.0.0 www.abcd.bg
 0.0.0.0 www.abcdietz.com
 0.0.0.0 www.abcdlm.com
@@ -102291,7 +102283,6 @@
 0.0.0.0 www.afshanthough.pro
 0.0.0.0 www.afterdownload.com
 0.0.0.0 www.afterdownloads.com
-0.0.0.0 www.aftlogonamuse.com
 0.0.0.0 www.afunnygames.com
 0.0.0.0 www.ag-agency.pl
 0.0.0.0 www.agaso.de
@@ -103423,7 +103414,6 @@
 0.0.0.0 www.arklighting.co
 0.0.0.0 www.arkonfinance.pl
 0.0.0.0 www.arkonziv.com
-0.0.0.0 www.arkzitfink.com
 0.0.0.0 www.arlento.pl
 0.0.0.0 www.armashair.site
 0.0.0.0 www.armaturehurt.com
@@ -104948,7 +104938,6 @@
 0.0.0.0 www.bolrookr.com
 0.0.0.0 www.bon-wow.co.pl
 0.0.0.0 www.bonares.pl
-0.0.0.0 www.bongacams.com
 0.0.0.0 www.bongacams7.com
 0.0.0.0 www.bonnetsrl.live
 0.0.0.0 www.bonpugubabo.gq
@@ -107719,7 +107708,6 @@
 0.0.0.0 www.d72gb9oukw3j.com
 0.0.0.0 www.d7gqsdo66itj3.cloudfront.net
 0.0.0.0 www.d869381a42af33b.com
-0.0.0.0 www.d86ac31f6a.com
 0.0.0.0 www.d87.eu
 0.0.0.0 www.d8x.pl
 0.0.0.0 www.d99sure.xyz
@@ -109240,7 +109228,6 @@
 0.0.0.0 www.e7e776c1a8bf677.com
 0.0.0.0 www.e85440ec98f04725.com
 0.0.0.0 www.e8934fbbed0495.com
-0.0.0.0 www.e920300ea9783.com
 0.0.0.0 www.e9976b21f1b2775b.com
 0.0.0.0 www.e9c1khhwn4uf.com
 0.0.0.0 www.e9kv7bhnzt.com
@@ -112987,7 +112974,6 @@
 0.0.0.0 www.harlot-patrol.com
 0.0.0.0 www.harmlesstacticalhonorable.com
 0.0.0.0 www.harmonyhollow.net
-0.0.0.0 www.harperglobea.com
 0.0.0.0 www.harrenmedia.com
 0.0.0.0 www.harridan.cc
 0.0.0.0 www.harry-thompson-pl.com
@@ -113167,7 +113153,6 @@
 0.0.0.0 www.henanfs.com
 0.0.0.0 www.henanlinyu.cn
 0.0.0.0 www.henderson.money-for-you-2021.ru
-0.0.0.0 www.hendersoncryptoa.com
 0.0.0.0 www.henduoqian.com
 0.0.0.0 www.henhaokanq.com
 0.0.0.0 www.hentaibiz.com
@@ -113511,7 +113496,6 @@
 0.0.0.0 www.hopeorganconstructive.com
 0.0.0.0 www.hopfeed.com
 0.0.0.0 www.hopilos.com
-0.0.0.0 www.hopkinsstocka.com
 0.0.0.0 www.hopster.com
 0.0.0.0 www.hoptopboy.com
 0.0.0.0 www.hor.orlninwest.pw
@@ -114836,7 +114820,6 @@
 0.0.0.0 www.intellilinks.com
 0.0.0.0 www.intellisuggest.com
 0.0.0.0 www.intellitxt.com
-0.0.0.0 www.intendalinetang.com
 0.0.0.0 www.intensifier.de
 0.0.0.0 www.intentanalysis.com
 0.0.0.0 www.intenthq.com
@@ -118779,7 +118762,6 @@
 0.0.0.0 www.monsterpops.com
 0.0.0.0 www.montacarichi.it
 0.0.0.0 www.monthlyindirectelsewhere.com
-0.0.0.0 www.monthtalctalk.com
 0.0.0.0 www.montrans.com.pl
 0.0.0.0 www.montrouge24.com
 0.0.0.0 www.monumentsmaterialeasel.com
@@ -119025,7 +119007,6 @@
 0.0.0.0 www.musiccounter.ru
 0.0.0.0 www.musicmass.com
 0.0.0.0 www.musicnote.info
-0.0.0.0 www.musicnote.soundcast.me
 0.0.0.0 www.musicrebuild.com
 0.0.0.0 www.musika.pl
 0.0.0.0 www.musikzoo.com
@@ -119981,7 +119962,6 @@
 0.0.0.0 www.nofreezingmac.work
 0.0.0.0 www.nogdec.com
 0.0.0.0 www.noibaivilinh.com
-0.0.0.0 www.noise1.xyz
 0.0.0.0 www.noiselesscatching.com
 0.0.0.0 www.nolix.ru
 0.0.0.0 www.nomadicbees.com
@@ -121455,7 +121435,6 @@
 0.0.0.0 www.onrunningbuty.com
 0.0.0.0 www.onsafelink.com
 0.0.0.0 www.onscroll.com
-0.0.0.0 www.onsideratio.fun
 0.0.0.0 www.onsitegold.com
 0.0.0.0 www.onsnv.com
 0.0.0.0 www.onthe.io
@@ -122635,7 +122614,6 @@
 0.0.0.0 www.pillscash.com
 0.0.0.0 www.pillsmoney.com
 0.0.0.0 www.pillyways.xyz
-0.0.0.0 www.pilotcleaning2007a.com
 0.0.0.0 www.pilotlow.org
 0.0.0.0 www.pilpey.net
 0.0.0.0 www.pimpout.com
@@ -124183,7 +124161,6 @@
 0.0.0.0 www.pumpkin.co.uk
 0.0.0.0 www.puna.pl
 0.0.0.0 www.punchdialogues.com
-0.0.0.0 www.punchpeasspat.com
 0.0.0.0 www.punctualbuzzerleaflet.com
 0.0.0.0 www.punishtube.com
 0.0.0.0 www.punjabdevelopersassociation.com.pk
@@ -125315,7 +125292,6 @@
 0.0.0.0 www.rlcdn.com
 0.0.0.0 www.rle.ru
 0.0.0.0 www.rlomivunesqal.com
-0.0.0.0 www.rlu24.plmarek2
 0.0.0.0 www.rlylpl6k499y.ru
 0.0.0.0 www.rmawm7mw.top
 0.0.0.0 www.rmbn.ru
@@ -126451,7 +126427,6 @@
 0.0.0.0 www.shopathome.com
 0.0.0.0 www.shopbakula.in
 0.0.0.0 www.shopblog.org
-0.0.0.0 www.shopcooka1a-tw1e.com
 0.0.0.0 www.shopilize.com
 0.0.0.0 www.shopine4.com
 0.0.0.0 www.shopnav.com
@@ -126572,7 +126547,6 @@
 0.0.0.0 www.silstop.pl
 0.0.0.0 www.silver-path.com
 0.0.0.0 www.silveragesoftware.com
-0.0.0.0 www.silverbucka.com
 0.0.0.0 www.silvercash.com
 0.0.0.0 www.silvermob.com
 0.0.0.0 www.silvets.pl
@@ -128813,7 +128787,6 @@
 0.0.0.0 www.tiktokclaim.eu
 0.0.0.0 www.tiktokclaim.org
 0.0.0.0 www.tiku.io
-0.0.0.0 www.tikva.site
 0.0.0.0 www.tilido.com
 0.0.0.0 www.tiller.co
 0.0.0.0 www.tilltucked.com
@@ -129575,7 +129548,6 @@
 0.0.0.0 www.trx625.com
 0.0.0.0 www.try9.com
 0.0.0.0 www.trybikowo.pl
-0.0.0.0 www.trycawoft.com
 0.0.0.0 www.trychologos.pl
 0.0.0.0 www.trymynewspirit.com
 0.0.0.0 www.trytipemo.com
@@ -130324,7 +130296,6 @@
 0.0.0.0 www.valuesponsor.com
 0.0.0.0 www.vamprog.site
 0.0.0.0 www.vanbenthem.org
-0.0.0.0 www.vancepipesa.com
 0.0.0.0 www.vandenberghider.plus.com
 0.0.0.0 www.vanderebony.pro
 0.0.0.0 www.vanderlisten.pro
@@ -130877,7 +130848,6 @@
 0.0.0.0 www.waarschijnlijk9.live
 0.0.0.0 www.wabs.pl
 0.0.0.0 www.wadcubkey.com
-0.0.0.0 www.waddlegrammind.com
 0.0.0.0 www.wafflesgenuine.com
 0.0.0.0 www.wafmedia6.com
 0.0.0.0 www.waframedia20.com
@@ -131552,7 +131522,6 @@
 0.0.0.0 www.wojdn.com
 0.0.0.0 www.wojiabaoye.com
 0.0.0.0 www.wojtekduda.pl
-0.0.0.0 www.wokcementaid.com
 0.0.0.0 www.wokekk.com
 0.0.0.0 www.wokfirsax.com
 0.0.0.0 www.wokm8isd4zit.com
