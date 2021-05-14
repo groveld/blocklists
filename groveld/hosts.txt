@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt
-# Entries: 137916
-# Updated: 2021-05-13 00:10:19 UTC
+# Entries: 137893
+# Updated: 2021-05-14 00:19:29 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -171,7 +171,6 @@
 0.0.0.0 0713bzksl.xyz
 0.0.0.0 0727vjdl.xyz
 0.0.0.0 0728w.cn
-0.0.0.0 0748d0112a4fb.com
 0.0.0.0 07634.com
 0.0.0.0 077.us
 0.0.0.0 0796gou.com
@@ -1877,7 +1876,6 @@
 0.0.0.0 300.hybriddistribution.dk
 0.0.0.0 30001.hittail.com
 0.0.0.0 300sk.com
-0.0.0.0 30104fd89dc.com
 0.0.0.0 30181.content.swrve.com
 0.0.0.0 301848.com
 0.0.0.0 3023083767.pomagaj-my.pl
@@ -17147,6 +17145,7 @@
 0.0.0.0 analytic.spamfighter.com
 0.0.0.0 analytic.surfline.com
 0.0.0.0 analytic.underarmour.com
+0.0.0.0 analyticacdn.com
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analyticdns.org
 0.0.0.0 analytics-api-samples.googlecode.com
@@ -41014,7 +41013,6 @@
 0.0.0.0 f18.adventori.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 f18a35cc33ee29a.com
-0.0.0.0 f18ea5c9f46a.com
 0.0.0.0 f19.adventori.com
 0.0.0.0 f1f60d2ef1a4ed.com
 0.0.0.0 f1sol.com
@@ -98371,6 +98369,7 @@
 0.0.0.0 wdcs.trendmicro.com
 0.0.0.0 wdeliv.net
 0.0.0.0 wdfhl.weidianyuedu.com
+0.0.0.0 wdfl.co
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
 0.0.0.0 wdm29.com
@@ -100204,7 +100203,6 @@
 0.0.0.0 www.060cde74e8.natrasiekorzysci.pl
 0.0.0.0 www.06f09b1008ae993a5a.com
 0.0.0.0 www.0728w.cn
-0.0.0.0 www.0748d0112a4fb.com
 0.0.0.0 www.07634.com
 0.0.0.0 www.0796gou.com
 0.0.0.0 www.080644.com
@@ -100713,7 +100711,6 @@
 0.0.0.0 www.30-day-change.com
 0.0.0.0 www.300.hybriddistribution.dk
 0.0.0.0 www.300sk.com
-0.0.0.0 www.30104fd89dc.com
 0.0.0.0 www.301848.com
 0.0.0.0 www.3023083767.pomagaj-my.pl
 0.0.0.0 www.302br.net
@@ -101360,7 +101357,6 @@
 0.0.0.0 www.800d24d61daea3c.com
 0.0.0.0 www.802b4bb54f0fc.com
 0.0.0.0 www.805m.com
-0.0.0.0 www.806360b129d126.com
 0.0.0.0 www.8092686a39ac5.com
 0.0.0.0 www.80juqing.com
 0.0.0.0 www.80sjw.com
@@ -103366,7 +103362,6 @@
 0.0.0.0 www.agipasesores.com
 0.0.0.0 www.agitazio.com
 0.0.0.0 www.agitmedia.com
-0.0.0.0 www.agjy6.com
 0.0.0.0 www.agkn.com
 0.0.0.0 www.agkxwjwutrhw.com
 0.0.0.0 www.aglai-tan.com
@@ -104009,7 +104004,6 @@
 0.0.0.0 www.amptylogick.com
 0.0.0.0 www.ampugi334f.com
 0.0.0.0 www.ampxchange.com
-0.0.0.0 www.amskitchen.com
 0.0.0.0 www.amt-k.ru
 0.0.0.0 www.amu-edu-pl.ew.r.appspot.com
 0.0.0.0 www.amuletlatemanagement.com
@@ -105403,7 +105397,6 @@
 0.0.0.0 www.berthgenerousheap.com
 0.0.0.0 www.berush.com
 0.0.0.0 www.berutiful.com
-0.0.0.0 www.berylconsultinglimited.org
 0.0.0.0 www.beserte.pro
 0.0.0.0 www.besguses.pro
 0.0.0.0 www.besiasmere.site
@@ -107264,7 +107257,6 @@
 0.0.0.0 www.chinaweian.com
 0.0.0.0 www.chinawms.cn
 0.0.0.0 www.chiptionics.co
-0.0.0.0 www.chirkacylal.com
 0.0.0.0 www.chitika.com
 0.0.0.0 www.chitika.net
 0.0.0.0 www.chitypyve.pro
@@ -108557,7 +108549,6 @@
 0.0.0.0 www.cumc-hmb.com
 0.0.0.0 www.cumgfzvm.com
 0.0.0.0 www.cumin.money-for-you-2021.ru
-0.0.0.0 www.cunninghamretailz.com
 0.0.0.0 www.cuntwars.com
 0.0.0.0 www.cuorl.top
 0.0.0.0 www.cuosdemakadi.gq
@@ -108756,7 +108747,6 @@
 0.0.0.0 www.d1thwulbxn5cod.cloudfront.net
 0.0.0.0 www.d1tk7i92ddxa0d.cloudfront.net
 0.0.0.0 www.d1ud788mmh5bcn.cloudfront.net
-0.0.0.0 www.d1upt0rqzff34l.cloudfront.net
 0.0.0.0 www.d1uydqzj7b9nt9.cloudfront.net
 0.0.0.0 www.d1v6js7bjzmhoa.cloudfront.net
 0.0.0.0 www.d1vh0xkmncek4z.cloudfront.net
@@ -109651,7 +109641,6 @@
 0.0.0.0 www.displaypagerank.com
 0.0.0.0 www.displayvertising.com
 0.0.0.0 www.displeasepawn.com
-0.0.0.0 www.disploot.com
 0.0.0.0 www.dispop.com
 0.0.0.0 www.disposalfourth.com
 0.0.0.0 www.disposecompere.com
@@ -110101,7 +110090,6 @@
 0.0.0.0 www.dreamrecord.cn
 0.0.0.0 www.dreamsearth.com
 0.0.0.0 www.dreamwoman-finder1.com
-0.0.0.0 www.dressmarket1998z.com
 0.0.0.0 www.dressuresl.top
 0.0.0.0 www.drew-ed.pl
 0.0.0.0 www.drexpol-modele.com.pl
@@ -111097,7 +111085,6 @@
 0.0.0.0 www.ethfw0370q.com
 0.0.0.0 www.ethicalads.io
 0.0.0.0 www.ethicel.com
-0.0.0.0 www.ethicsenriquezz.com
 0.0.0.0 www.ethikuma.link
 0.0.0.0 www.ethnarc.de
 0.0.0.0 www.ethnicafrique.com
@@ -111389,7 +111376,6 @@
 0.0.0.0 www.f1190.com
 0.0.0.0 www.f164c91eeb.natrasiekorzysci.pl
 0.0.0.0 www.f18a35cc33ee29a.com
-0.0.0.0 www.f18ea5c9f46a.com
 0.0.0.0 www.f1sol.com
 0.0.0.0 www.f1t5pb.cn
 0.0.0.0 www.f1tbit.com
@@ -114519,7 +114505,6 @@
 0.0.0.0 www.himselve.info
 0.0.0.0 www.himselves.com
 0.0.0.0 www.himselveseg.club
-0.0.0.0 www.hinfectlyb.biz
 0.0.0.0 www.hingefestivitysmelt.com
 0.0.0.0 www.hintonsfeetred.info
 0.0.0.0 www.hioeb.com
@@ -114869,7 +114854,6 @@
 0.0.0.0 www.hotplugins.com
 0.0.0.0 www.hotrank.com.tw
 0.0.0.0 www.hotranks.com
-0.0.0.0 www.hotrodsvmsize.casa
 0.0.0.0 www.hotspotshield.com
 0.0.0.0 www.hotstar.pubnub.net
 0.0.0.0 www.hotwebgirls.online
@@ -115589,7 +115573,6 @@
 0.0.0.0 www.infinite-ads.com
 0.0.0.0 www.infinityads.com
 0.0.0.0 www.infinityclass.net
-0.0.0.0 www.infinityglobaltrade.com
 0.0.0.0 www.inflationbreedinghoax.com
 0.0.0.0 www.inflationmileage.com
 0.0.0.0 www.influads.com
@@ -117225,7 +117208,6 @@
 0.0.0.0 www.kipoutch.net
 0.0.0.0 www.kipussy.com
 0.0.0.0 www.kirgeemo.com
-0.0.0.0 www.kirnscraps.com
 0.0.0.0 www.kirstenbijlsma.com
 0.0.0.0 www.kissdraft.com
 0.0.0.0 www.kissioncault.club
@@ -124455,7 +124437,6 @@
 0.0.0.0 www.polenboeller-deutschland.com
 0.0.0.0 www.polic.you2.pl
 0.0.0.0 www.police-info.dnsrobotuptime.ru
-0.0.0.0 www.policearellanoz.com
 0.0.0.0 www.policemanciderpeeks.com
 0.0.0.0 www.polichrom.pl
 0.0.0.0 www.policja24info.pl.d103wh.d2.cz
@@ -126547,7 +126528,6 @@
 0.0.0.0 www.richwebmedia.com
 0.0.0.0 www.rickparty.com
 0.0.0.0 www.rickrolling.com
-0.0.0.0 www.ricky-usb.com
 0.0.0.0 www.ricqo.com
 0.0.0.0 www.riddexpl1.com
 0.0.0.0 www.ridepush.com
@@ -126943,7 +126923,6 @@
 0.0.0.0 www.s2sterra.com
 0.0.0.0 www.s2wx75gol2m8.com
 0.0.0.0 www.s3network1.com
-0.0.0.0 www.s3solutions.ae
 0.0.0.0 www.s4yxaqyq95.com
 0.0.0.0 www.s5network1.com
 0.0.0.0 www.s5prou7ulr.com
@@ -130896,7 +130875,6 @@
 0.0.0.0 www.trmit.com
 0.0.0.0 www.trndsys.mobi
 0.0.0.0 www.trocado.at
-0.0.0.0 www.trodpigbays.com
 0.0.0.0 www.trofeum-zdobywamy.eu
 0.0.0.0 www.troki.com.co
 0.0.0.0 www.tropicalos.com
@@ -130986,7 +130964,6 @@
 0.0.0.0 www.ttspikbeglki.com
 0.0.0.0 www.ttwitter.com
 0.0.0.0 www.ttyvdilxsuorg.com
-0.0.0.0 www.ttzhongbao.com
 0.0.0.0 www.ttzmedia.com
 0.0.0.0 www.tu42het22n.com
 0.0.0.0 www.tuadica.com.br
