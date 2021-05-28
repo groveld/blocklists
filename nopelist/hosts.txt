@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 140111
-# Updated: 2021-05-27 00:17:04 UTC
+# Entries: 140056
+# Updated: 2021-05-28 00:17:42 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -1496,7 +1496,6 @@
 0.0.0.0 21c9a53484951.com
 0.0.0.0 21century-mp3.nu
 0.0.0.0 21doctor.ru
-0.0.0.0 21e4d2f6cae8ec.com
 0.0.0.0 21jewelry.com
 0.0.0.0 21kk.cc
 0.0.0.0 21sale.ru
@@ -1644,7 +1643,6 @@
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
 0.0.0.0 271395.com
-0.0.0.0 271b32e82a.com
 0.0.0.0 272xb.com
 0.0.0.0 273920d845b.com
 0.0.0.0 27460.hittail.com
@@ -2423,7 +2421,6 @@
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4bb6jls06l.com
 0.0.0.0 4beast.com
-0.0.0.0 4becef1fe953.com
 0.0.0.0 4biogas.de
 0.0.0.0 4bqs.com
 0.0.0.0 4c13cac4bb.com
@@ -2680,7 +2677,6 @@
 0.0.0.0 55995-519009.link.iwanttodeliver.com
 0.0.0.0 5599539b61.natrasiekorzysci.pl
 0.0.0.0 55d6000d6d.com
-0.0.0.0 55e593878c2d47.com
 0.0.0.0 55kk.tv
 0.0.0.0 5623.web-stats.org
 0.0.0.0 563015cf3d.com
@@ -3439,7 +3435,6 @@
 0.0.0.0 8959.hittail.com
 0.0.0.0 89h8.com
 0.0.0.0 89tmolir.top
-0.0.0.0 8a8b5511efbcc.com
 0.0.0.0 8ad.com
 0.0.0.0 8ao8ao.com
 0.0.0.0 8b0b17dc1f9f8010.com
@@ -4513,7 +4508,6 @@
 0.0.0.0 a8447843426.cdn-pci.optimizely.com
 0.0.0.0 a85.info
 0.0.0.0 a8507201684.cdn.optimizely.com
-0.0.0.0 a8569070d88.com
 0.0.0.0 a8571253058.cdn.optimizely.com
 0.0.0.0 a8780.actonservice.com
 0.0.0.0 a8a8altrk.com
@@ -21140,7 +21134,6 @@
 0.0.0.0 b1g1w7wic0.com
 0.0.0.0 b1n.carabins.umontreal.ca
 0.0.0.0 b2-data.ads.heytapmobi.com
-0.0.0.0 b23588fa72b90.com
 0.0.0.0 b24-m8zer1.bitrix24.site
 0.0.0.0 b2408e4e788280e.com
 0.0.0.0 b29f325f9383.com
@@ -26646,7 +26639,6 @@
 0.0.0.0 c43.statcounter.com
 0.0.0.0 c43a3cd8f99413891.com
 0.0.0.0 c45.statcounter.com
-0.0.0.0 c4553e72604f.com
 0.0.0.0 c46.statcounter.com
 0.0.0.0 c4cm.actonservice.com
 0.0.0.0 c4d-cdn.adcolony.com
@@ -26677,7 +26669,6 @@
 0.0.0.0 c7.statcounter.com
 0.0.0.0 c7.zedo.com
 0.0.0.0 c7.zxxds.net
-0.0.0.0 c709040c91.com
 0.0.0.0 c7d470df880b1d0.com
 0.0.0.0 c7e4d34b2afc3.com
 0.0.0.0 c7e58e2241.natrasiekorzysci.pl
@@ -36048,7 +36039,6 @@
 0.0.0.0 dh2xbuwg.com
 0.0.0.0 dh956.com
 0.0.0.0 dhads.net
-0.0.0.0 dharamdiwan.in
 0.0.0.0 dhauzja511.co.cc
 0.0.0.0 dhb8psqhvz9a.com
 0.0.0.0 dhc0r49tu1cem.cloudfront.net
@@ -38441,7 +38431,6 @@
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e3178dfde8.natrasiekorzysci.pl
 0.0.0.0 e331ff4e674c083.com
-0.0.0.0 e33ad94c801.com
 0.0.0.0 e347bb14dc71778.com
 0.0.0.0 e350570881272e.com
 0.0.0.0 e35fbf.t.axf8.net
@@ -78696,6 +78685,7 @@
 0.0.0.0 recommends.media.net
 0.0.0.0 recommendtent.xyz
 0.0.0.0 recommerdal.club
+0.0.0.0 reconditerake.com
 0.0.0.0 reconsiderportableself.com
 0.0.0.0 recontent.website
 0.0.0.0 record.affiliatelounge.com
@@ -101906,7 +101896,6 @@
 0.0.0.0 www.05qwmtwxa3ev.com
 0.0.0.0 www.05tz2e9.com
 0.0.0.0 www.060cde74e8.natrasiekorzysci.pl
-0.0.0.0 www.06156312c77.com
 0.0.0.0 www.06f09b1008ae993a5a.com
 0.0.0.0 www.0728w.cn
 0.0.0.0 www.07634.com
@@ -102227,7 +102216,6 @@
 0.0.0.0 www.21a3dd8ea39c0.com
 0.0.0.0 www.21c9a53484951.com
 0.0.0.0 www.21doctor.ru
-0.0.0.0 www.21e4d2f6cae8ec.com
 0.0.0.0 www.21sale.ru
 0.0.0.0 www.21sexturycash.com
 0.0.0.0 www.22-12-1.fun
@@ -102303,7 +102291,6 @@
 0.0.0.0 www.268mob.cn
 0.0.0.0 www.26f8f8c869.e-kocyki.pl
 0.0.0.0 www.271395.com
-0.0.0.0 www.271b32e82a.com
 0.0.0.0 www.272xb.com
 0.0.0.0 www.273920d845b.com
 0.0.0.0 www.277ryf6nabi0.com
@@ -102652,7 +102639,6 @@
 0.0.0.0 www.4b6994dfa47cee4.com
 0.0.0.0 www.4bb6jls06l.com
 0.0.0.0 www.4beast.com
-0.0.0.0 www.4becef1fe953.com
 0.0.0.0 www.4biogas.de
 0.0.0.0 www.4bqs.com
 0.0.0.0 www.4c935d6a244f.com
@@ -102777,7 +102763,6 @@
 0.0.0.0 www.5551895.com
 0.0.0.0 www.5551933.com
 0.0.0.0 www.5599539b61.natrasiekorzysci.pl
-0.0.0.0 www.55e593878c2d47.com
 0.0.0.0 www.55kk.tv
 0.0.0.0 www.56.com
 0.0.0.0 www.56bc7e3668e952c.com
@@ -102854,7 +102839,6 @@
 0.0.0.0 www.615b68cc9c8528e.com
 0.0.0.0 www.61739011039d41a.com
 0.0.0.0 www.6198399e4910e66-ovc.com
-0.0.0.0 www.61b2a5278e6383b.com
 0.0.0.0 www.61b50f2b935cbb6.com
 0.0.0.0 www.620c663bca9a4.com
 0.0.0.0 www.625c9289e60793.com
@@ -103122,7 +103106,6 @@
 0.0.0.0 www.892155.com
 0.0.0.0 www.89h8.com
 0.0.0.0 www.89tmolir.top
-0.0.0.0 www.8a8b5511efbcc.com
 0.0.0.0 www.8ao8ao.com
 0.0.0.0 www.8b0b17dc1f9f8010.com
 0.0.0.0 www.8baf7ae42000024.com
@@ -103316,7 +103299,6 @@
 0.0.0.0 www.a2sex.com
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.a2zgroup.in
-0.0.0.0 www.a31daecf420.com
 0.0.0.0 www.a337b163a0bc.com
 0.0.0.0 www.a33bb68b84b.com
 0.0.0.0 www.a353364ec1bd19a.com
@@ -103342,7 +103324,6 @@
 0.0.0.0 www.a7search.com
 0.0.0.0 www.a8.com
 0.0.0.0 www.a8.net
-0.0.0.0 www.a8569070d88.com
 0.0.0.0 www.a8rm1m4msbbh.com
 0.0.0.0 www.a9.com
 0.0.0.0 www.a907907.com
@@ -105686,7 +105667,6 @@
 0.0.0.0 www.amobil.online
 0.0.0.0 www.amonitalia.it
 0.0.0.0 www.amorebig.space
-0.0.0.0 www.amorphysp.fun
 0.0.0.0 www.amos524.org
 0.0.0.0 www.amospalla.es
 0.0.0.0 www.amournow.space
@@ -106306,7 +106286,6 @@
 0.0.0.0 www.assetize.com
 0.0.0.0 www.assignedlikecrawford.com
 0.0.0.0 www.assimilatesmartlyawfully.com
-0.0.0.0 www.assinei.online
 0.0.0.0 www.assoc-amazon.ca
 0.0.0.0 www.assoc-amazon.co.uk
 0.0.0.0 www.assoc-amazon.com
@@ -106604,9 +106583,7 @@
 0.0.0.0 www.b1fb813dc806b7d.com
 0.0.0.0 www.b1fe8a95ae27823.com
 0.0.0.0 www.b1g1w7wic0.com
-0.0.0.0 www.b23588fa72b90.com
 0.0.0.0 www.b24-m8zer1.bitrix24.site
-0.0.0.0 www.b2408e4e788280e.com
 0.0.0.0 www.b29f325f9383.com
 0.0.0.0 www.b2b2.su
 0.0.0.0 www.b2b5.net
@@ -107742,7 +107719,6 @@
 0.0.0.0 www.boca-capital.com
 0.0.0.0 www.bocahmlaku.com
 0.0.0.0 www.bodapet.com
-0.0.0.0 www.bodiedcer.biz
 0.0.0.0 www.bodog.eu
 0.0.0.0 www.bodyclick.net
 0.0.0.0 www.bodysecretrevelation.com
@@ -108270,7 +108246,6 @@
 0.0.0.0 www.bxjch.top
 0.0.0.0 www.bxmfuxxiqmw.com
 0.0.0.0 www.byagadget.com
-0.0.0.0 www.bycec.in
 0.0.0.0 www.bycixeba.com
 0.0.0.0 www.byckimsodzarazz.site
 0.0.0.0 www.bycmama-gabi.pl
@@ -108314,7 +108289,6 @@
 0.0.0.0 www.c360bf2a99.natrasiekorzysci.pl
 0.0.0.0 www.c39b126b5cec.ngrok.io
 0.0.0.0 www.c3t-system-err.club
-0.0.0.0 www.c4553e72604f.com
 0.0.0.0 www.c4dl.com
 0.0.0.0 www.c4tracking01.com
 0.0.0.0 www.c50021876c67fd14.com
@@ -108323,7 +108297,6 @@
 0.0.0.0 www.c59aec4577.e-kocyki.pl
 0.0.0.0 www.c5b39ff13b3259df.com
 0.0.0.0 www.c63d72a4022.com
-0.0.0.0 www.c709040c91.com
 0.0.0.0 www.c7d470df880b1d0.com
 0.0.0.0 www.c7e58e2241.natrasiekorzysci.pl
 0.0.0.0 www.c8.net.ua
@@ -110161,7 +110134,6 @@
 0.0.0.0 www.creepercurvaturedefenceless.com
 0.0.0.0 www.creoads.com
 0.0.0.0 www.crephorure.xyz
-0.0.0.0 www.crestfallenwall.com
 0.0.0.0 www.crevicedepressingpumpkin.com
 0.0.0.0 www.crglpt.com
 0.0.0.0 www.cripto-valuta.net
@@ -111232,7 +111204,6 @@
 0.0.0.0 www.dh2xbuwg.com
 0.0.0.0 www.dh956.com
 0.0.0.0 www.dhads.net
-0.0.0.0 www.dharamdiwan.in
 0.0.0.0 www.dhb8psqhvz9a.com
 0.0.0.0 www.dhc0r49tu1cem.cloudfront.net
 0.0.0.0 www.dhcouriers.com
@@ -112179,7 +112150,6 @@
 0.0.0.0 www.e2wysbacctt1.com
 0.0.0.0 www.e3178dfde8.natrasiekorzysci.pl
 0.0.0.0 www.e331ff4e674c083.com
-0.0.0.0 www.e33ad94c801.com
 0.0.0.0 www.e347bb14dc71778.com
 0.0.0.0 www.e350570881272e.com
 0.0.0.0 www.e376ef28103177cc.com
@@ -112332,7 +112302,6 @@
 0.0.0.0 www.ecoupons.com
 0.0.0.0 www.ecpmrocks.com
 0.0.0.0 www.ecpms.net
-0.0.0.0 www.ectoralmin.fun
 0.0.0.0 www.ecuc123.net
 0.0.0.0 www.ecurrenchoutliness.fun
 0.0.0.0 www.ed9wkbpy.com
@@ -113110,7 +113079,6 @@
 0.0.0.0 www.exponderle.pro
 0.0.0.0 www.exponea.com
 0.0.0.0 www.exponential.com
-0.0.0.0 www.exporder-patuility.com
 0.0.0.0 www.expoteam.net
 0.0.0.0 www.expresovo.com
 0.0.0.0 www.express-delivery.pl
@@ -115227,7 +115195,6 @@
 0.0.0.0 www.gld35wndkn.com
 0.0.0.0 www.gldsta-02-or.com
 0.0.0.0 www.gleambeverleydominate.com
-0.0.0.0 www.glendalefood.org
 0.0.0.0 www.glenprejudice.com
 0.0.0.0 www.glganltcs.space
 0.0.0.0 www.glgelevator.com
@@ -116704,7 +116671,6 @@
 0.0.0.0 www.houghtdespe.fun
 0.0.0.0 www.hougonw.com
 0.0.0.0 www.housedropdeals.com
-0.0.0.0 www.housejomadkc.com
 0.0.0.0 www.housekeeperjavelin.com
 0.0.0.0 www.houseofparvi.com
 0.0.0.0 www.houstonshutters.site
@@ -118261,7 +118227,6 @@
 0.0.0.0 www.iwiz-dom.com
 0.0.0.0 www.iws.ro
 0.0.0.0 www.iwstats.com
-0.0.0.0 www.ixcris.com
 0.0.0.0 www.ixnp.com
 0.0.0.0 www.iy14s.doctorlights.com
 0.0.0.0 www.iy8yhpmgrcpwkcvh.pro
@@ -120379,7 +120344,6 @@
 0.0.0.0 www.lootynews.com
 0.0.0.0 www.lop.com
 0.0.0.0 www.lope4refl.com
-0.0.0.0 www.lopezcoinz.com
 0.0.0.0 www.lopfly.com
 0.0.0.0 www.lophaszip.com
 0.0.0.0 www.lopon.pl
@@ -120431,7 +120395,6 @@
 0.0.0.0 www.lovefreegames.com
 0.0.0.0 www.lovelocator.space
 0.0.0.0 www.lovelocatornow.space
-0.0.0.0 www.lovelybingo.com
 0.0.0.0 www.loveme.cam
 0.0.0.0 www.lovemorelove.space
 0.0.0.0 www.lovemydress.pl
@@ -121962,7 +121925,6 @@
 0.0.0.0 www.monsterpops.com
 0.0.0.0 www.montacarichi.it
 0.0.0.0 www.monthlyindirectelsewhere.com
-0.0.0.0 www.montpdp.top
 0.0.0.0 www.montrans.com.pl
 0.0.0.0 www.montrouge24.com
 0.0.0.0 www.monumentsmaterialeasel.com
@@ -122134,7 +122096,6 @@
 0.0.0.0 www.mrksys.com
 0.0.0.0 www.mrs-charming4.com
 0.0.0.0 www.mrskincash.com
-0.0.0.0 www.mrvio.com
 0.0.0.0 www.ms-gatewayapp.com
 0.0.0.0 www.ms-home-live.com
 0.0.0.0 www.ms-mvp.org
@@ -122657,7 +122618,6 @@
 0.0.0.0 www.naukaunlimited.pl
 0.0.0.0 www.naukowcydlaniepodleglej.pl
 0.0.0.0 www.nav-links.com
-0.0.0.0 www.navarrorentalsz.com
 0.0.0.0 www.navaxudoru.com
 0.0.0.0 www.navdmp.com
 0.0.0.0 www.navi-esport.com
@@ -123599,7 +123559,6 @@
 0.0.0.0 www.oei1.gq
 0.0.0.0 www.oemtop.com
 0.0.0.0 www.oende.cn
-0.0.0.0 www.oesfriences.fun
 0.0.0.0 www.oewa.at
 0.0.0.0 www.oewabox.at
 0.0.0.0 www.oezto.com
@@ -124485,7 +124444,6 @@
 0.0.0.0 www.omatri.info
 0.0.0.0 www.omclick.com
 0.0.0.0 www.omdlenie.icu
-0.0.0.0 www.omedcam.biz
 0.0.0.0 www.omega.az
 0.0.0.0 www.omega.best
 0.0.0.0 www.omgpm.com
@@ -126263,7 +126221,6 @@
 0.0.0.0 www.po.fyybox.com
 0.0.0.0 www.poacawhe.net
 0.0.0.0 www.poagloqzhis.info
-0.0.0.0 www.poasotha.com
 0.0.0.0 www.pobieracz.com.pl
 0.0.0.0 www.pobieralnia.com.pl
 0.0.0.0 www.pobierz-ebook.pl
@@ -129103,7 +129060,6 @@
 0.0.0.0 www.samuraibangalore.com
 0.0.0.0 www.samuraiclick.com
 0.0.0.0 www.samxtrade.com
-0.0.0.0 www.samyarct.top
 0.0.0.0 www.sanalreklam.com
 0.0.0.0 www.sanantonioss.info
 0.0.0.0 www.sancang-movies.com
@@ -129140,7 +129096,6 @@
 0.0.0.0 www.sarcasticlinezomby.com
 0.0.0.0 www.sarditemp.com
 0.0.0.0 www.sardynka.site
-0.0.0.0 www.sarfrajkhan.in
 0.0.0.0 www.sarge05.plus.com
 0.0.0.0 www.sarl-entrain.fr
 0.0.0.0 www.sas-eforiakon.gr
@@ -129377,7 +129332,6 @@
 0.0.0.0 www.secureclickers.com
 0.0.0.0 www.securecloud-dt.com
 0.0.0.0 www.securecloud-smart.com
-0.0.0.0 www.securecnd.com
 0.0.0.0 www.securecontactinfo.com
 0.0.0.0 www.securecontentssl.com
 0.0.0.0 www.secureeavesdroppingdisguised.com
@@ -131065,7 +131019,6 @@
 0.0.0.0 www.stotom.pl
 0.0.0.0 www.stoutlionslick.com
 0.0.0.0 www.stoutoffering.com
-0.0.0.0 www.stovoori.net
 0.0.0.0 www.str1kee.com
 0.0.0.0 www.strainemergency.com
 0.0.0.0 www.straitreedanimated.com
@@ -131711,7 +131664,6 @@
 0.0.0.0 www.tarlifting.com
 0.0.0.0 www.tarocardsfornoobs.top
 0.0.0.0 www.tarravalleyfoods.com.au
-0.0.0.0 www.tarsuscaul.com
 0.0.0.0 www.tassa.fi
 0.0.0.0 www.tasteddeceived.com
 0.0.0.0 www.tastedisparitychecking.com
@@ -132303,7 +132255,6 @@
 0.0.0.0 www.tirrevealsdi.fun
 0.0.0.0 www.tiser.com
 0.0.0.0 www.tisls.com
-0.0.0.0 www.tisttropolic.biz
 0.0.0.0 www.titan-gel-extra.com
 0.0.0.0 www.titan-man.pro
 0.0.0.0 www.titanads1.com
@@ -132366,7 +132317,6 @@
 0.0.0.0 www.tncomg.com
 0.0.0.0 www.tncred.com
 0.0.0.0 www.tnctrx.com
-0.0.0.0 www.tneca.com
 0.0.0.0 www.tnf-pl.com
 0.0.0.0 www.tnfclothed.top
 0.0.0.0 www.tngmn.com
@@ -132562,7 +132512,6 @@
 0.0.0.0 www.topsiteuri.ro
 0.0.0.0 www.topstats.com
 0.0.0.0 www.toptarotist.nl
-0.0.0.0 www.toptavi.com
 0.0.0.0 www.toptracker.ru
 0.0.0.0 www.toptravel10.com
 0.0.0.0 www.toptypeonlinetheclicks.icu
@@ -133188,7 +133137,6 @@
 0.0.0.0 www.twik.io
 0.0.0.0 www.twiktter.com
 0.0.0.0 www.twilight-pointed-plant.glitch.me
-0.0.0.0 www.twinadsrv.com
 0.0.0.0 www.twinhousejogja.com
 0.0.0.0 www.twinpinenetwork.com
 0.0.0.0 www.twinplan.com
@@ -133875,7 +133823,6 @@
 0.0.0.0 www.vedangconsultancy.com
 0.0.0.0 www.vedeh.com
 0.0.0.0 www.veely.com
-0.0.0.0 www.veesboost.com
 0.0.0.0 www.veeseo.com
 0.0.0.0 www.vegadelcasero.cl
 0.0.0.0 www.vegas-redirect.com
@@ -133932,7 +133879,6 @@
 0.0.0.0 www.verkoopmenu.nl
 0.0.0.0 www.verlinkid.link
 0.0.0.0 www.verneblade.blogspot.com
-0.0.0.0 www.verotezzz.com
 0.0.0.0 www.veroui.com
 0.0.0.0 www.versacesklep.com
 0.0.0.0 www.versahq.com
@@ -134810,7 +134756,6 @@
 0.0.0.0 www.whizstats.com
 0.0.0.0 www.whizzco.com
 0.0.0.0 www.whoisonline.net
-0.0.0.0 www.wholecommonposts.com
 0.0.0.0 www.wholefreshposts.com
 0.0.0.0 www.wholesaletraffic.info
 0.0.0.0 www.wholesomeindians.com

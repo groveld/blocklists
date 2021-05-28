@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/adblocker.txt
-! Entries: 140113
-! Updated: 2021-05-27 00:16:48 UTC
+! Entries: 140058
+! Updated: 2021-05-28 00:17:32 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -1496,7 +1496,6 @@
 ||21c9a53484951.com^
 ||21century-mp3.nu^
 ||21doctor.ru^
-||21e4d2f6cae8ec.com^
 ||21jewelry.com^
 ||21kk.cc^
 ||21sale.ru^
@@ -1644,7 +1643,6 @@
 ||2712.api.swrve.com^
 ||2712.content.swrve.com^
 ||271395.com^
-||271b32e82a.com^
 ||272xb.com^
 ||273920d845b.com^
 ||27460.hittail.com^
@@ -2423,7 +2421,6 @@
 ||4b6994dfa47cee4.com^
 ||4bb6jls06l.com^
 ||4beast.com^
-||4becef1fe953.com^
 ||4biogas.de^
 ||4bqs.com^
 ||4c13cac4bb.com^
@@ -2680,7 +2677,6 @@
 ||55995-519009.link.iwanttodeliver.com^
 ||5599539b61.natrasiekorzysci.pl^
 ||55d6000d6d.com^
-||55e593878c2d47.com^
 ||55kk.tv^
 ||5623.web-stats.org^
 ||563015cf3d.com^
@@ -3439,7 +3435,6 @@
 ||8959.hittail.com^
 ||89h8.com^
 ||89tmolir.top^
-||8a8b5511efbcc.com^
 ||8ad.com^
 ||8ao8ao.com^
 ||8b0b17dc1f9f8010.com^
@@ -4513,7 +4508,6 @@
 ||a8447843426.cdn-pci.optimizely.com^
 ||a85.info^
 ||a8507201684.cdn.optimizely.com^
-||a8569070d88.com^
 ||a8571253058.cdn.optimizely.com^
 ||a8780.actonservice.com^
 ||a8a8altrk.com^
@@ -21140,7 +21134,6 @@
 ||b1g1w7wic0.com^
 ||b1n.carabins.umontreal.ca^
 ||b2-data.ads.heytapmobi.com^
-||b23588fa72b90.com^
 ||b24-m8zer1.bitrix24.site^
 ||b2408e4e788280e.com^
 ||b29f325f9383.com^
@@ -26646,7 +26639,6 @@
 ||c43.statcounter.com^
 ||c43a3cd8f99413891.com^
 ||c45.statcounter.com^
-||c4553e72604f.com^
 ||c46.statcounter.com^
 ||c4cm.actonservice.com^
 ||c4d-cdn.adcolony.com^
@@ -26677,7 +26669,6 @@
 ||c7.statcounter.com^
 ||c7.zedo.com^
 ||c7.zxxds.net^
-||c709040c91.com^
 ||c7d470df880b1d0.com^
 ||c7e4d34b2afc3.com^
 ||c7e58e2241.natrasiekorzysci.pl^
@@ -36048,7 +36039,6 @@
 ||dh2xbuwg.com^
 ||dh956.com^
 ||dhads.net^
-||dharamdiwan.in^
 ||dhauzja511.co.cc^
 ||dhb8psqhvz9a.com^
 ||dhc0r49tu1cem.cloudfront.net^
@@ -38441,7 +38431,6 @@
 ||e3.adpushup.com^
 ||e3178dfde8.natrasiekorzysci.pl^
 ||e331ff4e674c083.com^
-||e33ad94c801.com^
 ||e347bb14dc71778.com^
 ||e350570881272e.com^
 ||e35fbf.t.axf8.net^
@@ -78697,6 +78686,7 @@
 ||recommends.media.net^
 ||recommendtent.xyz^
 ||recommerdal.club^
+||reconditerake.com^
 ||reconsiderportableself.com^
 ||recontent.website^
 ||record.affiliatelounge.com^
@@ -101907,7 +101897,6 @@
 ||www.05qwmtwxa3ev.com^
 ||www.05tz2e9.com^
 ||www.060cde74e8.natrasiekorzysci.pl^
-||www.06156312c77.com^
 ||www.06f09b1008ae993a5a.com^
 ||www.0728w.cn^
 ||www.07634.com^
@@ -102228,7 +102217,6 @@
 ||www.21a3dd8ea39c0.com^
 ||www.21c9a53484951.com^
 ||www.21doctor.ru^
-||www.21e4d2f6cae8ec.com^
 ||www.21sale.ru^
 ||www.21sexturycash.com^
 ||www.22-12-1.fun^
@@ -102304,7 +102292,6 @@
 ||www.268mob.cn^
 ||www.26f8f8c869.e-kocyki.pl^
 ||www.271395.com^
-||www.271b32e82a.com^
 ||www.272xb.com^
 ||www.273920d845b.com^
 ||www.277ryf6nabi0.com^
@@ -102653,7 +102640,6 @@
 ||www.4b6994dfa47cee4.com^
 ||www.4bb6jls06l.com^
 ||www.4beast.com^
-||www.4becef1fe953.com^
 ||www.4biogas.de^
 ||www.4bqs.com^
 ||www.4c935d6a244f.com^
@@ -102778,7 +102764,6 @@
 ||www.5551895.com^
 ||www.5551933.com^
 ||www.5599539b61.natrasiekorzysci.pl^
-||www.55e593878c2d47.com^
 ||www.55kk.tv^
 ||www.56.com^
 ||www.56bc7e3668e952c.com^
@@ -102855,7 +102840,6 @@
 ||www.615b68cc9c8528e.com^
 ||www.61739011039d41a.com^
 ||www.6198399e4910e66-ovc.com^
-||www.61b2a5278e6383b.com^
 ||www.61b50f2b935cbb6.com^
 ||www.620c663bca9a4.com^
 ||www.625c9289e60793.com^
@@ -103123,7 +103107,6 @@
 ||www.892155.com^
 ||www.89h8.com^
 ||www.89tmolir.top^
-||www.8a8b5511efbcc.com^
 ||www.8ao8ao.com^
 ||www.8b0b17dc1f9f8010.com^
 ||www.8baf7ae42000024.com^
@@ -103317,7 +103300,6 @@
 ||www.a2sex.com^
 ||www.a2uu36g43l.download^
 ||www.a2zgroup.in^
-||www.a31daecf420.com^
 ||www.a337b163a0bc.com^
 ||www.a33bb68b84b.com^
 ||www.a353364ec1bd19a.com^
@@ -103343,7 +103325,6 @@
 ||www.a7search.com^
 ||www.a8.com^
 ||www.a8.net^
-||www.a8569070d88.com^
 ||www.a8rm1m4msbbh.com^
 ||www.a9.com^
 ||www.a907907.com^
@@ -105687,7 +105668,6 @@
 ||www.amobil.online^
 ||www.amonitalia.it^
 ||www.amorebig.space^
-||www.amorphysp.fun^
 ||www.amos524.org^
 ||www.amospalla.es^
 ||www.amournow.space^
@@ -106307,7 +106287,6 @@
 ||www.assetize.com^
 ||www.assignedlikecrawford.com^
 ||www.assimilatesmartlyawfully.com^
-||www.assinei.online^
 ||www.assoc-amazon.ca^
 ||www.assoc-amazon.co.uk^
 ||www.assoc-amazon.com^
@@ -106605,9 +106584,7 @@
 ||www.b1fb813dc806b7d.com^
 ||www.b1fe8a95ae27823.com^
 ||www.b1g1w7wic0.com^
-||www.b23588fa72b90.com^
 ||www.b24-m8zer1.bitrix24.site^
-||www.b2408e4e788280e.com^
 ||www.b29f325f9383.com^
 ||www.b2b2.su^
 ||www.b2b5.net^
@@ -107743,7 +107720,6 @@
 ||www.boca-capital.com^
 ||www.bocahmlaku.com^
 ||www.bodapet.com^
-||www.bodiedcer.biz^
 ||www.bodog.eu^
 ||www.bodyclick.net^
 ||www.bodysecretrevelation.com^
@@ -108271,7 +108247,6 @@
 ||www.bxjch.top^
 ||www.bxmfuxxiqmw.com^
 ||www.byagadget.com^
-||www.bycec.in^
 ||www.bycixeba.com^
 ||www.byckimsodzarazz.site^
 ||www.bycmama-gabi.pl^
@@ -108315,7 +108290,6 @@
 ||www.c360bf2a99.natrasiekorzysci.pl^
 ||www.c39b126b5cec.ngrok.io^
 ||www.c3t-system-err.club^
-||www.c4553e72604f.com^
 ||www.c4dl.com^
 ||www.c4tracking01.com^
 ||www.c50021876c67fd14.com^
@@ -108324,7 +108298,6 @@
 ||www.c59aec4577.e-kocyki.pl^
 ||www.c5b39ff13b3259df.com^
 ||www.c63d72a4022.com^
-||www.c709040c91.com^
 ||www.c7d470df880b1d0.com^
 ||www.c7e58e2241.natrasiekorzysci.pl^
 ||www.c8.net.ua^
@@ -110162,7 +110135,6 @@
 ||www.creepercurvaturedefenceless.com^
 ||www.creoads.com^
 ||www.crephorure.xyz^
-||www.crestfallenwall.com^
 ||www.crevicedepressingpumpkin.com^
 ||www.crglpt.com^
 ||www.cripto-valuta.net^
@@ -111233,7 +111205,6 @@
 ||www.dh2xbuwg.com^
 ||www.dh956.com^
 ||www.dhads.net^
-||www.dharamdiwan.in^
 ||www.dhb8psqhvz9a.com^
 ||www.dhc0r49tu1cem.cloudfront.net^
 ||www.dhcouriers.com^
@@ -112180,7 +112151,6 @@
 ||www.e2wysbacctt1.com^
 ||www.e3178dfde8.natrasiekorzysci.pl^
 ||www.e331ff4e674c083.com^
-||www.e33ad94c801.com^
 ||www.e347bb14dc71778.com^
 ||www.e350570881272e.com^
 ||www.e376ef28103177cc.com^
@@ -112333,7 +112303,6 @@
 ||www.ecoupons.com^
 ||www.ecpmrocks.com^
 ||www.ecpms.net^
-||www.ectoralmin.fun^
 ||www.ecuc123.net^
 ||www.ecurrenchoutliness.fun^
 ||www.ed9wkbpy.com^
@@ -113111,7 +113080,6 @@
 ||www.exponderle.pro^
 ||www.exponea.com^
 ||www.exponential.com^
-||www.exporder-patuility.com^
 ||www.expoteam.net^
 ||www.expresovo.com^
 ||www.express-delivery.pl^
@@ -115228,7 +115196,6 @@
 ||www.gld35wndkn.com^
 ||www.gldsta-02-or.com^
 ||www.gleambeverleydominate.com^
-||www.glendalefood.org^
 ||www.glenprejudice.com^
 ||www.glganltcs.space^
 ||www.glgelevator.com^
@@ -116706,7 +116673,6 @@
 ||www.houghtdespe.fun^
 ||www.hougonw.com^
 ||www.housedropdeals.com^
-||www.housejomadkc.com^
 ||www.housekeeperjavelin.com^
 ||www.houseofparvi.com^
 ||www.houstonshutters.site^
@@ -118263,7 +118229,6 @@
 ||www.iwiz-dom.com^
 ||www.iws.ro^
 ||www.iwstats.com^
-||www.ixcris.com^
 ||www.ixnp.com^
 ||www.iy14s.doctorlights.com^
 ||www.iy8yhpmgrcpwkcvh.pro^
@@ -120381,7 +120346,6 @@
 ||www.lootynews.com^
 ||www.lop.com^
 ||www.lope4refl.com^
-||www.lopezcoinz.com^
 ||www.lopfly.com^
 ||www.lophaszip.com^
 ||www.lopon.pl^
@@ -120433,7 +120397,6 @@
 ||www.lovefreegames.com^
 ||www.lovelocator.space^
 ||www.lovelocatornow.space^
-||www.lovelybingo.com^
 ||www.loveme.cam^
 ||www.lovemorelove.space^
 ||www.lovemydress.pl^
@@ -121964,7 +121927,6 @@
 ||www.monsterpops.com^
 ||www.montacarichi.it^
 ||www.monthlyindirectelsewhere.com^
-||www.montpdp.top^
 ||www.montrans.com.pl^
 ||www.montrouge24.com^
 ||www.monumentsmaterialeasel.com^
@@ -122136,7 +122098,6 @@
 ||www.mrksys.com^
 ||www.mrs-charming4.com^
 ||www.mrskincash.com^
-||www.mrvio.com^
 ||www.ms-gatewayapp.com^
 ||www.ms-home-live.com^
 ||www.ms-mvp.org^
@@ -122659,7 +122620,6 @@
 ||www.naukaunlimited.pl^
 ||www.naukowcydlaniepodleglej.pl^
 ||www.nav-links.com^
-||www.navarrorentalsz.com^
 ||www.navaxudoru.com^
 ||www.navdmp.com^
 ||www.navi-esport.com^
@@ -123601,7 +123561,6 @@
 ||www.oei1.gq^
 ||www.oemtop.com^
 ||www.oende.cn^
-||www.oesfriences.fun^
 ||www.oewa.at^
 ||www.oewabox.at^
 ||www.oezto.com^
@@ -124487,7 +124446,6 @@
 ||www.omatri.info^
 ||www.omclick.com^
 ||www.omdlenie.icu^
-||www.omedcam.biz^
 ||www.omega.az^
 ||www.omega.best^
 ||www.omgpm.com^
@@ -126265,7 +126223,6 @@
 ||www.po.fyybox.com^
 ||www.poacawhe.net^
 ||www.poagloqzhis.info^
-||www.poasotha.com^
 ||www.pobieracz.com.pl^
 ||www.pobieralnia.com.pl^
 ||www.pobierz-ebook.pl^
@@ -129105,7 +129062,6 @@
 ||www.samuraibangalore.com^
 ||www.samuraiclick.com^
 ||www.samxtrade.com^
-||www.samyarct.top^
 ||www.sanalreklam.com^
 ||www.sanantonioss.info^
 ||www.sancang-movies.com^
@@ -129142,7 +129098,6 @@
 ||www.sarcasticlinezomby.com^
 ||www.sarditemp.com^
 ||www.sardynka.site^
-||www.sarfrajkhan.in^
 ||www.sarge05.plus.com^
 ||www.sarl-entrain.fr^
 ||www.sas-eforiakon.gr^
@@ -129379,7 +129334,6 @@
 ||www.secureclickers.com^
 ||www.securecloud-dt.com^
 ||www.securecloud-smart.com^
-||www.securecnd.com^
 ||www.securecontactinfo.com^
 ||www.securecontentssl.com^
 ||www.secureeavesdroppingdisguised.com^
@@ -131067,7 +131021,6 @@
 ||www.stotom.pl^
 ||www.stoutlionslick.com^
 ||www.stoutoffering.com^
-||www.stovoori.net^
 ||www.str1kee.com^
 ||www.strainemergency.com^
 ||www.straitreedanimated.com^
@@ -131713,7 +131666,6 @@
 ||www.tarlifting.com^
 ||www.tarocardsfornoobs.top^
 ||www.tarravalleyfoods.com.au^
-||www.tarsuscaul.com^
 ||www.tassa.fi^
 ||www.tasteddeceived.com^
 ||www.tastedisparitychecking.com^
@@ -132305,7 +132257,6 @@
 ||www.tirrevealsdi.fun^
 ||www.tiser.com^
 ||www.tisls.com^
-||www.tisttropolic.biz^
 ||www.titan-gel-extra.com^
 ||www.titan-man.pro^
 ||www.titanads1.com^
@@ -132368,7 +132319,6 @@
 ||www.tncomg.com^
 ||www.tncred.com^
 ||www.tnctrx.com^
-||www.tneca.com^
 ||www.tnf-pl.com^
 ||www.tnfclothed.top^
 ||www.tngmn.com^
@@ -132564,7 +132514,6 @@
 ||www.topsiteuri.ro^
 ||www.topstats.com^
 ||www.toptarotist.nl^
-||www.toptavi.com^
 ||www.toptracker.ru^
 ||www.toptravel10.com^
 ||www.toptypeonlinetheclicks.icu^
@@ -133190,7 +133139,6 @@
 ||www.twik.io^
 ||www.twiktter.com^
 ||www.twilight-pointed-plant.glitch.me^
-||www.twinadsrv.com^
 ||www.twinhousejogja.com^
 ||www.twinpinenetwork.com^
 ||www.twinplan.com^
@@ -133877,7 +133825,6 @@
 ||www.vedangconsultancy.com^
 ||www.vedeh.com^
 ||www.veely.com^
-||www.veesboost.com^
 ||www.veeseo.com^
 ||www.vegadelcasero.cl^
 ||www.vegas-redirect.com^
@@ -133934,7 +133881,6 @@
 ||www.verkoopmenu.nl^
 ||www.verlinkid.link^
 ||www.verneblade.blogspot.com^
-||www.verotezzz.com^
 ||www.veroui.com^
 ||www.versacesklep.com^
 ||www.versahq.com^
@@ -134812,7 +134758,6 @@
 ||www.whizstats.com^
 ||www.whizzco.com^
 ||www.whoisonline.net^
-||www.wholecommonposts.com^
 ||www.wholefreshposts.com^
 ||www.wholesaletraffic.info^
 ||www.wholesomeindians.com^
