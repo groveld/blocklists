@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt
-! Entries: 139926
-! Updated: 2021-06-01 00:29:55 UTC
+! Entries: 139928
+! Updated: 2021-06-02 00:28:32 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -840,6 +840,7 @@
 ||165a7c15380874ef3.com^
 ||166f.com^
 ||167126.engine.mobileapptracking.com^
+||167154.engine.mobileapptracking.com^
 ||16755.dialer.lincassa.com^
 ||1680go.com^
 ||1681.engine.mobileapptracking.com^
@@ -856,6 +857,7 @@
 ||17.huanqiu.com^
 ||17.sharedsource.org^
 ||17003124.xyz^
+||17058.engine.mobileapptracking.com^
 ||17067.dialer.lincassa.com^
 ||170yy.com^
 ||1711811.com^
@@ -863,11 +865,13 @@
 ||175038.engine.mobileapptracking.com^
 ||175486656a.parafia-krzymow.pl^
 ||175bar.com^
+||176232.engine.mobileapptracking.com^
 ||176um.com^
 ||1770a379d2.com^
 ||177o.com^
 ||1782.engine.mobileapptracking.com^
 ||1784tli497ys.com^
+||178852.engine.mobileapptracking.com^
 ||178bx.cn^
 ||17908.engine.mobileapptracking.com^
 ||17chezhan.com^
@@ -883,6 +887,7 @@
 ||18.afs.googleadservices.com^
 ||18.sharedsource.org^
 ||1800.stats.misstrends.com^
+||180642.engine.mobileapptracking.com^
 ||1809175.na397463.web.hosting-test.net^
 ||1809176.kb397464.web.hosting-test.net^
 ||1809798.sy397546.web.hosting-test.net^
@@ -905,6 +910,7 @@
 ||189-211-177-171.static.axtel.net^
 ||189358.engine.mobileapptracking.com^
 ||189850.engine.mobileapptracking.com^
+||189904.engine.mobileapptracking.com^
 ||189983.engine.mobileapptracking.com^
 ||189zx.com^
 ||18clicks.com^
@@ -934,21 +940,26 @@
 ||192.168.112.2o7.net^
 ||192.168.122.2o7.net^
 ||192.com^
+||192569.engine.mobileapptracking.com^
+||192834.engine.mobileapptracking.com^
 ||192b1a49d57.com^
 ||193.net.daraz.com^
 ||1933611911.findprofile.net.pl^
 ||194192.engine.mobileapptracking.com^
 ||194792.engine.mobileapptracking.com^
+||194985.engine.mobileapptracking.com^
 ||19500.hittail.com^
 ||19533.hittail.com^
 ||1955dcb2fee1a13.com^
 ||1956.api.swrve.com^
 ||1956.content.swrve.com^
 ||195724.engine.mobileapptracking.com^
+||19588.engine.mobileapptracking.com^
 ||196f25ce95a.com^
 ||198-58-119-23.cprapid.com^
 ||1983c499735.com^
 ||198935.engine.mobileapptracking.com^
+||199107.engine.mobileapptracking.com^
 ||199109.engine.mobileapptracking.com^
 ||1999019.com^
 ||199b8977fc.com^
@@ -2618,6 +2629,7 @@
 ||506.xg4ken.com^
 ||5081.site^
 ||508ec56533e3937e.com^
+||5094.engine.mobileapptracking.com^
 ||50cents.com^
 ||50centstreetkingimmortal.com^
 ||50dollargiftcard.com^
@@ -2656,7 +2668,6 @@
 ||520meirenyu.com^
 ||5241.it^
 ||5269120.com^
-||526f81c32d.com^
 ||529collegesaving.com^
 ||52b7d78514f3cb9d.com^
 ||52ddc254575a.com^
@@ -3414,6 +3425,7 @@
 ||85wa.cn^
 ||85yvarcbovwp.com^
 ||860010.com^
+||8604.engine.mobileapptracking.com^
 ||8628moa8i6qz.com^
 ||8696.engine.mobileapptracking.com^
 ||86a6b542l7.com^
@@ -6064,7 +6076,6 @@
 ||ad.kisscartoon.ac^
 ||ad.kisscartoon.is^
 ||ad.kisscartoon.su^
-||ad.kisstvshow^
 ||ad.koreadaily.com^
 ||ad.kr.doubleclick.net^
 ||ad.krutilka.ru^
@@ -49893,6 +49904,7 @@
 ||hswmedia.122.2o7.net^
 ||hsych.com^
 ||hsyjxzl.cn^
+||ht-cdn2.adtng.com^
 ||ht-srl.com^
 ||ht.adups.com^
 ||ht.alcmpn.com^
@@ -56104,6 +56116,7 @@
 ||kladowa.xyz^
 ||klakus.com^
 ||klasa2a.pl^
+||klaviyo.com^
 ||klclick.com^
 ||klclick1.com^
 ||kld666.com^
@@ -57731,7 +57744,6 @@
 ||lifestreetmedia.com^
 ||lifetimeactivatewasp.com^
 ||lifikurier.com^
-||lift.mediafuse.com^
 ||liftbig-prizes.life^
 ||liftdna.com^
 ||liftoff.io^
@@ -58225,6 +58237,7 @@
 ||livelikesonja.blogspot.com^
 ||livelog.biz^
 ||livelumber.com^
+||livelylaugh.com^
 ||livelyoffers.club^
 ||livenation.122.2o7.net^
 ||livenation.sp1.convertro.com^
@@ -102547,7 +102560,6 @@
 ||www.520click.com^
 ||www.5241.it^
 ||www.5269120.com^
-||www.526f81c32d.com^
 ||www.529collegesaving.com^
 ||www.52b7d78514f3cb9d.com^
 ||www.52homie.cn^
@@ -103453,7 +103465,6 @@
 ||www.ad.admitad.com^
 ||www.ad.denguru.com^
 ||www.ad.gt^
-||www.ad.kisstvshow^
 ||www.ad.net^
 ||www.ad.org.vn^
 ||www.ad.plus^
@@ -104005,7 +104016,6 @@
 ||www.adobur.com^
 ||www.adocean.pl^
 ||www.adochifed.com^
-||www.adoglu.com^
 ||www.adohana.com^
 ||www.adolf.tv^
 ||www.adomic.com^
@@ -105627,7 +105637,6 @@
 ||www.annualconsumersurvey.com^
 ||www.annuncivicini.altervista.org^
 ||www.anomaloustradingmerciful.com^
-||www.anonolpucka.com^
 ||www.anonymous-net.com^
 ||www.anonymousads.com^
 ||www.anotherconsult.com^
@@ -110252,7 +110261,6 @@
 ||www.d18xeid0tdaswq.cloudfront.net^
 ||www.d194f913ee63.com^
 ||www.d19lkhros9wke.cloudfront.net^
-||www.d1a3jb5hjny5s4.cloudfront.net^
 ||www.d1af165twk0zgn.cloudfront.net^
 ||www.d1az0m14mjvs40.cloudfront.net^
 ||www.d1b42iaez29svr.cloudfront.net^
@@ -112034,7 +112042,6 @@
 ||www.easy2date.net^
 ||www.easyad.com^
 ||www.easyads.bg^
-||www.easyads28.info^
 ||www.easyadservice.com^
 ||www.easybrochurecinnamon.com^
 ||www.easybuyfashion.takedrop.pl^
@@ -118173,7 +118180,6 @@
 ||www.javacript.tk^
 ||www.javascriptobfuscator.com^
 ||www.javnasoba.site^
-||www.jawholeminable.com^
 ||www.jaxxenpro.com^
 ||www.jayruinblocked.com^
 ||www.jayshreesilksarees.com^
@@ -120652,7 +120658,6 @@
 ||www.mandat9582.net^
 ||www.mandatoplac.net^
 ||www.mandfs.top^
-||www.mandhes.club^
 ||www.mandistreet.top^
 ||www.mandldental.com^
 ||www.manga-erotico.com^
@@ -124347,7 +124352,6 @@
 ||www.omnitagjs.com^
 ||www.omniture.com^
 ||www.omrolsztyn.neostrada.pl^
-||www.omyourfir.club^
 ||www.on-et1.pl^
 ||www.on-et2.pl^
 ||www.on-et3.pl^
@@ -127417,7 +127421,6 @@
 ||www.pushdy.vn^
 ||www.pushedwebnews.com^
 ||www.pushego.com^
-||www.pushfan.com^
 ||www.pushfullimitsdrunken.com^
 ||www.pushinkaa.com^
 ||www.pushinpage.com^
@@ -132866,7 +132869,6 @@
 ||www.trndsys.mobi^
 ||www.trocado.at^
 ||www.trofeum-zdobywamy.eu^
-||www.tronglyre.club^
 ||www.tronte.xyz^
 ||www.tropicalos.com^
 ||www.tropicanachile.cl^
