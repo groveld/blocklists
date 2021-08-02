@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt
-# Entries: 150615
-# Updated: 2021-08-01 00:21:31 UTC
+# Entries: 150617
+# Updated: 2021-08-02 00:19:34 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -17268,6 +17268,7 @@
 0.0.0.0 am5.vip.prod.criteo.com
 0.0.0.0 am5.vip.prod.criteo.net
 0.0.0.0 am77p.cn
+0.0.0.0 ama.leftwarning.com
 0.0.0.0 amaassn.org
 0.0.0.0 amabadmer.club
 0.0.0.0 amadagasca.com
@@ -102911,6 +102912,7 @@
 0.0.0.0 weaknickgale.icu
 0.0.0.0 wealdso.top
 0.0.0.0 wealthmarketscfd.com
+0.0.0.0 weapfuh.originalriver-tone.top
 0.0.0.0 weaponsboardbriefly.com
 0.0.0.0 weaponsort.club
 0.0.0.0 wearbasin.com

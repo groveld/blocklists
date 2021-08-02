@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt
-! Entries: 150613
-! Updated: 2021-08-01 00:21:46 UTC
+! Entries: 150615
+! Updated: 2021-08-02 00:19:46 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -17268,6 +17268,7 @@
 ||am5.vip.prod.criteo.com^
 ||am5.vip.prod.criteo.net^
 ||am77p.cn^
+||ama.leftwarning.com^
 ||amaassn.org^
 ||amabadmer.club^
 ||amadagasca.com^
@@ -102910,6 +102911,7 @@
 ||weaknickgale.icu^
 ||wealdso.top^
 ||wealthmarketscfd.com^
+||weapfuh.originalriver-tone.top^
 ||weaponsboardbriefly.com^
 ||weaponsort.club^
 ||wearbasin.com^
