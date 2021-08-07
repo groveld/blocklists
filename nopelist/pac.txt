@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/pac.txt
-// Entries: 152502
-// Updated: 2021-08-06 00:19:25 UTC
+// Entries: 152503
+// Updated: 2021-08-07 00:18:10 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -98715,6 +98715,7 @@ var BLOCKLIST = {
 "track.slideshare.net":null,
 "track.smaato.net":null,
 "track.social.com":null,
+"track.software-codes.com":null,
 "track.sohu.com":null,
 "track.spacepush.ru":null,
 "track.span-smt.jp":null,

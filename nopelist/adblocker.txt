@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt
-! Entries: 152502
-! Updated: 2021-08-06 00:19:25 UTC
+! Entries: 152503
+! Updated: 2021-08-07 00:18:10 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -98714,6 +98714,7 @@
 ||track.slideshare.net^
 ||track.smaato.net^
 ||track.social.com^
+||track.software-codes.com^
 ||track.sohu.com^
 ||track.spacepush.ru^
 ||track.span-smt.jp^
