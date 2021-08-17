@@ -6,28 +6,28 @@
 
 |File|Entries|Size|Updated|Hash|
 |-|-|-|-|-|
-|[adblocker](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/adblocker.txt)|161088|3.5M|2021-08-16 00:19:52 UTC|29a67fca80cb40c027281046579f48079880d20bf2879278e133c242fb36acaf|
-|[dnsmasq](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/dnsmasq.txt)|161088|5.7M|2021-08-16 00:19:52 UTC|1a5f022d6eb8975992001cb8430c2f262c4fa9cb6c66baf11e6e6dc611eaf901|
-|[domains](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/domains.txt)|161088|3.1M|2021-08-16 00:19:52 UTC|2fc6f727f1ee759f6cf44297e054eeba3cdc8482ab97fa11088f0c4acda9b728|
-|[hosts](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt)|161088|4.3M|2021-08-16 00:19:52 UTC|a7c1c9581c15cca92888ec4772c6775eb5f2c96bf9919b56b702002447720907|
-|[pac](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/pac.txt)|161088|4.3M|2021-08-16 00:19:52 UTC|ac7a5201c7e05b81693ebf7413dd7d2361a70ab1e8b98c27f7b7e470dce6bc9d|
+|[adblocker](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/adblocker.txt)|158853|3.5M|2021-08-17 00:20:20 UTC|fc7dc6543398cc2bf8b5f0d71c8688ea72606a66e0b0f90a2e8bd09202925281|
+|[dnsmasq](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/dnsmasq.txt)|158853|5.6M|2021-08-17 00:20:20 UTC|b4f69024928c8eeaac15ea54e5c6511d98d4a352c12109ff2d01f0f82fca0ce9|
+|[domains](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/domains.txt)|158853|3.0M|2021-08-17 00:20:20 UTC|7efce286af5791c316080620fc0f06f3abe0ac2fdeeddcf8ac385a85ddf57389|
+|[hosts](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt)|158853|4.2M|2021-08-17 00:20:20 UTC|9ca91fef01d3f359ed64437675554a81331d9e9e225db5fa5fcb6155cc0f6d9b|
+|[pac](https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/pac.txt)|158853|4.2M|2021-08-17 00:20:20 UTC|0bc9ee3b4be04e8e9784fe3771f5597ca940f7b757809ad0e1860331a0f67028|
 
 ### jshq97
 
 |File|Entries|Size|Updated|Hash|
 |-|-|-|-|-|
-|[adblocker](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt)|161088|3.5M|2021-08-16 00:19:57 UTC|76a4e975a9abe3e90ad24c36a12731feb396073284beba056ae57f383fcfdd86|
-|[dnsmasq](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/dnsmasq.txt)|161088|5.7M|2021-08-16 00:19:57 UTC|6fd1c452f1fedee640a902a7eba55ed29387472c55abadbb71b9431b8ad9b6ab|
-|[domains](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/domains.txt)|161088|3.1M|2021-08-16 00:19:57 UTC|c46cfb675f2bf29518b5b4d4722a0a3e4a075319b85fb87407869dccd82fef33|
-|[hosts](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/hosts.txt)|161088|4.3M|2021-08-16 00:19:57 UTC|ea0ab2cf61d6cf928a0c26524c5781ccc2944479381212b4f499970393822114|
-|[pac](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/pac.txt)|161088|4.3M|2021-08-16 00:19:57 UTC|c159797182e4a353938c18caede717eb56289ecee25ae8849d27d571f0d9f52e|
+|[adblocker](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt)|158853|3.5M|2021-08-17 00:20:26 UTC|d08b14bc3aa0a261a1be8112527212ee12cfbc6790bffbe3019ca72361f27e03|
+|[dnsmasq](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/dnsmasq.txt)|158853|5.6M|2021-08-17 00:20:26 UTC|22168305553d5c0c19a34ed062c53f83b0ed5b3b1f844d888a4ef84bfe686afd|
+|[domains](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/domains.txt)|158853|3.0M|2021-08-17 00:20:26 UTC|9738898b65e6bcb5b52db583f7ba9f5fea34ddbbd852e0ce2b0140b390c03ac9|
+|[hosts](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/hosts.txt)|158853|4.2M|2021-08-17 00:20:26 UTC|cef699082538011c475eb62faff1513193daae21c783a97f6805db9ba3846f94|
+|[pac](https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/pac.txt)|158853|4.2M|2021-08-17 00:20:26 UTC|5e854f0c07672f06895273a2575818c8428d152d1fedcbe0547de586dbe616e1|
 
 ### nopelist
 
 |File|Entries|Size|Updated|Hash|
 |-|-|-|-|-|
-|[adblocker](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt)|161086|3.5M|2021-08-16 00:20:02 UTC|b7e7071d80e0fdcf5a240746308f12fb52e88c8a6b8f17afa70b44cb45f04e2a|
-|[dnsmasq](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/dnsmasq.txt)|161086|5.7M|2021-08-16 00:20:02 UTC|5067967125f8887d3dc0fd6e37ce9f51cc2890d68cb3112ac111a8c90f57e2c2|
-|[domains](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/domains.txt)|161086|3.1M|2021-08-16 00:20:02 UTC|16329e41d4874437a2fac7ce4939b1b8877749482faa2b3a34b5b045b7acc605|
-|[hosts](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt)|161086|4.3M|2021-08-16 00:20:02 UTC|cd72b59590f225f83c14ff07eeed5dc791f1c4484ac779bbf77babe5e042c1d8|
-|[pac](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/pac.txt)|161086|4.3M|2021-08-16 00:20:02 UTC|1c6a486424e2ac0b17be02b67ab39204de147523a3c2c6db2f178f16e97ca71a|
+|[adblocker](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt)|158851|3.5M|2021-08-17 00:20:32 UTC|a4f8992fcba64224f3c87310ec4c74f2a68155af82d180cf9e0344ff874c92b3|
+|[dnsmasq](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/dnsmasq.txt)|158851|5.6M|2021-08-17 00:20:32 UTC|862f4b86a2d7257cd9fb63b61652ba2a751ea53c01e65c45124dd1e2b705222e|
+|[domains](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/domains.txt)|158851|3.0M|2021-08-17 00:20:32 UTC|105759aa874c1a3bb14b3878de294cb147e8e3cc601837e07af195546d161ea1|
+|[hosts](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt)|158851|4.2M|2021-08-17 00:20:32 UTC|341c281361a8daa92e32624ed1180731b2cae22a05febfa77baca71920781e6e|
+|[pac](https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/pac.txt)|158851|4.2M|2021-08-17 00:20:32 UTC|4f03dc32b0e7dfd6ddab10338ad056729e13fefaa97a8b69614555106b9b44d7|
