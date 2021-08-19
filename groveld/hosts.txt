@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt
-# Entries: 124492
-# Updated: 2021-08-18 00:19:17 UTC
+# Entries: 124495
+# Updated: 2021-08-19 00:16:41 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -28591,6 +28591,7 @@
 0.0.0.0 collector-195.tvsquared.com
 0.0.0.0 collector-2398.tvsquared.com
 0.0.0.0 collector-428.tvsquared.com
+0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.cliqz.com
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
@@ -28599,6 +28600,7 @@
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
+0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 collector.doordash.com
@@ -124198,6 +124200,7 @@
 0.0.0.0 zina-boutique.com
 0.0.0.0 zintext.com
 0.0.0.0 ziololecznictwo.pl
+0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zionia.com
 0.0.0.0 zip.er.cz
 0.0.0.0 zipitfast.com

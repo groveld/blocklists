@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/pac.txt
-// Entries: 124492
-// Updated: 2021-08-18 00:19:23 UTC
+// Entries: 124495
+// Updated: 2021-08-19 00:16:48 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -28592,6 +28592,7 @@ var BLOCKLIST = {
 "collector-195.tvsquared.com":null,
 "collector-2398.tvsquared.com":null,
 "collector-428.tvsquared.com":null,
+"collector-dev.cdp-dev.cnn.com":null,
 "collector-hpn.cliqz.com":null,
 "collector-px8fcgygk4.px-cloud.net":null,
 "collector-pxel3l4xih.perimeterx.net":null,
@@ -28600,6 +28601,7 @@ var BLOCKLIST = {
 "collector.brandify.com":null,
 "collector.bughd.com":null,
 "collector.capturly.com":null,
+"collector.cdp.cnn.com":null,
 "collector.cint.com":null,
 "collector.deepmetrix.com":null,
 "collector.doordash.com":null,
@@ -124199,6 +124201,7 @@ var BLOCKLIST = {
 "zina-boutique.com":null,
 "zintext.com":null,
 "ziololecznictwo.pl":null,
+"zion-telemetry.api.cnn.io":null,
 "zionia.com":null,
 "zip.er.cz":null,
 "zipitfast.com":null,
