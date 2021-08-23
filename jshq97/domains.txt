@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/domains.txt
-# Entries: 126642
-# Updated: 2021-08-22 00:19:59 UTC
+# Entries: 126644
+# Updated: 2021-08-23 00:18:55 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -17727,6 +17727,7 @@ api.rlcdn.com
 api.rollbar.com
 api.rqa.recorder.duapps.com
 api.rqmob.com
+api.rudderlabs.com
 api.runative.com
 api.safedk.com
 api.safegraph.com
@@ -75081,6 +75082,7 @@ sandrografia.pl
 sandsitedrhec.club
 saniamirza.sexybabesx.com
 sanitwealth.com
+sanity-dataplane.rudderstack.com
 sankakustatic.com
 sankei2ad.durasite.net
 sanl.champssports.com

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/pac.txt
-// Entries: 126642
-// Updated: 2021-08-22 00:19:45 UTC
+// Entries: 126644
+// Updated: 2021-08-23 00:18:48 UTC
 // Website: https://www.groveld.com/blocklists
 // Issues: https://github.com/groveld/blocklists/issues
 
@@ -17728,6 +17728,7 @@ var BLOCKLIST = {
 "api.rollbar.com":null,
 "api.rqa.recorder.duapps.com":null,
 "api.rqmob.com":null,
+"api.rudderlabs.com":null,
 "api.runative.com":null,
 "api.safedk.com":null,
 "api.safegraph.com":null,
@@ -75082,6 +75083,7 @@ var BLOCKLIST = {
 "sandsitedrhec.club":null,
 "saniamirza.sexybabesx.com":null,
 "sanitwealth.com":null,
+"sanity-dataplane.rudderstack.com":null,
 "sankakustatic.com":null,
 "sankei2ad.durasite.net":null,
 "sanl.champssports.com":null,

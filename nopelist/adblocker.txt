@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt
-! Entries: 126640
-! Updated: 2021-08-22 00:20:06 UTC
+! Entries: 126642
+! Updated: 2021-08-23 00:19:00 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -17727,6 +17727,7 @@
 ||api.rollbar.com^
 ||api.rqa.recorder.duapps.com^
 ||api.rqmob.com^
+||api.rudderlabs.com^
 ||api.runative.com^
 ||api.safedk.com^
 ||api.safegraph.com^
@@ -75080,6 +75081,7 @@
 ||sandsitedrhec.club^
 ||saniamirza.sexybabesx.com^
 ||sanitwealth.com^
+||sanity-dataplane.rudderstack.com^
 ||sankakustatic.com^
 ||sankei2ad.durasite.net^
 ||sanl.champssports.com^

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/hosts.txt
-# Entries: 126640
-# Updated: 2021-08-22 00:20:06 UTC
+# Entries: 126642
+# Updated: 2021-08-23 00:19:00 UTC
 # Website: https://www.groveld.com/blocklists
 # Issues: https://github.com/groveld/blocklists/issues
 
@@ -17727,6 +17727,7 @@
 0.0.0.0 api.rollbar.com
 0.0.0.0 api.rqa.recorder.duapps.com
 0.0.0.0 api.rqmob.com
+0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.runative.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.safegraph.com
@@ -75080,6 +75081,7 @@
 0.0.0.0 sandsitedrhec.club
 0.0.0.0 saniamirza.sexybabesx.com
 0.0.0.0 sanitwealth.com
+0.0.0.0 sanity-dataplane.rudderstack.com
 0.0.0.0 sankakustatic.com
 0.0.0.0 sankei2ad.durasite.net
 0.0.0.0 sanl.champssports.com
