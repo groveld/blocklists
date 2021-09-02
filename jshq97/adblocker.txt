@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt
-! Entries: 162821
-! Updated: 2021-09-01 00:20:30 UTC
+! Entries: 162709
+! Updated: 2021-09-02 00:20:34 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -1223,9 +1223,6 @@
 ||1zone1.free.fr^
 ||1zv9jakhux.com^
 ||1zzs6w25i8n.tube.inflatevids.xyz^
-||2-01-2c3e-005c.cdx.cedexis.net^
-||2-01-37d2-0004.cdx.cedexis.net^
-||2-01-37d2-0006.cdx.cedexis.net^
 ||2-art-coliseum.com^
 ||2-easy.com^
 ||2-remove-virus.com^
@@ -2968,7 +2965,6 @@
 ||5pub.com^
 ||5qg9ibt1a6.com^
 ||5qoh.cn^
-||5rocks.io^
 ||5sec.info^
 ||5sms.xyz^
 ||5socks.cn^
@@ -19585,10 +19581,6 @@
 ||apcdn.lijit.com^
 ||apcerpharma.actonservice.com^
 ||apcinfo.motorolasolutions.com^
-||apd-iad2.streamguys.com^
-||apd-ord1.streamguys.com^
-||apd-ord2.streamguys.com^
-||apd-sjc1.streamguys.com^
 ||apdc3n.adpushup.com^
 ||apdigitalorg.112.2o7.net^
 ||apdigitalorgovn.112.2o7.net^
@@ -20613,7 +20605,6 @@
 ||apparentsav.club^
 ||apparest.com^
 ||appbaqend.com^
-||appboot.us-west-2.origin.prodaa.netflix.com^
 ||appboy-images.com^
 ||appboy.com^
 ||appboycdn.com^
@@ -30287,7 +30278,6 @@
 ||cdn.contineljs.com^
 ||cdn.conversant.mgr.consensu.org^
 ||cdn.convertful.com^
-||cdn.cookielaw.org^
 ||cdn.cpaikon.net^
 ||cdn.cpex.cz^
 ||cdn.cpmstar.com^
@@ -31949,7 +31939,6 @@
 ||cityzero.com^
 ||civadsoo.net^
 ||civi.istmejia.com^
-||civicscience.com^
 ||civicskirtblindness.com^
 ||civilhir.net^
 ||civiliargeo.club^
@@ -43888,11 +43877,6 @@
 ||edenhermosa.com^
 ||edesign-agency.com^
 ||edestrathergo.club^
-||edg7-iad-oom-cmg.streamguys1.com^
-||edg7-ord-oom-cmg.streamguys1.com^
-||edg8-iad-oom-cmg.streamguys1.com^
-||edg8-ord-oom-cmg.streamguys1.com^
-||edg9-iad-oom-cmg.streamguys1.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-west.customer.io^
 ||edge.ad1x.com^
@@ -65173,7 +65157,6 @@
 ||linkstorms.com^
 ||linksummary.com^
 ||linkswaper.com^
-||linksys.echo.tzo.com^
 ||linktarget.com^
 ||linkto-ext-hp-com.ct.impactradius.com^
 ||linkto.org^
@@ -80437,6 +80420,7 @@
 ||pangle.io.edgekey.net^
 ||pangolin16.isnssdk.com^
 ||panickycurtain.com^
+||panickypancake.com^
 ||panicshaggy.com^
 ||panie.online^
 ||panieswol.club^
@@ -87286,7 +87270,6 @@
 ||r1.visualwebsiteoptimizer.com^
 ||r1.zedo.com^
 ||r1ztni.oui.sncf^
-||r2---sn-q4fl6nz6.c.2mdn.net^
 ||r2.adwo.com^
 ||r2.cnt.my^
 ||r2.visualwebsiteoptimizer.com^
@@ -90316,7 +90299,6 @@
 ||rum.wpm.neustar.biz^
 ||rumanalytics.com^
 ||rumandcoco.com^
-||rumble.com^
 ||rumcdn.geoedge.be^
 ||rumds.wpdigital.net^
 ||rummyaffiliates.com^
@@ -97853,7 +97835,6 @@
 ||sp.redding.com^
 ||sp.reporternews.com^
 ||sp.rgj.com^
-||sp.rmbl.ws^
 ||sp.sctimes.com^
 ||sp.sheboyganpress.com^
 ||sp.shreveporttimes.com^
@@ -98519,7 +98500,6 @@
 ||srivge.smiggle.com.au^
 ||srkfhl.cn^
 ||srkgs.pl^
-||srmdata-us.com^
 ||srmdata.com^
 ||srng.net^
 ||srnzdl.morhipo.com^
@@ -102972,7 +102952,6 @@
 ||talk.nz.igexin.com^
 ||talk.nz4.igexin.com^
 ||talk99.cn^
-||talkable.com^
 ||talkaxis.com^
 ||talkcity.realtracker.com^
 ||talkfusion.com^
@@ -106622,7 +106601,6 @@
 ||tracker.hitmatic.com^
 ||tracker.icerocket.com^
 ||tracker.idg.co.uk^
-||tracker.idocdn.com^
 ||tracker.iltrovatore.it^
 ||tracker.iws.vc^
 ||tracker.jawcloud.co^
@@ -109838,7 +109816,6 @@
 ||usedexample.com^
 ||usedirect.adsrvr.org^
 ||usedstone.com^
-||usefomo.com^
 ||useful-info.iniks.jp^
 ||useg.nextdigital.com.hk^
 ||useitbetter.com^
@@ -115747,7 +115724,6 @@
 ||www.4007745632.brzegiemziemi.pl^
 ||www.403945863.brzegiemziemi.pl^
 ||www.404errorpage.com^
-||www.404mobi.com^
 ||www.404search.com^
 ||www.404tracker.com^
 ||www.4061.it^
@@ -115897,7 +115873,6 @@
 ||www.51check.com.cn^
 ||www.51dianji.cn^
 ||www.51fuliwang.cn^
-||www.51ginkgo.com^
 ||www.51gpt.com^
 ||www.51gxqm.com^
 ||www.51jumintong.com^
@@ -116858,7 +116833,6 @@
 ||www.activeideas.net^
 ||www.activeindexer.com^
 ||www.activemeter.com^
-||www.activemetering.com^
 ||www.activeoffbracelet.com^
 ||www.activepr.info^
 ||www.activepr.ru^
@@ -116900,7 +116874,6 @@
 ||www.ad-groups.com^
 ||www.ad-indicator.com^
 ||www.ad-link.jp^
-||www.ad-logging2.ap-northeast-2.elasticbeanstalk.com^
 ||www.ad-maven.com^
 ||www.ad-miner.com^
 ||www.ad-net.co.uk^
@@ -117079,8 +117052,6 @@
 ||www.adbreak.ch^
 ||www.adbreak.net^
 ||www.adbrite.com^
-||www.adbrix-cpn-was-prod.ap-northeast-1.elasticbeanstalk.com^
-||www.adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com^
 ||www.adbroker.de^
 ||www.adbrook.com^
 ||www.adbuddiz.com^
@@ -117407,7 +117378,6 @@
 ||www.adledge.com^
 ||www.adlegend.com^
 ||www.adlibr.com^
-||www.adlic.us-west-2.elasticbeanstalk.com^
 ||www.adlift.ru^
 ||www.adligature.com^
 ||www.adlightning.com^
@@ -117570,7 +117540,6 @@
 ||www.adocean.pl^
 ||www.adoftheyear.com^
 ||www.adohana.com^
-||www.adolf.tv^
 ||www.adomic.com^
 ||www.adomik.com^
 ||www.adomv.com^
@@ -118159,7 +118128,6 @@
 ||www.advancedmactools.com^
 ||www.advancedreefaquarium.com^
 ||www.advancedsoftwaresupport.com^
-||www.advancelocal-adapter-image-uploads.s3.amazonaws.com^
 ||www.advancenative.com^
 ||www.advancepak.com^
 ||www.advancets.org^
@@ -119501,7 +119469,6 @@
 ||www.anotherconsult.com^
 ||www.anothere.club^
 ||www.anqpq.cn^
-||www.anquan.org^
 ||www.anquanzhuomian.com^
 ||www.anrdoezrs.net^
 ||www.ansdgaft.site^
@@ -119720,7 +119687,6 @@
 ||www.appn.center^
 ||www.appnext.com^
 ||www.appnexus.com^
-||www.appnexus.net^
 ||www.appodeal.com^
 ||www.appodealx.com^
 ||www.appolicious.com^
@@ -120937,7 +120903,6 @@
 ||www.beis-media.xyz^
 ||www.beiven.pw^
 ||www.beizhoujt.cn^
-||www.bejeweled-skies-prod.elasticbeanstalk.com^
 ||www.bejzz.top^
 ||www.bek5qstfnr.club^
 ||www.beka.pl^
@@ -121281,7 +121246,6 @@
 ||www.bidclix.net^
 ||www.bidder.dev^
 ||www.bidderrtb.com^
-||www.biddingx.com^
 ||www.bidenhascovid19.co^
 ||www.bideronka.is-best.net^
 ||www.bidfilter.com^
@@ -122254,7 +122218,6 @@
 ||www.btchampsapps.com^
 ||www.btcooinssappls.com^
 ||www.btdnav.com^
-||www.btf-analytics.s3.amazonaws.com^
 ||www.btith.com^
 ||www.btmp4.net^
 ||www.btnativedirect.com^
@@ -122318,7 +122281,6 @@
 ||www.buglife.com^
 ||www.bugputrescentdeliberately.com^
 ||www.bugsbanner.it^
-||www.bugsee-api-prod.elasticbeanstalk.com^
 ||www.bugsense.com^
 ||www.bugsphnhl.com^
 ||www.buigiaphat.com.vn^
@@ -122950,11 +122912,6 @@
 ||www.cbibhbghgdjbbageabd.ru^
 ||www.cbleads.com^
 ||www.cbn.ru^
-||www.cbola-ads-1-t3.us-east-1.elasticbeanstalk.com^
-||www.cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com^
-||www.cbola-content-1-t3.us-east-1.elasticbeanstalk.com^
-||www.cbola-logging-1-t3.us-east-1.elasticbeanstalk.com^
-||www.cbola-psa.us-east-1.elasticbeanstalk.com^
 ||www.cbproads.com^
 ||www.cbsileads.com^
 ||www.cbtopsites.com^
@@ -123249,12 +123206,10 @@
 ||www.charnosygenus.com^
 ||www.chart.dk^
 ||www.chartaca.com^
-||www.chartbeat-sdk.s3.amazonaws.com^
 ||www.chartbeat.com^
 ||www.chartboost.com^
 ||www.chartboosts.com^
 ||www.chartercare.plus.com^
-||www.chartiq-client-prod.s3.amazonaws.com^
 ||www.chasedeposition.com^
 ||www.chaseonline.com^
 ||www.chasteminihaunting.com^
@@ -123795,7 +123750,6 @@
 ||www.clickunfit.com^
 ||www.clickvalidator.net^
 ||www.clickvip.ru^
-||www.clickwallads.s3.amazonaws.com^
 ||www.clickwinks.com^
 ||www.clickx.io^
 ||www.clickxchange.com^
@@ -124195,7 +124149,6 @@
 ||www.competivityapp.com^
 ||www.compiletormentboats.com^
 ||www.compitte.com^
-||www.complementics.com^
 ||www.completedmisunderstand.com^
 ||www.complicatedgeneratelens.com^
 ||www.complicatedtelegraph.com^
@@ -125029,7 +124982,6 @@
 ||www.cudalbapt.com^
 ||www.cudforhim.com^
 ||www.cue4you.nl^
-||www.cuebiq.com^
 ||www.cuelinks.com^
 ||www.cueyetwee.site^
 ||www.cufcw.com^
@@ -127409,7 +127361,6 @@
 ||www.dhdtk67w1eua6.cloudfront.net^
 ||www.dhe09zz3ayx3p.cloudfront.net^
 ||www.dhenr54m.com^
-||www.dhg-logging.us-east-1.elasticbeanstalk.com^
 ||www.dhhfxb5eyj88f.cloudfront.net^
 ||www.dhi9ksq8khea1.cloudfront.net^
 ||www.dhl-costumers.net^
@@ -128368,8 +128319,6 @@
 ||www.duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz^
 ||www.duft-punk.xyz^
 ||www.dugtor-deer.pw^
-||www.dui88.com^
-||www.duiba.com.cn^
 ||www.duidefenseattorneyssandiego.com^
 ||www.duiwcg72w56ze.cloudfront.net^
 ||www.duiwt2cohxq6z.cloudfront.net^
@@ -128976,7 +128925,6 @@
 ||www.ehg-rr.hitbox.com^
 ||www.ehnjtmqchrub.com^
 ||www.ehu96t2p.com^
-||www.ei-event-collector.us-east-1.elasticbeanstalk.com^
 ||www.eiasia.ltd^
 ||www.eidsign.com.cn^
 ||www.eieocp6mdu59.com^
@@ -129598,7 +129546,6 @@
 ||www.evemasoil.com^
 ||www.evenescapenavy.com^
 ||www.evenffext.com^
-||www.evening-badlands-6215.herokuapp.com^
 ||www.event-reporting-dot-webylytics.appspot.com^
 ||www.event-tracking.com^
 ||www.eventcapture03.com^
@@ -131479,7 +131426,6 @@
 ||www.fusenz.xyz^
 ||www.fusepsywi.com^
 ||www.fusestats.com^
-||www.fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com^
 ||www.fusionads.net^
 ||www.fusionbanners.com^
 ||www.fusionquest.com^
@@ -133929,7 +133875,6 @@
 ||www.homesicktitanic.com^
 ||www.homewares.org^
 ||www.homeyloanedmes.work^
-||www.homify.com.mx^
 ||www.hommunit.com^
 ||www.homrdepot.com^
 ||www.homrus.net^
@@ -134165,7 +134110,6 @@
 ||www.hrnecek.com^
 ||www.hrsstrokecocoon.com^
 ||www.hruoxpcwlns0b.bar^
-||www.hrzn-nxt.com^
 ||www.hs-analytics.net^
 ||www.hsbc-international.com^
 ||www.hsbkr.com^
@@ -134498,7 +134442,6 @@
 ||www.icityfind.com^
 ||www.icjceddecjdgbaaaafc.ru^
 ||www.iclckk.com^
-||www.iclickyou.com^
 ||www.iclsas.com^
 ||www.icmarkets-zhg.cn^
 ||www.icmlfqdb.com^
@@ -134516,7 +134459,6 @@
 ||www.icyrd.com^
 ||www.id-appie.com^
 ||www.id-visitors.com^
-||www.id1.cn.com^
 ||www.id28197153.xyz^
 ||www.id3103.com^
 ||www.id3439549515.xyz^
@@ -134629,13 +134571,11 @@
 ||www.igame4free.com^
 ||www.igameunion.com^
 ||www.igaming.biz^
-||www.igaworks.com^
 ||www.igcdnnu.com^
 ||www.igeraplocma.ga^
 ||www.igetsend.ru^
 ||www.igg.biz^
 ||www.igmholdings.com^
-||www.ignifyecom.s3.amazonaws.com^
 ||www.ignitad.com^
 ||www.ignitioninstaller.com^
 ||www.ignitiontigercamera.com^
@@ -134739,7 +134679,6 @@
 ||www.im2-tub.com^
 ||www.im2ss2ss.top^
 ||www.im6-tub.com^
-||www.ima3vpaid.appspot.com^
 ||www.imads.ero-advertising.com^
 ||www.image-rentracks.com^
 ||www.imagecash.net^
@@ -134838,7 +134777,6 @@
 ||www.imrworldwide.com.au^
 ||www.imstks.com^
 ||www.imwinnerkur.com^
-||www.imwx.com^
 ||www.in-appadvertising.com^
 ||www.in-post.su^
 ||www.in-star.videoplaza.tv^
@@ -134879,7 +134817,6 @@
 ||www.includepurple.com^
 ||www.incognitosearches.com^
 ||www.income88.com^
-||www.incoming-data-sense360.s3.amazonaws.com^
 ||www.incompatiblemisterfarmer.com^
 ||www.incompetentsummitseparation.com^
 ||www.incomposeced.xyz^
@@ -135941,7 +135878,6 @@
 ||www.ironypestilenthelp.com^
 ||www.irotradex.com^
 ||www.irpost.net^
-||www.irr.ru^
 ||www.irregularstronger.com^
 ||www.irreparablebench.com^
 ||www.irresponsibleclassplunge.com^
@@ -135952,7 +135888,6 @@
 ||www.irs01.net^
 ||www.irs09.com^
 ||www.iruad.com^
-||www.is-tracking-pixel-api-prod.appspot.com^
 ||www.is1.clixgalore.com^
 ||www.isabellstudio.com.pl^
 ||www.isanalyze.com^
@@ -135982,7 +135917,6 @@
 ||www.isonlynews.net^
 ||www.isparkmedia.com^
 ||www.ispeakvideo.ru^
-||www.ispot.tv^
 ||www.isralink.net^
 ||www.isrealdating2you.com^
 ||www.issuesconsultationsocially.com^
@@ -136020,7 +135954,6 @@
 ||www.itdept.moonfruit.com^
 ||www.itdise.info^
 ||www.itemccmod.com^
-||www.iteratehq.com^
 ||www.itfarm.com^
 ||www.itgear.jp^
 ||www.ithaibap.com^
@@ -136902,7 +136835,6 @@
 ||www.kefan.info^
 ||www.kegsandremembrance.com^
 ||www.kehalim.com^
-||www.kejet.net^
 ||www.kekuko.com^
 ||www.kelburninvestment.com^
 ||www.kelder.nl^
@@ -136920,7 +136852,6 @@
 ||www.keqrd.top^
 ||www.kerebro.com^
 ||www.kerg.net^
-||www.kerio-push-gateway-prod.elasticbeanstalk.com^
 ||www.kesevitamus.com^
 ||www.ketads.com^
 ||www.ketaoke.com^
@@ -137675,7 +137606,6 @@
 ||www.largeordier.fun^
 ||www.largetfar.ga^
 ||www.largetfarge.ml^
-||www.largosoft.co.kr^
 ||www.larissalinhares.com.br^
 ||www.larivieracasino.com^
 ||www.larkashivy.work^
@@ -139109,7 +139039,6 @@
 ||www.macleaner.space^
 ||www.macombdisplayads.com^
 ||www.maconbraves.com^
-||www.macromill.com^
 ||www.mad-adz.com^
 ||www.madadsmedia.com^
 ||www.madamesklep.com.pl^
@@ -140037,7 +139966,6 @@
 ||www.mgage.com^
 ||www.mgcash.com^
 ||www.mgcashgate.com^
-||www.mgd-adengine.elasticbeanstalk.com^
 ||www.mgid.com^
 ||www.mgjmp.com^
 ||www.mglsk.com^
@@ -140201,7 +140129,6 @@
 ||www.miniklixk.org^
 ||www.miniling.cn^
 ||www.minimizeglanceanyway.com^
-||www.minimob.com^
 ||www.minimumgold.com^
 ||www.minimumkilledupdated.com^
 ||www.minimumpay.info^
@@ -140412,7 +140339,6 @@
 ||www.mobicont.com^
 ||www.mobicow.com^
 ||www.mobicpi.com^
-||www.mobidea.com^
 ||www.mobidump.com^
 ||www.mobifobi.com^
 ||www.mobila.pl^
@@ -140493,7 +140419,6 @@
 ||www.mobtyb.com^
 ||www.mobusi.com^
 ||www.mobverify.com^
-||www.mobvista.com^
 ||www.mobylog.jp^
 ||www.mobyrol.com^
 ||www.mobyt.com^
@@ -140988,7 +140913,6 @@
 ||www.murkymouse.online^
 ||www.mus.titul-invest.site^
 ||www.musclespuffyextraordinary.com^
-||www.musculahq.appspot.com^
 ||www.muscularstraight.com^
 ||www.mushroomresolved.com^
 ||www.music611.com^
@@ -141832,7 +141756,6 @@
 ||www.newpost.support^
 ||www.newpozhta.xyz^
 ||www.newproj-pge.info^
-||www.newrelic.map.fastly.net^
 ||www.newrrb.bid^
 ||www.newrutor.eu.org^
 ||www.newrutor.org.pl^
@@ -143698,7 +143621,6 @@
 ||www.onegalact.com^
 ||www.oneimpress.io^
 ||www.oneinvestfond.online^
-||www.onelnk.com^
 ||www.onemed.com.pl^
 ||www.onemerelyingisr.club^
 ||www.onemontay.ru^
@@ -143990,7 +143912,6 @@
 ||www.opt-intelligence.com^
 ||www.opt-n.net^
 ||www.optad360.com^
-||www.optaim.com^
 ||www.opteama.com^
 ||www.opteamizer.co.il^
 ||www.opten.hu^
@@ -146040,7 +145961,6 @@
 ||www.pocitadlo.cz^
 ||www.pocitadlo.sk^
 ||www.pocketing.site^
-||www.pocketmath.com^
 ||www.pocketmyponstar.com^
 ||www.pockztresmde.cabanova.com^
 ||www.poczatkibywajatrudne.online^
@@ -146976,7 +146896,6 @@
 ||www.producingsavourestablish.com^
 ||www.productcatalog.cn^
 ||www.producthub.info^
-||www.production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com^
 ||www.productopinionpanel.com^
 ||www.productoslaesperanza.co^
 ||www.productresearchpanel.com^
@@ -147360,7 +147279,6 @@
 ||www.pubpress.net^
 ||www.pubrain.com^
 ||www.pubstack.io^
-||www.pubstatus.sinaapp.com^
 ||www.pubted.com^
 ||www.pubwise.io^
 ||www.pubxtag1.com^
@@ -147463,7 +147381,6 @@
 ||www.pushible.com^
 ||www.pushify.com^
 ||www.pushinkaa.com^
-||www.pushnami.com^
 ||www.pushnews.org^
 ||www.pushosub.com^
 ||www.pushosubk.com^
@@ -148242,7 +148159,6 @@
 ||www.redemw.com^
 ||www.redewdit.pro^
 ||www.redexchange.net^
-||www.redfast.com^
 ||www.redfastlabs.com^
 ||www.redflu.ru^
 ||www.redhotchilli.co.uk^
@@ -149044,7 +148960,6 @@
 ||www.rqjhhg.cn^
 ||www.rrsubway.com^
 ||www.rrtcfwmvhs.com^
-||www.rs-xpromotion.appspot.com^
 ||www.rs.ero-advertising.com^
 ||www.rs.top-daily-profit.com^
 ||www.rs0.co.uk^
@@ -149730,7 +149645,6 @@
 ||www.secmyityr.com^
 ||www.secondchancecoaching.com^
 ||www.secondlyversions.com^
-||www.secondstreetapp.com^
 ||www.secondstreetmedia.com^
 ||www.secrecycommotionaspirin.com^
 ||www.secret-flirtcontact.com^
@@ -149852,7 +149766,6 @@
 ||www.seevolution.com^
 ||www.seewhochecked.com^
 ||www.sefsdvc.com^
-||www.segmentapis.com^
 ||www.segmentify.com^
 ||www.segmetrics.io^
 ||www.segob.gob.mx^
@@ -151026,7 +150939,6 @@
 ||www.snack-media.com^
 ||www.snaglighter.com^
 ||www.snap.cba.pl^
-||www.snapabug.appspot.com^
 ||www.snapchang.blogspot.com^
 ||www.snapchat-save.blogspot.com^
 ||www.snapgiant.com^
@@ -152155,7 +152067,6 @@
 ||www.super-nagroda.click^
 ||www.super-slodycze.click^
 ||www.super8service.de^
-||www.superad2.com.sg^
 ||www.superadexchange.com^
 ||www.superbanner.org^
 ||www.superbao.top^
@@ -152256,10 +152167,8 @@
 ||www.surpluspilotage.com^
 ||www.surprisecub.com^
 ||www.surrendersonnygram.com^
-||www.survata.com^
 ||www.surveillancelandmorgue.com^
 ||www.survey-poll.com^
-||www.surveygizmobeacon.s3.amazonaws.com^
 ||www.surveyingaltitude.com^
 ||www.surveynetworks.com^
 ||www.surveypass.com^
@@ -152692,13 +152601,11 @@
 ||www.tapsense.com^
 ||www.tapstat.ru^
 ||www.tapstream.com^
-||www.taptica.com^
 ||www.taptyvexy.pro^
 ||www.tapxchange.com^
 ||www.tardangro.com^
 ||www.targad.de^
 ||www.target.cm^
-||www.target2sell.com^
 ||www.targetan.com^
 ||www.targeted-banners.com^
 ||www.targeterra.info^
@@ -152743,7 +152650,6 @@
 ||www.tbtrck.com^
 ||www.tbv157xq.com^
 ||www.tbwysx.cn^
-||www.tc-bic.appspot.com^
 ||www.tc-clicks.com^
 ||www.tc600.com^
 ||www.tcactivity.net^
@@ -152932,7 +152838,6 @@
 ||www.tencoconsulting.com^
 ||www.tenczas.biz^
 ||www.tend-new.com^
-||www.tend.io^
 ||www.tengofoxfiles.com^
 ||www.tengoksebelah.blogspot.com^
 ||www.tengrinews.co^
@@ -153186,7 +153091,6 @@
 ||www.thenorthfacesklep.com^
 ||www.theoddbudstore.com^
 ||www.theonecdn.com^
-||www.theoremreach.com^
 ||www.theotime.net^
 ||www.thepacifica-group.com^
 ||www.thepacificagroup.com^
@@ -153227,7 +153131,6 @@
 ||www.theteamcenter.site^
 ||www.theteenxxx.com^
 ||www.thethaofb88.com^
-||www.thetimmedia.site^
 ||www.thetop.be^
 ||www.thetop10.com^
 ||www.thetraderinpajamas.com^
@@ -153871,7 +153774,6 @@
 ||www.toy-offer.net^
 ||www.toy.onlinekid.club^
 ||www.toysvestigetramp.com^
-||www.tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com^
 ||www.tp1jcgl644jk.com^
 ||www.tp88trk.com^
 ||www.tpbid.com^
@@ -154278,7 +154180,6 @@
 ||www.triflelatch.com^
 ||www.triflingbluffybluffy.com^
 ||www.trigami.com^
-||www.triggeredmail.appspot.com^
 ||www.triggeredmessaging.com^
 ||www.triggerinstalls.com^
 ||www.triggit.com^
@@ -154412,8 +154313,6 @@
 ||www.ts-ads.icu^
 ||www.ts-ads.info^
 ||www.ts-shimada.com^
-||www.ts-tracker-env-2.us-east-1.elasticbeanstalk.com^
-||www.ts-tracker-env.us-east-1.elasticbeanstalk.com^
 ||www.ts166.net^
 ||www.tsbluebox.com^
 ||www.tsbm.ch^
@@ -154526,7 +154425,6 @@
 ||www.tutelatechnologies.com^
 ||www.tutese.com.cn^
 ||www.tutka.net^
-||www.tutoads.tv^
 ||www.tutop.com^
 ||www.tuttosessogratis.org^
 ||www.tutvp.com^
@@ -154920,7 +154818,6 @@
 ||www.umengcloud.com^
 ||www.umjsik.com^
 ||www.umm6.cn^
-||www.umtrack.com^
 ||www.unableincludingrow.com^
 ||www.unablewisdom.com^
 ||www.unacceptableclevercapable.com^
@@ -154978,7 +154875,6 @@
 ||www.unifini.de^
 ||www.unikuni.com^
 ||www.unilz588.com^
-||www.unimhk.com^
 ||www.unionleisurewear.com^
 ||www.unionsformalclearance.com^
 ||www.unionssoothe.com^
@@ -155172,8 +155068,6 @@
 ||www.urzadzamy.click^
 ||www.urzadzeniawgastro.com.pl^
 ||www.urzedy9.net^
-||www.us-central1-adaptive-growth.cloudfunctions.net^
-||www.us-central1-production-242307.cloudfunctions.net^
 ||www.us-choicevalue.com^
 ||www.us-topsites.com^
 ||www.us-u.openx.net^
@@ -155205,7 +155099,6 @@
 ||www.usenetpassport.com^
 ||www.useproof.com^
 ||www.user-agent-tracker.herokuapp.com^
-||www.user-event-tracker-prod.us-east-1.elasticbeanstalk.com^
 ||www.user-shield.com^
 ||www.useracici.com^
 ||www.userator.ru^
@@ -155639,7 +155532,6 @@
 ||www.videogamerewardscentral.com^
 ||www.videogenetic.com^
 ||www.videohub.com^
-||www.videohub.tv^
 ||www.videohube.eu^
 ||www.videoklass.ru^
 ||www.videologygroup.com^
@@ -155916,7 +155808,6 @@
 ||www.vn88.com^
 ||www.vnacdnryl.com^
 ||www.vneffwecka.com^
-||www.vnet.cn^
 ||www.vnldaly8r5.com^
 ||www.vnloto.com^
 ||www.vnloto.vip^
@@ -157151,7 +157042,6 @@
 ||www.wooptrk.com^
 ||www.wootmedia.net^
 ||www.wootmyrilk.xyz^
-||www.wootric-eligibility.herokuapp.com^
 ||www.wootuckedpole.com^
 ||www.woowhaiz.net^
 ||www.wopolu.xyz^
@@ -157261,7 +157151,6 @@
 ||www.wppluginspro.com^
 ||www.wppolska.waw.pl^
 ||www.wprost-news.pl^
-||www.wpsconfig4svr.elasticbeanstalk.com^
 ||www.wpunkcie.pl^
 ||www.wpxn.com^
 ||www.wqgdajjozr.com^
@@ -158822,7 +158711,6 @@
 ||www.zhivalley.cn^
 ||www.zhixiuchang.com^
 ||www.zhizhunbao.top^
-||www.zhiziyun.com^
 ||www.zhjfad.com^
 ||www.zhmatou.com^
 ||www.zhmyq.cn^
