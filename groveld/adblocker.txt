@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/adblocker.txt
-! Entries: 166967
-! Updated: 2021-09-11 00:20:59 UTC
+! Entries: 166969
+! Updated: 2021-09-12 00:22:31 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -57835,6 +57835,7 @@
 ||ihjtrncfoha.com^
 ||ihm01.ct2.comclick.com^
 ||ihmnnz.flo.com.tr^
+||ihogaetw.com^
 ||ihracat.myq-see.com^
 ||ihreapotheken.de^
 ||ihrwd.com^
@@ -80051,6 +80052,7 @@
 ||onclkds.com^
 ||oncoclinicas.actonservice.com^
 ||oncourselearning.actonservice.com^
+||onctus.com^
 ||oncustomer.asia^
 ||ondayswr.club^
 ||ondergroot.xyz^
