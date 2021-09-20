@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/nopelist/adblocker.txt
-! Entries: 167822
-! Updated: 2021-09-19 00:22:00 UTC
+! Entries: 167820
+! Updated: 2021-09-20 00:23:00 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -718,7 +718,6 @@
 ||118605-5437.link.iwanttodeliver.com^
 ||1188.api.swrve.com^
 ||1188.content.swrve.com^
-||1188.lv^
 ||11954.filter.bullhornsearch.com^
 ||11alivenews.com^
 ||11bet.com^
@@ -117646,7 +117645,6 @@
 ||www.1126bet.com^
 ||www.1154629316.parafiagoscino.pl^
 ||www.1168f6695f.kacwyb.pl^
-||www.1188.lv^
 ||www.11bet.com^
 ||www.11bet.net^
 ||www.11hour.com^
