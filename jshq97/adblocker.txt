@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/blocklists/lists/jshq97/adblocker.txt
-! Entries: 168146
-! Updated: 2021-09-21 00:19:21 UTC
+! Entries: 168148
+! Updated: 2021-09-22 00:21:58 UTC
 ! Website: https://www.groveld.com/blocklists
 ! Issues: https://github.com/groveld/blocklists/issues
 
@@ -49106,6 +49106,7 @@
 ||fireads.pl^
 ||firebanner.com^
 ||firebase-settings.crashlytics.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebid.pl^
 ||firebulletfan.com^
@@ -134365,6 +134366,7 @@
 ||www.fireads.online^
 ||www.fireads.pl^
 ||www.firebanner.com^
+||www.firebaselogging-pa.googleapis.com^
 ||www.firebaselogging.googleapis.com^
 ||www.firebid.pl^
 ||www.firecash.org^
